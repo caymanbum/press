@@ -1,4 +1,4 @@
-# Eliot will need to transition the Iguana 6 code base to a new build system - the same one he designed for Iguana X. It one of the many changes required to make the Iguana code base easier to work with.
+# Build System Modernization
 
 Eliot will need to transition the Iguana 6 codebase to a new build system—specifically, the same system he previously designed for Iguana X. This change is a critical step in a broader initiative to modernize and streamline the Iguana development workflow. The current build system for Iguana 6 is outdated, cumbersome, and unable to efficiently handle the growing complexity of the project. Eliot can reduce friction in the development process and improve CI/CD integration, cross-platform compatibility, and maintainability.
 
