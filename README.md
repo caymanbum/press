@@ -9,3 +9,5 @@ However, despite its stability and user satisfaction, it is essential that we up
 For these reasons, Iguana 6.3 Classic will be a mandatory upgrade for all enterprise customers, with particular emphasis on those handling significant volumes of PHI. This update ensures continued protection of sensitive information, reduces organizational risk, and positions our customers to meet current and future compliance obligations with confidence.
 
 In summary, while Iguana 6.1.5 remains unrivaled for its robust performance, the 6.3 Classic release is a proactive step to maintain our commitment to security, compliance, and customer trust, safeguarding both our users and the patients whose data they manage.
+
+- [Plan](plan.md)
