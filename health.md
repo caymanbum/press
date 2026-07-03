@@ -8,4 +8,4 @@ Nevertheless, Eliot’s lived experience, commitment to his family, and strong e
 
 With this in mind, it would be appreciated if customers could recognize that Eliot, like anyone, is a human being overcoming significant life circumstances.
 
-Eliot is howwever [uniquely qualified](qualifications.md) for the work which needs to be done.
+Eliot is however [uniquely qualified](qualifications.md) for the work which needs to be done.
