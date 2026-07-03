@@ -8,5 +8,5 @@ This new model enables Eliot to concentrate on his core strengths and areas of e
 
 By leveraging the capabilities of trusted external partners, Eliot can dedicate himself to high-impact work and continue building a legacy that stands the test of time.
 
-He will need the support of the Iguana community for this effort though.  [Testing a real challenge](testing.md).
+He will need the support of the Iguana community for this effort though - [testing a real challenge](testing.md).
 
