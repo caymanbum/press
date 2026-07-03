@@ -7,3 +7,5 @@ The legacy testing framework for Iguana 6 has historically been difficult to wor
 To ensure the success and timely delivery of this project, it is essential to have access to a wide variety of real-world configurations from classic Iguana users. This comprehensive coverage will help us identify issues early and maintain the quality expected by our user community.
 
 Without this community support, this project will take a long time.
+
+But with support it could go relatively quickly.
