@@ -1,0 +1,5 @@
+# Quiet
+
+Over time, it became increasingly apparent to Eliot that the traditional structure of his company posed significant challenges. One of the main issues he encountered was the difficulty of having open and honest conversations with his customers. Often, cultural differences and unspoken expectations stood in the way, creating barriers that were hard to break down. These issues were further compounded by misaligned incentives within the company itself, which discouraged transparency and collaboration rather than fostering them.
+
+As a result, Eliot found it incredibly hard to steer his business in the direction he envisioned. Without clear communication, it was almost impossible to understand his customers' true needs or to build the trust necessary for meaningful progress. The existing system, with its rigid hierarchy and ingrained customs, seemed to hinder rather than help the company's growth. This realization weighed heavily on Eliot, who began to question how much could really be achieved in such an environment and what changes might be necessary to create the open, purpose-driven culture he desired.
