@@ -15,6 +15,6 @@ His legacy is marked by record-breaking sales, billion-dollar value partnerships
 Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud enough to call him a partner.
 
 **Contact:**  
-Phone: +1 647 376 3179
+Phone: +1 647 376 3179 
 LinkedIn: [https://www.linkedin.com/in/paultgannon/](https://www.linkedin.com/in/paultgannon/)
 
