@@ -8,4 +8,4 @@ Nevertheless, Eliot’s lived experience, commitment to his family, and strong e
 
 With this in mind, it would be appreciated if customers could recognize that Eliot, like anyone, is a human being overcoming significant life circumstances.
 
-To achieve the focus needed Eliot realised he needed to change the [organizational structure](structure.md).
+Eliot is howwever [uniquely qualified](qualifications.md) for the work which needs to be done.
