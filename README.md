@@ -10,4 +10,4 @@ For these reasons, Iguana 6.3 Classic will be a mandatory upgrade for all enterp
 
 In summary, while Iguana 6.1.5 remains unrivaled for its robust performance, the 6.3 Classic release is a proactive step to maintain our commitment to security, compliance, and customer trust, safeguarding both our users and the patients whose data they manage.
 
-- [Plan](plan.md)
+Let's read through the [Plan](plan.md).
