@@ -1,6 +1,6 @@
 # Chameleon depends on Delphi 4.0
 
-The GUI to Chameleon which is an integral part of Iguana 6 is implemented in Delphi 4.  Solving this will problem will probably need back porting of a new HL7 framework for HL7 that Eliot invented for Iguana X.
+The GUI to Chameleon which is an integral part of Iguana 6 is implemented in Delphi 4.  Solving this will problem will probably need back porting of a new HL7 framework that Eliot invented for Iguana X.
 
 Delphi 4, was once a highly popular rapid application development (RAD) environment for Windows, was officially retired in 2001 after just a few years on the market. Released by Borland in 1998, Delphi 4 quickly became outdated as new Delphi versions emerged—each offering enhanced features, improved stability, and better performance. By the time Windows 2000 and XP were widely adopted, Delphi 4 had become increasingly incompatible with modern operating systems. Not only did platform changes break older applications, but third-party component and library support shifted towards new versions, making it nearly impossible to maintain or extend projects built with Delphi 4.
 
