@@ -24,8 +24,6 @@ The goal is not merely prettier code. The goal is code that is simpler, safer, e
 
 ## Code/Signing Encryption
 
-Code Encryption and Signing Tool
-
 Eliot will provide a code encryption and signing tool that affiliates can use to protect their own intellectual property when working with clients.
 
 Affiliates should not have to give away valuable reusable integration patterns simply because they are used in a client project. The tool creates a clear boundary between client-owned code and proprietary affiliate code.
