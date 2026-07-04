@@ -1,6 +1,6 @@
 # Affiliate Business Model for iNTERFACEWARE
 
-Our **Affiliate Business Model** is designed for organizations whose requirements go beyond acquiring a high-quality product at a fair price and engaging in straightforward interactions with Eliot. We recognize that some clients operate in highly regulated environments or have complex internal procurement protocols that demand a more comprehensive partnership.
+Our **Affiliate Business Model** is designed for organizations whose requirements go beyond acquiring a high-quality product at a fair price and engaging in straightforward interactions with Eliot as a sole proprieter. We recognize that some clients operate in highly regulated environments or have complex internal procurement protocols that demand a more comprehensive partnership.
 
 Within this framework, affiliates are empowered to deliver a higher degree of service and specialized support for clients needing attention beyond the scope of our standard offerings. Common scenarios include:
 
