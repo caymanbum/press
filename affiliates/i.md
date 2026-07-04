@@ -1,12 +1,12 @@
 # Affiliate Business Model for iNTERFACEWARE
 
-Our **Affiliate Business Model** is designed for organizations whose requirements go beyond acquiring a high-quality product at a fair price and engaging in straightforward interactions with Eliot. We recognize that some clients operate in highly regulated environments or have complex internal procurement protocols that demand a more comprehensive partnership.
+Our **Affiliate Business Model** is designed for organizations whose requirements go beyond acquiring a high-quality product at a fair price and engaging in straightforward interactions with Eliot as a sole proprieter. We recognize that some clients operate in highly regulated environments or have complex internal procurement protocols that demand a more comprehensive partnership.
 
 Within this framework, affiliates are empowered to deliver a higher degree of service and specialized support for clients needing attention beyond the scope of our standard offerings. Common scenarios include:
 
 - **Assistance with Complex Procurement Processes:** For organizations navigating detailed or intricate procurement requirements—such as extensive documentation, industry-specific compliance, or additional verification steps (e.g., [ESG paperwork](esg.md) or similar)—our affiliates have the expertise to guide you through these challenges efficiently and accurately.
 
-- **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.
+- **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.  People need [code](code.md) written.
 
 - **Tailored Service Level Agreements (SLAs):** For clients seeking elevated or more granular support, affiliates can design bespoke SLAs with detailed response times, escalation protocols, and performance guarantees for greater operational confidence.
 
