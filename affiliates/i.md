@@ -15,6 +15,6 @@ By leveraging our affiliate network, iNTERFACEWARE ensures that even the most de
 ---
 
 **Please note:**  
-In the past, some clients grew accustomed to iNTERFACEWARE dedicating significant internal resources to accommodate the unique challenges of their operations—often extending beyond the scope of standard support. With our Affiliate Business Model, affiliates are independent businesses and will charge appropriate fees for additional services and the extra resources required to support your organization's specific choices and requirements.
+In the past, some clients grew accustomed to iNTERFACEWARE dedicating significant internal resources to accommodate the unique challenges of their operations—often extending beyond the scope of standard support. With our Affiliate Business Model, affiliates are independent businesses and will charge appropriate fees for additional services and the extra resources required to support your organization's specific choices and requirements.  See [pricing](pricing.md).
 
 [Paul Gannon](../paul.md) is one example of such an affiliate.
