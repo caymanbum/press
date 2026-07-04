@@ -22,6 +22,18 @@ It would apply one improvement at a time, transparently showing the user what ch
 
 The goal is not merely prettier code. The goal is code that is simpler, safer, easier to maintain, and easier for customers and consultants to trust.
 
+## Code/Signing Encryption
+
+Code Encryption and Signing Tool
+
+Eliot will provide a code encryption and signing tool that affiliates can use to protect their own intellectual property when working with clients.
+
+Affiliates should not have to give away valuable reusable integration patterns simply because they are used in a client project. The tool creates a clear boundary between client-owned code and proprietary affiliate code.
+
+The arrangement must be transparent: the client, the affiliate, and Eliot should all understand who owns what and who may read, run, modify, reuse, or redistribute it.
+
+Shared code does not mean unrestricted rights. Access and ownership should reflect the business context.
+
 ## Migration Support
 
 These tools are not only vital for developing new integrations under the [affiliate](i.md) model but are also indispensable for clients migrating existing code to newer, more secure versions of Iguana. Comprehensive tracing and profiling ensure code migrations are smooth, robust, and minimize unexpected behavior, ultimately paving the way for a seamless transition to the latest platform features and security enhancements.
