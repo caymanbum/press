@@ -1,6 +1,6 @@
 # How Affiliates Work with Eliot
 
-Eliot highly values transparent and honest relationships with his affiliates. His approach is grounded in integrity and open communication to ensure success for all parties involved.
+Eliot highly values transparent and honest relationships with his [affiliates](i.md). His approach is grounded in integrity and open communication to ensure success for all parties involved.
 
 Transparency, especially around pricing, is fundamental. Clients should always have a clear understanding of any markups for services such as ECG questionnaires, compliance paperwork, and other requirements. By being open about these costs, we foster trust and lay the foundation for long-term collaboration.
 
