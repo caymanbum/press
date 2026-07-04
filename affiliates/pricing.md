@@ -2,7 +2,7 @@
 
 Eliot highly values transparent and honest relationships with his [affiliates](i.md). His approach is grounded in integrity and open communication to ensure success for all parties involved.
 
-Transparency, especially around pricing, is fundamental. Clients should always have a clear understanding of any markups for services such as ECG questionnaires, compliance paperwork, and other requirements. By being open about these costs, we foster trust and lay the foundation for long-term collaboration.
+Transparency, especially around pricing, is fundamental. Clients should always have a clear understanding of any markups for services such as ESG questionnaires, compliance paperwork, and other requirements. By being open about these costs, we foster trust and lay the foundation for long-term collaboration.
 
 To further enable a reliable and seamless process, Eliot generally requests read-only access to affiliate intermediary bank accounts that are set up to receive payments. This step is taken solely to maintain transparency and to ensure all transactions are managed efficiently.
 
