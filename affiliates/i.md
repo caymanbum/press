@@ -4,7 +4,7 @@ Our **Affiliate Business Model** is designed for organizations whose requirement
 
 Within this framework, affiliates are empowered to deliver a higher degree of service and specialized support for clients needing attention beyond the scope of our standard offerings. Common scenarios include:
 
-- **Assistance with Complex Procurement Processes:** For organizations navigating detailed or intricate procurement requirements—such as extensive documentation, industry-specific compliance, or additional verification steps (e.g., ECG paperwork or similar)—our affiliates have the expertise to guide you through these challenges efficiently and accurately.
+- **Assistance with Complex Procurement Processes:** For organizations navigating detailed or intricate procurement requirements—such as extensive documentation, industry-specific compliance, or additional verification steps (e.g., [ESG paperwork](esg.md) or similar)—our affiliates have the expertise to guide you through these challenges efficiently and accurately.
 
 - **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.
 
