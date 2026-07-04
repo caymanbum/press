@@ -1,6 +1,6 @@
- Eliot Muir — ESG Policy
+# Eliot Muir — ESG Policy
 
-This policy describes how I live, work, make decisions, and treat people, reflecting my real practices rather than a template designed for a large corporation.
+This policy describes how I live, work, make decisions, and treat people, reflecting my real practices rather than a template designed for a large corporation.  This is for use by our affiliates who will fill our ESG questionaires.
 
 ## Long interest in environmental issues
 
