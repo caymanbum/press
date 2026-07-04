@@ -12,7 +12,7 @@ Paul is more than just an account manager—he is a catalyst for innovation and 
 
 His legacy is marked by record-breaking sales, billion-dollar value partnerships, and a reputation for turning even the most complex enterprise deals into success stories that benefit all parties involved.
 
-Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud enough to call him a partner.  Paul is a great choice for many of our customers that need more than what Eliot alone can offer.  He is one our top [affiliate partners](affiliates/i.md).
+Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud enough to call him a partner.  Paul is a great choice for many of our customers that need more than what Eliot alone can offer.  He is one our top [affiliate partners](./affiliates/i.md).
 
 **Contact:**  
 Phone: +1 647 376 3179 
