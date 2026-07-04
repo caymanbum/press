@@ -10,10 +10,13 @@ Renowned for his unmatched ability to deliver tangible value to complex, high-va
 
 Paul is more than just an account manager—he is a catalyst for innovation and transformation. He orchestrates cross-functional teams, marshals resources, and delivers seamless, high-impact solutions that routinely exceed client expectations and establish new industry standards.
 
-His legacy is marked by record-breaking sales, billion-dollar partnerships, and a reputation for turning even the most complex enterprise deals into success stories that benefit all parties involved.
+His legacy is marked by record-breaking sales, billion-dollar value partnerships, and a reputation for turning even the most complex enterprise deals into success stories that benefit all parties involved.
 
 Simply put, Paul Gannon elevates every organization fortunate enough to work with him and every client proud enough to call him a partner.
 
 **Contact:**  
-Phone: +1 647 376 3179
+Phone: +1 647 376 3179 
 
+LinkedIn: [https://www.linkedin.com/in/paultgannon/](https://www.linkedin.com/in/paultgannon/)
+
+Where is the [future of integration headed](future.md)?
