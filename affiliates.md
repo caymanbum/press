@@ -18,3 +18,4 @@ Of course, I will eventually expect to negotiate fair fees for the value I provi
 
 **There will be zero maintenance costs on licensing the engine itself, which will be licensed under the same Mozilla license that Mirth used before adopting a commercial model.**
 
+That should be very attractive.  Highest quality engine in the market, with zero ongoing maintenance costs and the ability to get commercial support through a strong partner network.
