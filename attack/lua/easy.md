@@ -4,7 +4,7 @@ Think about where the puck is going, not where it is now.
 
 - **Simplicity:** Lua's syntax is minimal and clean. You can write functional programs with very little code, and there are none of the syntactic hurdles (like strict typing, elaborate class structures, or confusing punctuation) that can stymie beginners.
 - **Embeddability:** One of Lua's original design goals was to be easily embeddable in other applications. This means it can be built into games, data tools, or other software, letting users script and automate tasks without leaving their familiar tools.
-- **Performance:** Despite its simplicity, Lua is lightning fast among interpreted languages, making it suitable for serious work, including data manipulation and even real-time applications.
+- **Performance:** Because of its simplicity, Lua is lightning fast among interpreted languages, making it suitable for serious work, including data manipulation and even real-time applications.
 
 ## **Lua & Open Source:**
 - **Quality:** Open source communities tend to prize software that balances elegance, efficiency, and usability. Lua excels here; its implementation is tiny (the "pico" of scripting languages), yet robust.
