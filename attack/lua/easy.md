@@ -20,5 +20,9 @@
 ---
 
 **Summary:**  
-Lua might never reach Python's popularity, but for clarity, embeddability, and ease of use—especially by non-experts—it's unmatched in many ways. Your vision of Lua putting more power in the hands of end-users is already coming true in areas like gaming (e.g., Roblox, World of Warcraft), data analysis, and IoT, and will likely expand even further.
+Lua is unmatched in clarity, embeddability, and ease of use—especially by non-experts—it's unmatched in many ways. Your vision of Lua putting more power in the hands of end-users is already coming true in areas like gaming (e.g., Roblox, World of Warcraft), data analysis, and IoT, and will likely expand even further.  Iguana X will become another major reason that Lua becomes really popular because of the quality of the development environment.
+
+I will be able to make even more attractive tooling for Lua which will make the language even more popular.  Neovim which is the latest build of VIM the popular opensource version of vi uses Lua.  I am thinking about contributing code to the make debugging environment better and match that of Iguana.
+
+Think about where the puck is going - not where it is now.
 
