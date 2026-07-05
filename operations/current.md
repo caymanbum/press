@@ -22,6 +22,8 @@ From my perspective, several realities cause me continuing distress:
 
 There are also ongoing legal and interpersonal stresses. For example, [Judge James Diamond](https://www.canadianlawlist.com/listingdetail/contact/james-f-diamond-664973/)  enforced the requirement that I use legal counsel for communication with George K. In some respects, this is positive, as I have chosen Andreas Theodosiou to represent me. Andreas has worked closely with me and is well-acquainted with my situation and my family, which is a marked improvement from my previous experience with Meysa Maleki and Harold Niman who never made time for me to meet them once in person.  Something that was extremely frustrating.
 
+Andreas has actually meet Leanne in person, has met my children and had dinner with us in person at our home.  Quite the contrast with Meysa Meleki and Harold Niman who were much more familiar with George K and identified with his perspective rather than mine in this conflict.
+
 Family lawyers and Judges have higher incentives to maintain good relationships with each other than with their clients who are often emotionally distressed and just plain annoying.
 
 Leanne’s lawyer, George Karahotzitis, misinterpreted my attempts at levity and, perhaps understandably, became alarmed over some jokes I made (including sending a photo that included ketchup and power tools). This even resulted in a visit from the Cayman Police, which was a frightening experience with my partner’s family present; Daniela Alexander, among others, can confirm this incident. However, after some conversation and sharing some of my friend Eli's creative projects at my home such as:
