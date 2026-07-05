@@ -8,7 +8,7 @@ If you require assistance, our support team is ready to help—simply email [sup
 ## Plans for Iguana
 
 For details on my plans moving forward for Iguana please see [Iguana Classic Release Plan](README.md).  The plan
-does require a lot of community support to be successful.
+does require a lot of community support to be successful.  
 
 ## [Affiliate](affiliates/i.md) Model
 
