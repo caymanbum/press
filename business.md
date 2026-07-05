@@ -1,4 +1,3 @@
-# Resuming Normal Operations
 
 ## License Codes:  
 For access to your license codes, please [visit this page](license.md).
@@ -13,34 +12,14 @@ does require a lot of community support to be successful.
 
 ## Affiliate Model
 
-I am building a very different affiliate model for the next generation of Iguana.
+I am building a very different affiliate model for the next generation of Iguana. Customers will have much more choice over who looks after them, recognizing that different customers need different things—whether that be technical expertise, industry knowledge, geography, communication style, price, or simply a person they trust.
 
-Customers will have much more choice over who looks after them. Different customers need different things: technical expertise, industry knowledge, geography, communication style, price, or simply a person they trust.
+However, more choice does not mean lower standards. In fact, I intend to enforce much tighter security and quality controls on affiliates than most companies enforce on their own staff. While affiliates will remain independent, their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
 
-But more choice does not mean lower standards.
+This approach is part of a broader philosophy. I am not interested in performative security. Too often, compliance frameworks like SOC 2 become security theatre at their worst: immense efforts spent proving that processes exist, rather than directly improving security in Iguana or its deployment methods. Instead, I prefer to focus on reducing the attack surface itself.
 
-In fact, I intend to enforce much tighter security and quality controls on affiliates than most companies enforce on their own staff.
+This is one reason I favor Lua. The core implementation of Lua is around 10,000 lines of code, a stark contrast to the enormous ecosystem typically surrounding JavaScript applications with their sprawling runtimes, frameworks, packages, build tools, and myriad transitive dependencies. The more code you depend on, the more you need to understand, maintain, and ultimately defend against potential attacks.
 
-Affiliates will be independent, but their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
-
-This is part of a broader philosophy.
-
-I am not interested in performative security. SOC 2 can become security theatre at its worst: enormous effort spent proving that processes exist rather than directly improving security in Iguana and how it is deployed.
-
-I would rather reduce the attack surface itself.
-
-That is one reason I prefer Lua. Its core implementation is roughly 10,000 lines of code. Contrast that with say the enormous ecosystem surrounding a JavaScript application: runtimes, frameworks, packages, build tools, and transitive dependencies.
-
-The more code you depend on, the more there is to understand, maintain, and attack.
-
-My model is simple:
-
-Give customers more choice.
-
-Give independent affiliates more freedom.
-
-Then enforce extremely high standards on the code that actually reaches production.
-
-Freedom for people. Rigour for code.
+My model is simple: Give customers more choice and independent affiliates more freedom, but enforce extremely high standards on the code that actually reaches production. **Freedom for people. Rigour for code.**
 
 Thank you for the continued support of the Iguana community.
