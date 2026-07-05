@@ -26,7 +26,7 @@ Leanne’s lawyer, George Karahotzitis, misinterpreted my attempts at levity and
 
  - ["Sand, Sleigh, & Sabotage"](https://www.youtube.com/watch?v=3vt8GDmhqcw) 
  - ["Silent Struggle"](https://www.youtube.com/watch?v=aunNDsb_kfg) and 
- - ["The Price We Pay"](https://www.youtube.com/watch?v=CXklqsFV9as)) where I had a cameo role
+ - ["The Price We Pay"](https://www.youtube.com/watch?v=CXklqsFV9as) where I had a cameo role
 
 they concluded I was simply an eccentric character.
 
