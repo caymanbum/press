@@ -15,7 +15,7 @@ does require a lot of community support to be successful.
 
 I am building a very different business model for the next generation of Iguana. Customers will have much more choice over who looks after them, recognizing that different customers need different things—whether that be technical expertise, industry knowledge, geography, communication style, price, or simply a person they trust.
 
-However, more choice does not mean lower standards. In fact, I intend to enforce much tighter security and quality controls on [affiliates](affiliates/i.md) than most companies [enforce on their own staff](affiliates/i.md). While affiliates will remain independent, their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
+However, more choice does not mean lower standards. In fact, I intend to enforce much tighter security and quality controls on [affiliates](affiliates/i.md) than most companies [enforce on their own staff](affiliates/code.md). While affiliates will remain independent, their work will be subject to source-code review, reproducible testing, security scrutiny, and clear accountability.
 
 This approach is part of a broader philosophy. I am not interested in performative security. Too often, compliance frameworks like SOC 2 become security theatre at their worst: immense efforts spent proving that processes exist, rather than directly improving security in Iguana or its deployment methods. Instead, I prefer to focus on reducing the attack surface itself.
 
