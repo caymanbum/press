@@ -38,5 +38,5 @@
 
 **That’s why Lua is considered one of the most secure choices for embedding scripting into applications.**
 
-This is one of the many reasons I chose to use Lua rather than more commercially popular choices like [Javascript](../mirth/mirth.md) as used in Mirth, Qvera and Rhapsody.
+This is one of the many reasons I chose to use Lua rather than more commercially popular choices like [Javascript](../mirth/javascript.md) as used in Mirth, Qvera and Rhapsody.
 
