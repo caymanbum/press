@@ -2,7 +2,7 @@
 
 Please see [payment](payment.md) for details. While this presents challenges, it is not entirely negative. There are some aspects of my current situation that, admittedly, have simplified my life.  
 
-For example, one significant source of monthly stress—paying $29,708 in child support—is no longer front and center. Facilitating such large payments is not as straightforward as it might seem; Canadian banks, such as TD, do not make it easy to transfer sizable amounts quickly and conveniently. My former private bankers, Sonia Shen and Cedric Sagun, can attest to this difficulty, as the only workable method was to set up a recurring wire transfer, which would quietly fail if insufficient funds were available.
+For example, one significant source of stress—paying $29,708 monthly in child support—is no longer front and center. Facilitating such large payments is not as straightforward as it might seem; Canadian banks, such as TD, do not make it easy to transfer sizable amounts quickly and conveniently. My former private bankers, Sonia Shen and Cedric Sagun, can attest to this difficulty, as the only workable method was to set up a recurring wire transfer, which would quietly fail if insufficient funds were available.
 
 If my ex-wife, Leanne Muir, or others are skeptical about the steps I have taken—such as letting go of 26 staff, largely halting our accounts receivable process, and inadvertently damaging my professional reputation—I would encourage them to speak with Zachary Leung or Andreas Theodosiou, both of whom know me, and can independently verify these facts. Alternatively, a review of Glassdoor may also provide corroboration.
 
