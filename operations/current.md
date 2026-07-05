@@ -30,7 +30,7 @@ Leanne’s lawyer, George Karahotzitis, misinterpreted my attempts at levity and
 
 they concluded I was simply an eccentric character.
 
-I recognize that I can be overwhelming at times. Afterward, they only advised me—somewhat humorously—to “consider my meds.” I am passionate about acting and I do stand up comedy, though my humor is sometimes misunderstood, such as when I quipped rustling up a mRNA virus to deal with stray cats on the island and was ejected from a local Whatsapp group. 
+I recognize that I can be overwhelming at times. Afterward, they only advised me seriously to “adjust my meds.” I am passionate about acting and I do stand up comedy, though my humor is sometimes misunderstood, such as when I quipped rustling up a mRNA virus to deal with stray cats on the island and was ejected from a local Whatsapp group. 
 
 I later clarified my intent in a positive discussion with Dominic Tomkins, head of our homeowners’ association, and we reached a mutual understanding that I am in fact too busy and stressed to really have the time to make a killer mRNA virus for cats.  And besides of which most people, my ex wife included would realize I am actually a cat lover. This was because my earlier attempts to raise the
 issue in a human context - that individual actors are close to being able to brew up their own custom viruses - both computer and biological weren't really acknowledged.  Turned out people took threats to their cats much more seriously than themselves.
