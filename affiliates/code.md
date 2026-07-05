@@ -14,4 +14,4 @@ Our ultimate objective is mutual improvement: consultants benefit from better to
 
 Through this collaborative approach, we are confident that both security and overall code quality will be enhanced for everyone involved.
 
-There are some [wonderful tools that Eliot will be able to develop](tools.md).
+There are some [tools that Eliot will develop for this purpose](tools.md).
