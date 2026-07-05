@@ -1,44 +1,45 @@
-# Currently Eliot's Income is Zero
+# Currently, Eliot’s Income is Zero
 
-See [payment](payment.md).  This isn't overall perhaps a terrible thing.
+Please see [payment](payment.md) for details. While this presents challenges, it is not entirely negative. There are some aspects of my current situation that, admittedly, have simplified my life.  
 
-There are advantages.  It does simplify my life.  One thing which was a monthly stressor
-was paying 29,708 in child support.  That is more hard than it sounds.  TD Personal Accounts
-have almost no meaningful way of easily tranferring such a huge sum of money.  Transferring
-money with Canadian banks is something between the enjoyment of having a root canal and 
-chewing on glass light bulbs.
+For example, one significant source of monthly stress—paying $29,708 in child support—is no longer front and center. Facilitating such large payments is not as straightforward as it might seem; Canadian banks, such as TD, do not make it easy to transfer sizable amounts quickly and conveniently. My former private bankers, Sonia Shen and Cedric Sagun, can attest to this difficulty, as the only workable method was to set up a recurring wire transfer, which would quietly fail if insufficient funds were available.
 
-If people my ex-wife Leanne Muir is skeptical of the fact that I let 26 staff go and effectively
-killed the non trivial accounts receivable process and destroyed my reputation in the marketplace
-she would be best off reaching out to Zachary Leung or Andreas Theodosiou who are both people
-she knows knows personally to independently confirm these facts. Alternatively checking Glassdoor would be another place to independently confirm these facts.
+If my ex-wife, Leanne Muir, or others are skeptical about the steps I have taken—such as letting go of 26 staff, largely halting our accounts receivable process, and inadvertently damaging my professional reputation—I would encourage them to speak with Zachary Leung or Andreas Theodosiou, both of whom know me, and can independently verify these facts. Alternatively, a review of Glassdoor may also provide corroboration.
 
-Her lawyer George Karahotzitis is a little delusional about these things owing to the fact I played a lot of psychological games with him by sending pictures of my bed with a bit of ketchup splattered around together with some power tools that I don't actually use.
+Regarding mental health and the pressures that lead people to behave unpredictably: I have asked myself many times why highly capable individuals sometimes act in ways that seem irrational. My partner, Subrina, whom I care for deeply, has reacted to stress in ways that have sometimes added to my difficulties. For example, her unusual behavior—such as pulling out my herb garden, which my friends Beverley and Greencut, our gardeners, witnessed—has been concerning. At other times, she has done things that are difficult for me to understand, like going to our neighbor’s house in her underwear, as confirmed by Alicia, our neighbor, as well as Ring camera footage.
 
-The Cayman Police visited me as a result of George panicking as a result. It was scary as hell for me given I had my partners family present with my along with their 3 year old daughter a fact that can be confirmed by her sister Daniel Alexander and after a conversation, the police decided I was too much trouble and made it clear they would rather not be bothered with my nonsense.  I showed them some of the movies that my friend Elihandro Bodden made at my place:
+She also fell over in a state that looked close to catatonia on Friday while I was trying to destress and work out with my trainer Erika.  Erika can no doubt confirm this if desired.
 
- - [Sand, Sleigh, & Sabotage" - A Caymanian Christmas Comedy Film
-AI](https://www.youtube.com/watch?v=3vt8GDmhqcw]
- - ["Silent Struggle" - A Short Film About Schizophrenia](https://www.youtube.com/watch?v=aunNDsb_kfg)
- - ["The Price We Pay" - An Economic Inequality Short Film](https://www.youtube.com/watch?v=CXklqsFV9as) - I have a short Cameo in this one
+Subrina has, at times, been labeled “stupid” by others, such as her own sister. However, I do not think this is accurate. I believe she is quite intelligent and is possibly reflecting the stress in our environment. Nevertheless, some significant untruths have been told, including serious allegations about family members, which she retracted when confronted in the presence of witnesses—myself, my friend Patrick, and her brother.
 
-They quickly concluded rationally that I am just bit of character.  
+I am still grappling with what motivated her to make these claims. At their core, I believe such behaviors stem from the mind’s extraordinary ability to try to solve complex problems. Unfortunately, many professionals fail to appreciate the mathematical and logical underpinnings of human consciousness—our minds are relentless optimization engines, and truth is a necessary anchor. When the truth is denied, contradictions accumulate, and mental strain often follows.
 
-I am more than little annoying at times and other than suggesting I should perhaps 'take my meds' the matter was closed.  I love acting - I played Trinny an ugly sister in a local Pantomine production of Cinderella and I frequently do stand up comedy on the island.  Some of my jokes go above people's heads.  I joked I was making a virus to kill off stray cats in the Island which I don't really know how to do although I can see in principle how it could be done using mRNA vaccine technology but frankly I am way too busy to pursue it.  I really like cats anyway and I was just trying to make a point that this is significant society problem. I got chucked off the local neighbourhood Whatapp chat for that.  It's okay.  I cleared up the problem with a conversation with the head of the neighbourhood home ownership association who is Dominic Tomkins. He was originally afraid to meet but we ended up having a good chat for almost two hours and he and realized I am harmless and actually quite interesting even though my jokes go over most people's heads. 
+From my perspective, several realities cause me continuing distress:
 
-Unfortunately the Canadian Judicial and Police system is easier to manipulate and have a considerably worse sense of humour.  George claims he got an arrest warrant for me in Canada which kind of sucks.  People take things out of context.  For these reasons and many others I don't feel personally safe to be in Canada for a long while.  A sense of humour and truth telling really gets you in to trouble there.  
+- **Gender-affirming healthcare**, in my personal view, does not always equate to genuine care. Some interventions, such as the hysterectomy my niece received at age 22, strike me as extreme solutions to what may have had less invasive alternatives. I am especially troubled by the reluctance of mental health professionals to engage candidly with these issues. My concern is heightened by the restrictions placed on honest conversations with my own sons who both identify (today?) as women - or did over a year ago which was the last time I was legally permitted to talk to them.
+- **Psychiatric medication** often addresses symptoms rather than root causes. In my estimation, these interventions can sometimes cause more harm than benefit when not accompanied by efforts to resolve the underlying conflict.
+- **Fundamental Attribution Error** is common—many people neglect broader circumstances and motivations when judging behavior. Often, actions that seem erratic or negative have rational explanations when seen in context.
 
-The [Honourable James Diamond](https://www.canadianlawlist.com/listingdetail/contact/james-f-diamond-664973/) phone number 416 327 5284 was easily convinced I was a serious violent threat even though I have never committed an act of physically violence against my ex-spouse, her lawyer or anyone for that matter. That is what passes for Justice in Canada. 
+There are also ongoing legal and interpersonal stresses. For example, James Diamond enforced the requirement that I use legal counsel for communication with George K. In some respects, this is positive, as I have chosen Andreas Theodosiou to represent me. Andreas has worked closely with me and is well-acquainted with my situation and my family, which is a marked improvement from my previous experience with Meysa Maleki and Harold Niman.
 
-Let history be the judge.  But I would appreciate being paid for my work and this is my current siuation.
+Leanne’s lawyer, George Karahotzitis, misinterpreted my attempts at levity and, perhaps understandably, became alarmed over some jokes I made (including sending a photo that included ketchup and power tools). This even resulted in a visit from the Cayman Police, which was a frightening experience with my partner’s family present; Daniela Alexander, among others, can confirm this incident. However, after some conversation and sharing some of my friend Eli's creative projects at my home such as:
 
-Oh it's a bit more complex that this.  My partner Subrina is displaying significant mental health issues.  She is inappropriately younger at age 26.  What can I say?  Dating is really hard on this island given the small
-population and it was enjoyable until the stress from everything started to make her act out with paranoia
-and very strange behaviour which includes pulling out all my herb garden which I can confirm with the witnesses
-of my friends Beverley and Greencut my gardeners.
+ - ["Sand, Sleigh, & Sabotage"](https://www.youtube.com/watch?v=3vt8GDmhqcw) 
+ - ["Silent Struggle"](https://www.youtube.com/watch?v=aunNDsb_kfg) and 
+ - ["The Price We Pay"](https://www.youtube.com/watch?v=CXklqsFV9as)) where I had a cameo role
 
-She's done strange things since like falling over while my physical trainer Erika was present (contact available for confirmation).  On Sunday morning she dissappeared for a period of time.  She claims she went outside just wearing her underwear and knocked on the door of my neighbour Alicia from number 8 Waterside. I cannot yet confirm this but I will check in later to see if this was true.
+they concluded I was simply an eccentric character.
 
-This to add to the stress of the fact that James Diamond enforced the fact that I had to use a lawyer to communicate with George K. In some ways that is an improvement.  I choose Andreas Theodosiou who not only is a lawyer but he worked with me for 4 years so he knows me very well.  He has visited my family home and Leanne Muir has met him personally.  This makes him infinitely better than my last set of arsehole lawyers Meysa Maleki and Harold Niman who refused to ever meet me in person and wouldn't even give the professional courtesey of an exit conversation but resorted to using a motion in court to getting rid of me as a client.
+I recognize that I can be overwhelming at times. Afterward, they only advised me—somewhat humorously—to “consider my meds.” I am passionate about acting and I do stand up comedy, though my humor is sometimes misunderstood, such as when I quipped rustling up a mRNA virus to deal with stray cats on the island and was ejected from a local Whatsapp group. 
 
-All of these facts are confirmable with dialogs with real people including the three police officers who visiting my home.  I made sure I have the contact details for everyone concerned since I wanted to make sure I had a lot more real evidence when push comes to shove with a real court case.
+I later clarified my intent in a positive discussion with Dominic Tomkins, head of our homeowners’ association, and we reached a mutual understanding that I am in fact too busy and stressed to really have the time to make a killer mRNA virus for cats.  And besides of which most people, my ex wife included would realize I am actually a cat lover. This was because my earlier attempts to raise the
+issue in a human context - that individual actors are close to being able to brew up their own custom viruses - both computer and biological weren't really acknowledged.  Turned out people took threats to their cats much more seriously than themselves.
+
+Regrettably, the Canadian legal system has less tolerance for these kinds of misunderstandings. I am told that George has managed to obtain an arrest warrant for me in Canada. This is disheartening, especially as I have never committed or threatened any act of violence; yet, the system there can interpret things very differently. As a result, I do not feel safe returning to Canada at this time.
+
+The [Honourable James Diamond](https://www.canadianlawlist.com/listingdetail/contact/james-f-diamond-664973/) (416-327-5284) was, unfortunately, persuaded that I pose a serious threat. History will ultimately be the judge of my actions, but I would, in the meantime, appreciate being paid for my work as I am currently owed compensation.
+
+All of this is thoroughly documentable, with a number of people—including the three police officers who visited my home—available to confirm events as described.
+
+Thank you for your understanding.
+
