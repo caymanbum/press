@@ -20,6 +20,6 @@ This approach is part of a broader philosophy. I am not interested in performati
 
 This is one reason I favor Lua. The core implementation of Lua is around 10,000 lines of code, a stark contrast to the enormous ecosystem typically surrounding JavaScript applications with their sprawling runtimes, frameworks, packages, build tools, and myriad transitive dependencies. The more code you depend on, the more you need to understand, maintain, and ultimately defend against potential attacks.
 
-My model is simple: Give customers more choice and independent affiliates more freedom, but enforce extremely [high standards on the code](code.md) that actually reaches production. **Freedom for people. Rigour for code.**
+My model is simple: Give customers more choice and independent affiliates more freedom, but enforce extremely [high standards on the code](affiliates/code.md) that actually reaches production. **Freedom for people. Rigour for code.**
 
 Thank you for the continued support of the Iguana community.
