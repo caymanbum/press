@@ -2,7 +2,7 @@
 
 Please see [payment](payment.md) for details. While this presents challenges, it is not entirely negative. There are some aspects of my current situation that, admittedly, have simplified my life.  
 
-For example, one significant source of monthly stress—paying $29,708 in child support—is no longer front and center. Facilitating such large payments is not as straightforward as it might seem; Canadian banks, such as TD, do not make it easy to transfer sizable amounts quickly and conveniently. My former private bankers, Sonia Shen and Cedric Sagun, can attest to this difficulty, as the only workable method was to set up a recurring wire transfer, which would quietly fail if insufficient funds were available.
+For example, one significant source of stress—paying $29,708 monthly in child support—is no longer front and center. Facilitating such large payments is not as straightforward as it might seem; Canadian banks, such as TD, do not make it easy to transfer sizable amounts quickly and conveniently. My former private bankers, Sonia Shen and Cedric Sagun, can attest to this difficulty, as the only workable method was to set up a recurring wire transfer, which would quietly fail if insufficient funds were available.
 
 If my ex-wife, Leanne Muir, or others are skeptical about the steps I have taken—such as letting go of 26 staff, largely halting our accounts receivable process, and inadvertently damaging my professional reputation—I would encourage them to speak with Zachary Leung or Andreas Theodosiou, both of whom know me, and can independently verify these facts. Alternatively, a review of Glassdoor may also provide corroboration.
 
@@ -16,21 +16,25 @@ I am still grappling with what motivated her to make these claims. At their core
 
 From my perspective, several realities cause me continuing distress:
 
-- **Gender-affirming healthcare**, in my personal view, does not always equate to genuine care. Some interventions, such as the hysterectomy my niece received at age 22, strike me as extreme solutions to what may have had less invasive alternatives. I am especially troubled by the reluctance of mental health professionals to engage candidly with these issues. My concern is heightened by the restrictions placed on honest conversations with my own sons who both identify (today?) as women - or did over a year ago which was the last time I was legally permitted to talk to them.
-- **Psychiatric medication** often addresses symptoms rather than root causes. In my estimation, these interventions can sometimes cause more harm than benefit when not accompanied by efforts to resolve the underlying conflict.
+- **Gender-affirming healthcare**, in my personal view, does not equate to  care. Some interventions, such as the hysterectomy my niece received at age 22, strike me as extreme solutions to what may have had less invasive alternatives like taking some tylenol instead to deal with period pain. I am especially troubled by the reluctance of mental health professionals to engage candidly with these issues. My concern is heightened by the restrictions placed on honest conversations with my own sons who both identify (today?) as women - or did over a year ago which was the last time I was legally permitted to talk to them.
+- **Psychiatric medication** address symptoms and never the root causes. In my estimation, these interventions usually cause more harm than benefit especially when not accompanied by efforts to resolve the underlying conflict.
 - **Fundamental Attribution Error** is common—many people neglect broader circumstances and motivations when judging behavior. Often, actions that seem erratic or negative have rational explanations when seen in context.
 
-There are also ongoing legal and interpersonal stresses. For example, James Diamond enforced the requirement that I use legal counsel for communication with George K. In some respects, this is positive, as I have chosen Andreas Theodosiou to represent me. Andreas has worked closely with me and is well-acquainted with my situation and my family, which is a marked improvement from my previous experience with Meysa Maleki and Harold Niman.
+There are also ongoing legal and interpersonal stresses. For example, [Judge James Diamond](https://www.canadianlawlist.com/listingdetail/contact/james-f-diamond-664973/)  enforced the requirement that I use legal counsel for communication with George K. In some respects, this is positive, as I have chosen Andreas Theodosiou to represent me. Andreas has worked closely with me and is well-acquainted with my situation and my family, which is a marked improvement from my previous experience with Meysa Maleki and Harold Niman who never made time for me to meet them once in person.  Something that was extremely frustrating.
+
+Andreas has actually meet Leanne in person, has met my children and had dinner with us in person at our home.  Quite the contrast with Meysa Meleki and Harold Niman who were much more familiar with George K and identified with his perspective rather than mine in this conflict.
+
+Family lawyers and Judges have higher incentives to maintain good relationships with each other than with their clients who are often emotionally distressed and just plain annoying.
 
 Leanne’s lawyer, George Karahotzitis, misinterpreted my attempts at levity and, perhaps understandably, became alarmed over some jokes I made (including sending a photo that included ketchup and power tools). This even resulted in a visit from the Cayman Police, which was a frightening experience with my partner’s family present; Daniela Alexander, among others, can confirm this incident. However, after some conversation and sharing some of my friend Eli's creative projects at my home such as:
 
  - ["Sand, Sleigh, & Sabotage"](https://www.youtube.com/watch?v=3vt8GDmhqcw) 
  - ["Silent Struggle"](https://www.youtube.com/watch?v=aunNDsb_kfg) and 
- - ["The Price We Pay"](https://www.youtube.com/watch?v=CXklqsFV9as)) where I had a cameo role
+ - ["The Price We Pay"](https://www.youtube.com/watch?v=CXklqsFV9as) where I had a cameo role
 
 they concluded I was simply an eccentric character.
 
-I recognize that I can be overwhelming at times. Afterward, they only advised me—somewhat humorously—to “consider my meds.” I am passionate about acting and I do stand up comedy, though my humor is sometimes misunderstood, such as when I quipped rustling up a mRNA virus to deal with stray cats on the island and was ejected from a local Whatsapp group. 
+I recognize that I can be overwhelming at times. Afterward, they only advised me seriously to “adjust my meds.” I am passionate about acting and I do stand up comedy, though my humor is sometimes misunderstood, such as when I quipped rustling up a mRNA virus to deal with stray cats on the island and was ejected from a local Whatsapp group. 
 
 I later clarified my intent in a positive discussion with Dominic Tomkins, head of our homeowners’ association, and we reached a mutual understanding that I am in fact too busy and stressed to really have the time to make a killer mRNA virus for cats.  And besides of which most people, my ex wife included would realize I am actually a cat lover. This was because my earlier attempts to raise the
 issue in a human context - that individual actors are close to being able to brew up their own custom viruses - both computer and biological weren't really acknowledged.  Turned out people took threats to their cats much more seriously than themselves.
