@@ -1,4 +1,4 @@
-# Decentralized Affiliate Model
+# Decentralized [Affiliate Model](../affiliates.md)
 
 **General Theme:**  
 iNTERFACEWARE is moving towards a decentralized business model that puts customer choice at the center. Instead of a single, uniform approach, customers now have access to a **range of affiliate partners**—each with unique specialties, local expertise, and value propositions. This empowers customers to find the *best fit* for their specific business needs, industry requirements, and regional context.
