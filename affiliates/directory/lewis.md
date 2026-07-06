@@ -1,4 +1,4 @@
-# Jeff Lewis?
+# Jeff Lewis
 
 Jeff Lewis is one of our most trusted affiliates, thanks to his deep-rooted history and outstanding track record with Iguana and our broader community.
 
