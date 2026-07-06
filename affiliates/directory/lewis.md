@@ -2,7 +2,7 @@
 
 Jeff Lewis is one of our most trusted affiliates, thanks to his deep-rooted history and outstanding track record with Iguana and our broader community.
 
-Jeff is a gold level affiliate in that he actually direct personal to Eliot which Eliot will confirm
+Jeff is a [gold level affiliate](../gold.md) in that he actually direct personal to Eliot which Eliot will confirm
 since he's documented here.
 
 **1. Strong Personal Connections:**  
