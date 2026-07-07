@@ -13,4 +13,4 @@ This is the easiest way for a non technical person to understand the same concep
 **In summary:**  
 Reducing the attack area is fundamental to good security. Java and JavaScript, popular as they are, can result in expansive attack surfaces due to their reliance on large runtimes and numerous dependencies. Languages like Lua, with their focus on minimalism and auditability, allow for smaller and safer attack areas—making it easier to prevent, detect, and address vulnerabilities. The fundamental principle holds: *less code and fewer dependencies means fewer places for attackers to strike.*
 
-Guess what - Mirth Connect - the most popular open source engine is written in Java and uses Javascript. It's a dream for ransomware attackers come true.
+Guess what - [Mirth Connect](attack/mirth/javascript.md) - the most popular open source HL7 engine is written in Java and uses Javascript. It's a dream for ransomware attackers come true.
