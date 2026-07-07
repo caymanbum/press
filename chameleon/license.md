@@ -1,6 +1,6 @@
 # Need Chameleon? (Windows only—since it was always just a Windows product)
 
-If you need a Chameleon License Code, you can install **Iguana 6.1.5** or **Iguana 6.2.0** on Windows, as both versions include the latest version of **Chameleon**.
+If you need a Chameleon License Code, you can install **Iguana 6.1.5** or **Iguana 6.2.0** on Windows, as both versions include the latest version of **Chameleon**.  See [downloads](download.md).
 
 “Latest,” as in the latest Elvis records, since that’s about how old Chameleon is—lol.
 

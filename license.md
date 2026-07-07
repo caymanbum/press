@@ -2,6 +2,8 @@
 
 We are in the process of upgrading our licensing system. In the meantime, please follow the instructions below to quickly retrieve your license codes.
 
+This is temporary until a new system can be built.
+
 ---
 
 ## How It Works
@@ -11,12 +13,16 @@ We are in the process of upgrading our licensing system. In the meantime, please
    (You can find your Iguana ID in your Iguana instance license page.)
 
 2. **Choose the Correct Link:**
+   - For **Chameleon**
+     Install Iguana 6.1.5 or 6.2 for windows and use the same license key generator as for Iguana classic below.
+     Iguana came with Chameleon embedded in it.  It's unlikely we will optimize this anymore than this.  [Chameleon
+     is long overdue for retirement](chameleon.md).
    - For **Iguana Classic** (5,6 etc):  
      [Get License Code for Iguana Classic](https://license.interfaceware.com/license?id=iguana_id)
    - For **Iguana X**:  
      [Get License Code for Iguana X](https://license.interfaceware.com/licensex?id=iguana_id)
-
-3. **Edit the URL:**  
+  
+4. **Edit the URL:**  
    **IMPORTANT:** Before pressing Enter, replace `iguana_id` in the URL with your actual Iguana ID.  
    _Example:_  
    ```
@@ -24,7 +30,7 @@ We are in the process of upgrading our licensing system. In the meantime, please
    ```
    (where `12345-ABCDE` is your real Iguana ID)
 
-4. **Open the Link in Your Browser:**  
+5. **Open the Link in Your Browser:**  
    Once you have replaced `iguana_id`, press Enter. Your license code will be generated and displayed.
 
 ---

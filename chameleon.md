@@ -12,3 +12,4 @@ It's been especially disheartening to watch others repeat past mistakes or simpl
 
 A lot of problems and Eliot will need to some [quiet](quiet.md) space to solve them.
 
+If you need Chameleon today please [download Iguana 6 and get it embedded with the Windows installer](chameleon/download.md).
