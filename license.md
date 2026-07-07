@@ -15,8 +15,8 @@ This is temporary until a new system can be built.
 2. **Choose the Correct Link:**
    - For **Chameleon**
      Install Iguana 6.1.5 or 6.2 for windows and use the same license key generator as for Iguana classic below.
-     Iguana came with Chameleon embedded in it.  It's unlikely we will optimize this anymore than this.  Chameleon
-     is long overdue for retirement.
+     Iguana came with Chameleon embedded in it.  It's unlikely we will optimize this anymore than this.  [Chameleon
+     is long overdue for retirement](chameleon.md).
    - For **Iguana Classic** (5,6 etc):  
      [Get License Code for Iguana Classic](https://license.interfaceware.com/license?id=iguana_id)
    - For **Iguana X**:  
