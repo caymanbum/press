@@ -22,6 +22,10 @@ Medcan’s bureaucratic efficiency and clinical rigor offer important benefits, 
 A natural iNTERFACEWARE affiliate organization would be MDI Solutions.  They have already have a strong
 local presence in the Ontario Health Market and one of senior account managers [Alan McClaren](https://www.linkedin.com/in/alan-mclaren-56b781/) is an ex iNTERFACEWARE employee and has kept a good relationship with Eliot Muir the architect of Iguana.  Even though MDI has competed with iNTERFACEWARE in the past, at the end of the day the whole relationship makes sense.  It takes a decent size organization to engage with an organization like Medcan. 
 
+The match doesn't have to be forced.  Eliot's new innovative structure will allow customers like Medcan to actually to find partners which can meet it's cultural needs. See [automation](../automation/medcan.md).
+
+Honestly even Eliot's old company didn't particularly enjoy working with Medcan - it's takes a special stomach to work with organizations like this.  They need to be charged high prices to match with the low level of internal productivity.
+
 ---
 
 ## Conclusion:  
