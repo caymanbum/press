@@ -4,6 +4,8 @@
 
 Medcan is a health and wellness organization that provides personalized medical assessments, executive health programs, and preventative healthcare services to individuals and corporations. With a strong reputation for clinical excellence and comprehensive care, Medcan operates within a tightly regulated industry and adheres to rigorous privacy and compliance standards. Its service delivery is highly bureaucratic, involving multiple layers of administrative approval and stringent clinical protocols to ensure accuracy, safety, and legal compliance.
 
+In reality I suspect their internal security is probably a lot less stringent than this because no bureaucracy has even produced a secure system.  My little company of 27 people certainly didn't manage well and the level of bureaucracy was quite low.  Most organizations like this are experts in performance security but in reality it's a [shit show](attack.md).
+
 ## Current Challenge:
 While Medcan excels at delivering standardized, top-tier preventive healthcare to clients, its corporate structure is large, hierarchical, and centralized. This sometimes inhibits the organization’s ability to quickly respond to localized needs, unique client preferences, and evolving community health trends. Staff feel constrained by policy rigidity, and community engagement is limited by the perceived distance between Medcan’s institutional leadership and local stakeholders.
 
@@ -21,6 +23,10 @@ Medcan’s bureaucratic efficiency and clinical rigor offer important benefits, 
 
 A natural iNTERFACEWARE affiliate organization would be MDI Solutions.  They have already have a strong
 local presence in the Ontario Health Market and one of senior account managers [Alan McClaren](https://www.linkedin.com/in/alan-mclaren-56b781/) is an ex iNTERFACEWARE employee and has kept a good relationship with Eliot Muir the architect of Iguana.  Even though MDI has competed with iNTERFACEWARE in the past, at the end of the day the whole relationship makes sense.  It takes a decent size organization to engage with an organization like Medcan. 
+
+The match doesn't have to be forced.  Eliot's new innovative structure will allow customers like Medcan to actually to find partners which can meet it's cultural needs. See [automation](../automation/medcan.md).
+
+Honestly even Eliot's old company didn't particularly enjoy working with Medcan - it's takes a special stomach to work with organizations like this.  They need to be charged high prices to match with the low level of internal productivity.
 
 ---
 

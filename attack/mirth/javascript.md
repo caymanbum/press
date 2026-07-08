@@ -31,6 +31,6 @@ If security is paramount, my approach of building a tightly-constrained, minimal
 ---
 
 **Summary:**  
-Mirth Connect uses the **Rhino** or **Nashorn** JavaScript engine, depending on the Java version. Both introduce security concerns due to the power and reach of the underlying JVM, especially when exposed to user-provided code. Your concerns about making it truly secure are justified; it is fundamentally difficult when offering general scripting on a platform like Mirth.
+Mirth Connect uses the **Rhino** or **Nashorn** JavaScript engine, depending on the Java version. Both introduce security concerns due to the power and reach of the underlying JVM, especially when exposed to user-provided code. Security is fundamentally difficult when offering general scripting on a platform like Mirth.
 
 [Lua is a much better choice when it comes to security.  This is why I picked Lua for Iguana](../lua/secure.md).

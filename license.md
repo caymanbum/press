@@ -21,6 +21,8 @@ This is temporary until a new system can be built.
      [Get License Code for Iguana Classic](https://license.interfaceware.com/license?id=iguana_id)
    - For **Iguana X**:  
      [Get License Code for Iguana X](https://license.interfaceware.com/licensex?id=iguana_id)
+     But I really would recommend pausing before going to Iguana X currently.  It's not as stable as Iguana Classic
+     and that is usually important for most of my customers.  See the [status of the product](iguanax/i.md).
   
 4. **Edit the URL:**  
    **IMPORTANT:** Before pressing Enter, replace `iguana_id` in the URL with your actual Iguana ID.  
