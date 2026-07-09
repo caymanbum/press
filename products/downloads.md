@@ -23,3 +23,7 @@ For information on generating license codes, go here:
 
 For [license codes you can get them from here](../license.md).
 
+I have been too busy to get around to compiling Iguana X and putting it up there.  It will run on Windows, Linux and Mac OS X.
+
+Iguana Classic is also cross platform but the Chameleon configuration interface is Windoze only :-(.
+
