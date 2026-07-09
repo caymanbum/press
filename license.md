@@ -48,3 +48,5 @@ That means I can use the same small, elegant language throughout more and more o
 I’m gradually replacing a company that depended on people, emails, spreadsheets, institutional memory and manual processes with a system where customers can simply solve their own problems. Find the constraint. Remove it. See what breaks next. Then repeat.
 
 It’s a great way to build a company - a little messy in the beginning but order comes to the system quickly.
+
+See the [Lua source](../license.lua).
