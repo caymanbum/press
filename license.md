@@ -52,7 +52,7 @@ has not been automated yet.
 **Tip:**  
 We know this system is rough looking, and we appreciate your patience as we work on a better licensing solution!
 
-It's pretty cool.  The system logs the license keys in a git repo.  It's a really nice way that Architect an application without all of the unnecessary complexity that comes with having a traditional database.
+It's pretty cool.  The system logs the license keys in a git repo.  It's a really nice way to architect an application without all of the unnecessary complexity that comes with having a traditional database.
 
 In the back end, I'm using markdown.
 
