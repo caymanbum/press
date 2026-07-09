@@ -1,4 +1,8 @@
-# The new licensing system reimagines customer management with a refreshingly straightforward foundation: it uses Git for version control, and Markdown for readable data storage.
+# Licensing System Architecture
+
+It uses a refreshingly straightforward foundation: it uses Git for version control, and Markdown for readable data storage.
+
+To create 'customer ids' I simply have to create a new directory.
 
 ## Plain Text for Clarity and Transparency
 
