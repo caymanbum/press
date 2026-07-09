@@ -1,13 +1,19 @@
 # Getting Your License Codes
 
-All of our systems are being rebuilt in real time.  They will look a little rough at first but will
-swiftly evolve into something you wish you all had.  I will release the source code so you can :-)
+All of our systems are being rebuilt in real time.
 
-Although admittedly my systems will be built around a rather exceptional use case of me as an individual.
+They may look a little rough at first, but they will swiftly evolve into something you wish you all had.
 
-It appears that much more of the value of iNTERFACEWARE was concentrated in me even more than I realized.
+And I’ll release the source code, so you can. :-)
+
+Admittedly, my systems are being built around a rather exceptional use case: me, as an individual, replacing the infrastructure previously operated by an entire company.
+
+It appears that much more of the value of iNTERFACEWARE was concentrated in me than even I realized.
+
+This is becoming a rather interesting experiment.
 
 Eliot Muir
+
 
 ## In the meantime
 
