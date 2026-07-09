@@ -67,6 +67,10 @@ You'll wish that all your vendors did this.
 
 ## Implementation Details
 
+## GIT and Markdown in the back end.
+
+See how this will make [distribution and high availability easy to implement](distribution/i.md).
+
 It’s pretty fun actually applying the Theory of Constraints in real time to the new form of my company. The idea is simple: find the biggest constraint in the system, remove it, and then see what becomes the next constraint. Right now, the next constraint is licensing.
 
 My customers needed a simple way to get permanent license codes without emailing me, waiting for me to find the message, and then depending on me to manually generate something for them. So I built this: a simple form to enter a customer ID that I give you, along with the information needed to generate their license.
