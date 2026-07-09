@@ -22,8 +22,8 @@
 
 ## To get permanent license keys you will need a company ID.
 
-If you need a company ID please contact us at [license@interfaceware.com](mailto:license@interfaceware.com) this
-has not been automated yet.  But Eliot only has to create a directory on the licensing server so it's not a bottleneck yet.
+If you need a company ID please contact me at [license@interfaceware.com](mailto:license@interfaceware.com) this
+has not been automated yet.  But I only have to create a directory on the licensing server so it's not a bottleneck yet.
 
 ## Implementation Details
 
@@ -33,5 +33,3 @@ has not been automated yet.  But Eliot only has to create a directory on the lic
  - Good bye bureaucracy - see [Bureaucracy](business/bureaucracy.md)
 
 It looked like a three-year-old threw the system together today during a tantrum in the early stages, but it got better and better.  That is what happens if you follow the theory of constraints.  [https://license.interfaceware.com/](https://license.interfaceware.com/)  (the 1st version)
-
-See the [Lua source](license.lua).
