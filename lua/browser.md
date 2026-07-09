@@ -11,3 +11,5 @@ That means I can use the same small, elegant language throughout more and more o
 Lua is the future.  A language for giving power to domain experts.  I care about people who want to solve real problems, not people who only to write code. I like generalists.  Not specialists.
 
 See [Licensing System](../license.md)
+
+See the [Lua source](../license.lua).
