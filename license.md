@@ -23,7 +23,7 @@
 ## To get permanent license keys you will need a company ID.
 
 If you need a company ID please contact us at [license@interfaceware.com](mailto:license@interfaceware.com) this
-has not been automated yet.
+has not been automated yet.  But Eliot only has to create a directory on the licensing server so it's not a bottleneck yet.
 
 ## Implementation Details
 
