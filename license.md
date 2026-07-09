@@ -32,6 +32,6 @@ has not been automated yet.  But Eliot only has to create a directory on the lic
  - Theory of constraints to focus effort - see [Theory of constraints](system/toc.md)
  - Good bye bureaucracy - see [Bureaucracy](business/bureaucracy.md)
 
-It looks like a three-year-old threw the system together today during a tantrum in the early stages, but it got better and better.  That is what happens if you follow the theory of constraints.  [https://license.interfaceware.com/](https://license.interfaceware.com/)  (the 1st version)
+It looked like a three-year-old threw the system together today during a tantrum in the early stages, but it got better and better.  That is what happens if you follow the theory of constraints.  [https://license.interfaceware.com/](https://license.interfaceware.com/)  (the 1st version)
 
 See the [Lua source](license.lua).
