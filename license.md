@@ -1,6 +1,17 @@
 # Getting Your License Codes
 
-We are in the process of upgrading our licensing system. In the meantime, please follow the instructions below to quickly retrieve your license codes.
+All of our systems are being rebuilt in real time.  They will look a little rough at first but will
+swiftly evolve into something you wish you all had.  I will release the source code so you can :-)
+
+Although admittedly my systems will be built around a rather exceptional use case of me as an individual.
+
+It appears that much more of the value of iNTERFACEWARE was concentrated in me even more than I realized.
+
+Eliot Muir
+
+## In the meantime
+
+In the meantime, please follow the instructions below to quickly retrieve your license codes.
 
 This is rapidly improving on a day by day basis.  I am using the theory of constraints to practically rebuild the infrastructure of my company, almost from scratch.
 
