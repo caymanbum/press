@@ -2,7 +2,9 @@
 
 We are in the process of upgrading our licensing system. In the meantime, please follow the instructions below to quickly retrieve your license codes.
 
-This is temporary until a new system can be built.
+This is rapidly improving on a day by day basis.  I am using the theory of constraints to practically rebuild the infrastructure of my company, almost from scratch.
+
+I think this will make a very interesting case study one day.
 
 ---
 
