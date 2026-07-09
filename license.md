@@ -69,7 +69,7 @@ You'll wish that all your vendors did this.
 
 ## GIT and Markdown in the back end.
 
-See how this will make [distribution and high availability easy to implement](distribution/i.md).
+See how this will make [distribution and high availability easy to implement](distributed/i.md).
 
 It’s pretty fun actually applying the Theory of Constraints in real time to the new form of my company. The idea is simple: find the biggest constraint in the system, remove it, and then see what becomes the next constraint. Right now, the next constraint is licensing.
 
