@@ -4,13 +4,13 @@
    You will need your unique Iguana ID to get your license code.  
    (You can find your Iguana ID in your Iguana instance license page.)
 
-2. **Then go to one of three license generation pages**
+2. **Then go to one of two license generation pages**
 3. 
    [https://license.interfaceware.com/index_conservative.html](https://license.interfaceware.com/index_conservative.html)  (for middle management)
    
    [https://license.interfaceware.com/index_funny.html](https://license.interfaceware.com/index_funny.html)  (for developers who like fart jokes)
 
-   [https://license.interfaceware.com/](https://license.interfaceware.com/)  (the 1st version)
+
 
 
 - For **Chameleon**
@@ -32,6 +32,6 @@ has not been automated yet.
  - Theory of constraints to focus effort - see [Theory of constraints](system/toc.md)
  - Good bye bureaucracy - see [Bureaucracy](business/bureaucracy.md)
 
-It looks like a three-year-old threw the system together today during a tantrum in the early stages, but it got better and better.  That is what happens if you follow the theory of constraints.
+It looks like a three-year-old threw the system together today during a tantrum in the early stages, but it got better and better.  That is what happens if you follow the theory of constraints.  [https://license.interfaceware.com/](https://license.interfaceware.com/)  (the 1st version)
 
 See the [Lua source](license.lua).
