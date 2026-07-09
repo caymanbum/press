@@ -10,3 +10,7 @@ You want conservative and serious - sure.
 You want satire and fart jokes - not a problem.
 
 It's actually key to building a fun and engaging training process.
+
+And I really need to get rid of Hubspot, it's expensive and really hard to use.  So many darn landing pages.
+
+Yuck!
