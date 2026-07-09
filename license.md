@@ -39,7 +39,7 @@ It's pretty cool.  The system logs the license keys in a git repo.  It's a reall
 
 In the back end, I'm using markdown.
 
-It looks like a three-year-old system together today.  But over the coming few days I'll make something that's gonna be quite impressive.
+It looks like a three-year-old threw the system together today during a tantrum.  But over the coming few days I'll make something that's going tp be quite impressive.  It should be able to automatically generate W-8BEN forms, quotes and even fill out ESG questionaires.  All the important stuff that many customers have grown to depend on iNTERFACEWARE providing.
 
 You'll wish that all your vendors did this.
 
