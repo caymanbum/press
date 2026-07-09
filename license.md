@@ -26,7 +26,7 @@ This is temporary until a new system can be built.
 ## To get permanent license keys you will need a company ID.
 
 If you need a company ID please contact us at [license@interfaceware.com](mailto:license@interfaceware.com) this
-has not been automated yet.  Soon.
+has not been automated yet.
 
 ---
 
