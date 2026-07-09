@@ -32,6 +32,7 @@ I think this will make a very interesting case study one day.
    (You can find your Iguana ID in your Iguana instance license page.)
 
 2. **Then go to one of three license generation pages**
+3. 
    [https://license.interfaceware.com/index_conservative.html](https://license.interfaceware.com/index_conservative.html)  (for middle management)
    
    [https://license.interfaceware.com/index_funny.html](https://license.interfaceware.com/index_funny.html)  (for developers who like fart jokes)
