@@ -24,3 +24,4 @@ It may seem 'boring' to some—a far cry from convoluted bespoke database soluti
 
 **In short: The system uses easy-to-read Markdown text for data, and Git for handling changes and distribution. It avoids complexity, so you have a licensing portal that’s robust, understandable, and trustworthy. And in the often chaotic world of licensing systems, that’s actually pretty cool.**
 
+See [License System](../license.md).
