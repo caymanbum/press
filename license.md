@@ -27,7 +27,7 @@ has not been automated yet.  But Eliot only has to create a directory on the lic
 
 ## Implementation Details
 
- - GIT and Markdown in the back end. See how this will make [distribution and high availability easy to implement](distributed/i.md).
+ - GIT and Markdown in the back end. See how this will make [distribution and high availability easy to implement](license/i.md).
  - Lua in the browser instead of Javascript - see [Lua in the browser](lua/i.md)
  - Theory of constraints to focus effort - see [Theory of constraints](system/toc.md)
  - Good bye bureaucracy - see [Bureaucracy](business/bureaucracy.md)
