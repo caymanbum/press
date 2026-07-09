@@ -33,7 +33,15 @@ has not been automated yet.
 ---
 
 **Tip:**  
-We know this system is temporary, and we appreciate your patience as we work on a better licensing solution!
+We know this system is rough looking, and we appreciate your patience as we work on a better licensing solution!
+
+It's pretty cool.  The system logs the license keys in a git repo.  It's a really nice way that Architect an application without all of the unnecessary complexity that comes with having a traditional database.
+
+In the back end, I'm using markdown.
+
+It looks like a three-year-old system together today.  But over the coming few days I'll make something that's gonna be quite impressive.
+
+You'll wish that all your vendors did this.
 
 ## Implementation Details
 
