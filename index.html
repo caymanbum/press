@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>Iguana License</title>
+   <title>Iguana &amp; Chameleon Licenses</title>
    <link rel="stylesheet" href="style.css">
 
    <script src="https://cdn.jsdelivr.net/npm/fengari-web/dist/fengari-web.js"></script>
@@ -9,7 +9,15 @@
 </head>
 <body>
    <div class="LICcontainer">
-      <div class="LICtitle">Iguana License</div>
+      <p>
+          Currently to get Chameleon licenses you will need to install Iguana and
+	  input the license key for Iguana - it will then register Chameleon as well.
+      </p>
+      <p>
+          By default this form generates licenses for Iguana 6 (Classic).  Click the
+	  checkbox if you want an Iguana X license code.
+      </p>
+      <div class="LICtitle">Iguana &amp; Chameleon License Generation</div>
 
       <div class="LICfield">
          <div class="LIClabel">Iguana ID</div>
@@ -22,8 +30,11 @@
       </div>
 
       <div class="LICfield">
-         <div class="LIClabel">Number of Channels</div>
+         <div class="LIClabel">Number of Channels or Compoents</div>
          <input id="channels" type="number">
+      </div>
+      <div class="LICfield">
+         <div class="LIClabel">Iguana X License? <input id="iguana_x" type="checkbox"></div>
       </div>
 
       <div id="generate_button" class="LICbutton">

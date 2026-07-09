@@ -23,7 +23,8 @@ local function Submit()
    local Query =
       "license?id=" .. Encode(IguanaId) ..
       "&customer_id=" .. Encode(CustomerId) ..
-      "&channels=" .. Encode(Channels)
+      "&channels=" .. Encode(Channels) ..
+      "&iguanax=" .. tostring(Element("iguana_x").checked)
 
    print(Query);
    window.location.href = Query
