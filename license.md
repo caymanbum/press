@@ -49,4 +49,4 @@ I’m gradually replacing a company that depended on people, emails, spreadsheet
 
 It’s a great way to build a company - a little messy in the beginning but order comes to the system quickly.
 
-See the [Lua source](../license.lua).
+See the [Lua source](license.lua).
