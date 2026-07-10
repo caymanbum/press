@@ -1,8 +1,8 @@
 # Iguana Pricing Philosophy
 
-Pricing an interface engine like Iguana is a unique challenge. Rather than trying to assign a value based on specific features, which everyone generally needs, we believe the real value of Iguana depends largely on your specific context and use case.
+Pricing an interface engine like Iguana is a unique challenge. Rather than trying to assign a value based on specific features, which everyone generally needs, the real value of Iguana depends largely on your specific context and use case.
 
-Our approach is built on trust and open communication. If you are just starting out, all we ask is for a reasonable contribution, especially if you’d like support or assistance. If you need a more hands-on implementation, we’re happy to refer you to a trusted affiliate who specializes in this work.
+My approach is built on trust and open communication. If you are just starting out, all we ask is for a reasonable contribution, especially if you’d like support or assistance. If you need a more hands-on implementation, I am happy to refer you to a trusted affiliate who specializes in this work.
 
 As a small independent developer, I don’t have the capacity to serve as an unpaid consultant for uncertain or high-maintenance projects, and I’ve moved away from the old pricing model that didn’t serve either side well.
 
