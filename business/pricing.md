@@ -18,4 +18,4 @@ Thank you for understanding the ethos behind Iguana’s pricing and your continu
 
 My preferred approach is just to have a straightforward conversation - my contact details are on my website:
 
-[https://www.interfaceware.com/contact]([https://www.interfaceware.com/contact)
+[https://www.interfaceware.com/contact](https://www.interfaceware.com/contact)
