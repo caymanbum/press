@@ -14,4 +14,5 @@ If you are using my commercial products in a production context making money the
 need to pay.   You are welcome to rewrite your interfaces and use say [Mirth but understand that there are security costs
 associated with this reckless choice](security.md).
 
-I reserve the right to enforce my legitimate property rights in any way I choose to. I believe this is fair.
+Eliot reserves the right to enforce his legitimate property rights in any way he chooses to. He believes this is fair.
+

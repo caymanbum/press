@@ -3,3 +3,6 @@
 These are easy to provide.  I have prefilled out the form.  Just download it and add today's date and have everything you need.
 
 [w8ben.pdf template](w8ben.pdf)
+
+All invoices will be issued for services maintaining the Iguana/Chameleon source and providing support for your critical infrastructure.  See [tax.md](tax.md).
+

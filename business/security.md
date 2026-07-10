@@ -1,25 +1,16 @@
-# Security Concerns
+# The Financial and Business Risks Associated with Using Inferior Competing Products to Iguana
 
-Selecting secure technology is a critical responsibility for any organization handling sensitive data. However, some interface engines incorporate technologies that may introduce additional security risks, such as:
+Security is a critical concern when selecting technology for handling sensitive data. Legacy interface engines such as Cloverleaf, Rhapsody, Qvera and Mirth rely on technologies like TCL (Cloverleaf), Java, and JavaScript, which can introduce additional vulnerabilities—especially since all these systems suffer severely from technical debt or inconsistent upkeep. They often prioritize adding features they can sell to unsophisticated customers rather than focusing on the unglamorous but essential problem of making their products stable and secure.
 
-- **TCL** (e.g., used in Cloverleaf)
-- **Java and JavaScript** (e.g., used by Mirth, Rhapsody, Qvera)
-- **Legacy codebases**, which may not be actively maintained or could have become overly complex (e.g., Rhapsody, Cloverleaf, Mirth)
+While these products are widely used, maintaining a high level of security is increasingly difficult compared to Iguana, which is architected with simplicity, stability, and security in mind. Eliot is proud to use Lua because it is much more secure than JavaScript and would never subject his customers to the security risks associated with relying on complex and poorly maintained platforms like Java.
 
-While these products are widely adopted, maintaining a high level of technical robustness and security can be challenging, especially when compared to more modern alternatives such as Iguana.
+Any middleware engine written in Java such as Rhapsody, Mirth and Qvera will inevitably need to be replaced, because it simply cannot be made secure.
 
-Eliot is committed to protecting the security and privacy of all end users whose data passes through these systems. To advance industry best practices, Eliot actively monitors developments in higher-risk technologies and encourages insurance providers and organizations to incorporate these considerations into their risk assessments. This approach is one of several strategies intended to help raise overall security standards.
+Eliot is committed to advancing industry best practices by closely monitoring these high-risk technologies and encouraging organizations to factor them into their risk management processes. Raising awareness within the insurance sector about these limitations can help drive improvements in industry-wide cybersecurity standards.
 
-Organizations dependent on products with known security limitations may face increased exposure to cyber threats, such as ransomware attacks. For example, certain products—including Mirth—have known and documented vulnerabilities. If these are not properly managed and mitigated, organizations and their clients could be put at risk. It’s important to note that no platform is inherently insecure; rather, risk is shaped by factors such as technical debt, patch management, and architectural choices.
+To support this effort, Eliot is developing security testing tools tailored for insurance firms and system administrators, with a focus on responsible, legitimate use. Ultimately, Eliot’s approach emphasizes strong engineering, consistent updates, layered defenses, and regular assessments. In particular, technologies with persistent security flaws—like those based on Java—should be replaced with modern, secure alternatives written in systems languages such as C or C++.
 
-Raising these issues with the insurance sector can help promote improvements in cybersecurity across the industry.
+History has shown that, for critical infrastructure, the stability of products written mostly in C—and preferably not too much of it—cannot be beaten.  For instance GIT written in C won hands down over Mercurial which was written in Python.
 
-To support progress in this area, Eliot is exploring the development of security testing tools designed to identify vulnerabilities and assist with SOC2 compliance for insurance firms and system administrators. These tools are intended strictly for legitimate security purposes, with controlled access and usage agreements to ensure responsible use.
+The Iguana platform embodies this philosophy, prioritizing security from the ground up, using a serious systems language - C/C++ and offering open-source access to benefit the entire industry. Eliot's leadership, patience, and disciplined strategy position Iguana as the platform best equipped to effectively address and improve healthcare data security.
 
-Ultimately, Eliot's goal is to help the industry move beyond discussion and toward robust, well-architected solutions that deliver tangible data protection. In addition to selecting secure technology, it is essential for organizations to keep all software updated, implement layered defenses, and conduct regular security assessments.
-
-Regrettably, some technologies—such as those built on Java—lack a viable risk mitigation path and simply need to be replaced with solutions based on proven systems languages like C or C++, written carefully with security as a primary focus.
-
-This is essentially the value proposition of Iguana: it is the only platform where security is treated as a foundational priority. With Eliot's open source strategy, this means everyone will have access, benefiting security across the industry as a whole. While adoption will take time, Eliot is known for patience, focus, and discipline—and these efforts will ultimately drive industry-wide security improvements and consolidation on his platform since he's the only one who will do it thoroughly.
-
-No one else has the capability to it correctly.

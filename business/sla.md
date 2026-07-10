@@ -1,38 +1,12 @@
 # Service Level Agreements
 
-I used to hire a veritable army of people that would negotiate custom contracts and Service level agreement with customers
+In the past, Eliot spent considerable resources having teams negotiate custom contracts and service level agreements (SLAs) with customers. This approach was ineffective—support staff would never read these contracts, and it wasn’t practical to reconfigure one organization for every new agreement. In reality, we had a single, stable team supporting Iguana 6, a product whose reliability only faltered when professional services implemented ill-advised, custom "high availability" Lua scripts—solutions I actively discouraged but that the team continued to deploy, often influencing the clients to make implement these awful soltions.
 
-This was a complete waste of time.  Firstly no one in support delivering service would read those agreements - it wasn't like we could build a new organization everytime a new and unique service level agreement was signed.
+That's why Eliot eliminated all his employees to solve the problem that they made customer systems less rather than more stable and made it harder for him to learn about what customers really needed.
 
-The reality then was we had one organization and as far as Support on  Iguana 6 was concerned there was really nothing to do
+Eliot's current stance on SLAs is pragmatic: The product’s reliability speaks for itself, with thousands of deployments and millions of transactions. If you want Iguana 6, you [pay to use it](free.md), but I’m not assuming liability for damages if it doesn’t fit your specific needs. Instead, I’m seeking more collaborative relationships with my customers—not just transactional ones where they demand customized SLAs.
 
-The only way that product became unreliable was when people were stupid enough to accept the help of my professional services team a dreadful, so-called high availability solution that was a bunch of shaky Lua scripts that was held together
+For organizations that require compliance with standards like SOC2, keep in mind that you rely on many other core technologies (like Linux) without any direct contractual obligations from their creators. 
 
-As much as I would try to persuade the team, not to actually use this, they kept on insisting that customers were asking for it and kept on implementing it
-
-I think in reality it was the team that was putting the idea into the minds of customers and not saying no
-
-So I have a very simple policy when it comes to Service level agreement now
-
-You can try out the product you know it’s reliable. You know that it’s been used in thousands of sites handling millions of transactions.
-
-There’s nothing like it on the market that matches the stability of Iguana 6
-
-If you want to use it, then you have to just pay.  I’m not going to be liable for massive amounts of damage if it doesn’t work for your purposes.
-
-If anything what I need is a more collaborative relationship with my customers
-
-Because iguana six is so stable nobody wants to go off of it. I actually need a more active engagement from my customer base.
-
-I don’t need customers that are gonna shout at me about their SLAs
-
-If you are a regulated organization and you have SLAs and you need SoC2 checklists then I think you’ve just gotta consider the fact that your organization probably uses other things like Linux.
-
-Linus Torvalus is to Linux What Eliot Muir is to Iguana 🦎.
-
-You can buy Service level agreements from third parties through my affiliate network.  But it’s probably frankly not that valuable. You’re honestly better off just to get a good  consultant and decent staff.
-
-Foreign concept for a lot of people I know .  I am chatting to various organizations that do SOC2 compliance.  You’re better off just thinking of me as a very talented contractor that works for you.
-
-I think I can generate ESG forms W-8BEN forms with a script. But if you expect me to act like a traditional Accounts Receivable apartment chasing up after your bureaucracy thing again and just won’t happen.
+Likewise, you can buy third-party SLAs through affiliates, but often, hiring competent consultants and building a good team is much more valuable.At the end of the day, think of me as a talented contractor, not an accounts receivable department chasing paperwork—I’m here to help, but not to get bogged down by bureaucracy.
 
