@@ -11,7 +11,9 @@ Legacy installers for critical infrastructure software need to be preserved on a
 
 Chameleon customers should also understand that these Iguana installers actually have Chameleon embedded in them.
 
-There is no real benefit in creating a separate Chameleon license-code generator either, since registering Iguana registers Chameleon anyway.
+There is small benefit in creating a separate Chameleon license-code generator either, since registering Iguana registers Chameleon anyway.
+
+If you want me to do it let me know.
 
 So, frankly, resurrecting a separate license-code generator for a product that should have retired decades ago would be a huge waste of valuable time.
 
