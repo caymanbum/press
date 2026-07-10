@@ -9,7 +9,7 @@ You want conservative and serious - sure.
 
 You want satire and fart jokes - not a problem.
 
-For that matter, if you want it in Spanish or Italian or any other obscure or if you want it to be spoken out to you in a creepy computer voice (I'll try to make it less creepy) then technologically these things are quite easy to do using AI to translate it on the fly.  That's the advantage of doing things with the simple backend and using first principles.
+For that matter, if you want it in Spanish or Italian or any other obscure language or if you want it to be spoken out to you in a creepy computer voice (I'll try to make it less creepy) then technologically these things are quite easy to do using AI to translate it on the fly.  That's the advantage of doing things with the simple backend and using first principles.
 
 I'll be using Iguana to do that and I will be making it easy for my followers to do the same.
 
