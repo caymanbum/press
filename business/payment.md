@@ -2,6 +2,16 @@
 
 The best way to pay me is by transferring funds directly, as this ensures I receive 100% of the payment.
 
+## Make all payments for services to avoid withholding tax.
+
+If you want to pay extra tax then don't do this.  But you will just need to pay me 30% extra.  You are paying
+me for services to maintain Iguana which is very important that it happens because it's critical infra-structure
+for the world's health systems.  A lot of what we take for granted in world health care wouldn't happen without
+it.
+
+By paying the maintainer and creator of Iguana and Chameleon you are doing the ethical thing and helping him work
+so that you can enjoy safe and private transmission of your data.
+
 I live in the Cayman Islands, which does not have a tax treaty with the United States. That means if you
 pay me for software royalties you have to deduct tax.  If you want to do that way it's fine but that cost
 will just be added to your bill so I still receive the same amount of money we agreed on.
