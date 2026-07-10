@@ -3,10 +3,11 @@
 1. **Locate Your Iguana ID:**  
    You will need your unique Iguana ID to get your license code.  
    (You can find your Iguana ID in your Iguana instance license page.)
+
    If you need access to the installers go to [Downloads](products/downloads.md)
 
-2. **Then go to one of two license generation pages**
-3. 
+3. **Then go to one of two license generation pages**
+4. 
    [https://license.interfaceware.com/index_conservative.html](https://license.interfaceware.com/index_conservative.html)  (for middle management)
    
    [https://license.interfaceware.com/index_funny.html](https://license.interfaceware.com/index_funny.html)  (for developers who like fart jokes)
