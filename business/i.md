@@ -13,13 +13,13 @@ Now, it’s time to clear up the confusion and explain how our payment processes
 - [Tax](tax.md): Understanding tax rules for paying Eliot.
 - [Pricing](pricing.md): Good integration software often saves organizations far more than it costs. Pricing should reflect the value created, with both sides working together in good faith to reach a fair agreement.  Awkward huh!
 - [Bureaucracy](bureaucracy.md): How your bureaucracy can negatively affect service delivery and communication.
-- [Busy](busy.md): Eliot is a very busy, gifted engineer—not an accounting or legal department.
-- [ESG](esg.md): Information for Environmental, Social, and Governance form filling.
-- [Free](free.md): Good products like Iguana 6 are not “free.”
-- [Mail](mail.md): Mailing address for Eliot, if you are unable to use email.
-- [Security](security.md): Risks of using inferior alternatives to Iguana.
-- [SLA](sla.md): What to expect from Eliot's Service Level Agreements.
-- [Statement](statement.md): Clarity around the absence of Statements of Work and project deliverables.
+- Eliot is a [very busy](busy.md), gifted engineer—not an accounting or legal department.
+- Information for [Environmental, Social, and Governance form filling](esg.md).
+- Good products like Iguana 6 [are not “free.”](free.md)
+- [Snail Mailing address for Eliot](mail.md), if you are unable to use email.
+- [Security risks](security.md) of using inferior alternatives to Iguana.
+- What to expect from Eliot's [Service Level Agreements](sla.md).
+- Clarity around the absence of [Statements of Work and project deliverables](statement.md).
 - And [specialized expertise](expert.md) is of high value.  It is not given freely for peanuts.
 
 By reviewing these documents, customers will gain clarity on how Eliot now operates, why it needs to be this way, what value you can expect, and how to ensure a productive and mutually beneficial relationship moving forward.
