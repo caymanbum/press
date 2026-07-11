@@ -1,16 +1,14 @@
 # Residency and Tax Status
 
-Eliot is a full-time resident of the Cayman Islands and operates as an independent trader.
+Eliot is a full-time resident of the Cayman Islands and operates as an independent sole proprietor.
 
-He does not expect his customers to pay taxes in the Cayman Islands, as they do not live there.
+As a general principle, he does not expect customers to pay Cayman Islands taxes simply because they purchase his products or services. Likewise, he does not expect to pay income taxes in countries where he does not reside or conduct business in a way that creates a tax obligation.
 
-Likewise, he does not expect his customers to expect him to pay taxes in their countries, since he does not reside there.
+Each party is responsible for complying with the tax laws that apply to them. Where local law requires withholding taxes or other tax treatment, customers should of course comply with their legal obligations.
 
-Since neither Eliot nor his customers reside in each other's jurisdictions or use each other's government services, this is a very reasonable position.
+The Cayman Islands funds government primarily through import duties and other indirect taxes rather than personal income tax. As a resident, Eliot contributes through these taxes on the goods and services he consumes.
 
-Eliot pays significant taxes in the Cayman Islands, primarily through substantial duties levied on imported goods—covering nearly everything he consumes.
-
-This arrangement keeps Eliot’s accounting overhead low, enabling him to focus on what matters most: ensuring that Iguana and his other products maintain the stability and reliability his customers expect.
+This simple business structure keeps administrative overhead low, allowing Eliot to focus on what matters most: building, maintaining, and supporting software that is exceptionally stable, reliable, and valuable to customers.
 
 ## No Relevant Tax Registration Numbers
 
