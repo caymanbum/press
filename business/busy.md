@@ -12,7 +12,7 @@ At first, Eliot's customers were a little alarmed when he made the rational choi
 
 However, after seriously evaluating all the competing options—and finding them much harder to use, less reliable, and much slower—customers soon realized there wasn’t much choice but to do business with Eliot.
 
-In the end, it made a lot of sense. Eliot is a talented writer with a pleasant sense of humor, remarkable creativity, and the ability to produce products that simply work. The overall quality greatly improved once Eliot stopped stressing over employee management and focused solely on making his users happy.
+In the end, it made a lot of sense. Eliot is a very talented engineer with a pleasant sense of humor, remarkable creativity, and the ability to produce products that simply work. The overall quality greatly improved once Eliot stopped stressing over employee management and focused solely on making his users happy.
 
 This turned out to be an excellent decision. Although he invested some effort up front to simplify the contracting and accounts receivable processes, everything worked out extremely well.
 
