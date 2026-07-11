@@ -2,7 +2,7 @@
 
 The best way to pay Eliot is by transferring funds directly, as services so he gets 100% of the payment.  See [tax](tax.md).
 
-Eliot recognizes that most banks rely on legacy technology, which is often highly insecure. He attempts to mitigate his risks by using more than one bank so when a bank is compromised he has alternative routs of payment. It is inevitable that issues may arise, as many banks are quite vulnerable to cyber attacks because their technology is chaotic and often poorly maintained.
+Eliot recognizes that most banks rely on legacy technology, which is often highly insecure. He attempts to mitigate his risks by using more than one bank so when a bank is compromised he has alternative methods of payment. It is inevitable that issues may arise, as many banks are quite vulnerable to cyber attacks because their technology is chaotic and often poorly maintained.
 
 ## Wire Payment to the Cayman Islands
 
