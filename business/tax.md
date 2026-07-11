@@ -45,7 +45,7 @@ Let **X** be the total amount the client pays.
 
 So,
 
-\\[ X = \\frac{1000}{0.70} = 1,428.57 \\]
+$1,000 ÷ 70% = $1,428.57
 
 Therefore:
 
