@@ -50,7 +50,7 @@ The business is operated solely by Eliot Muir, with the support of a network of 
 
 Governance is therefore direct and personal. He makes decisions, takes responsibility for them, and accepts the consequences.
 
-He prefers simple systems, transparent communication, minimal bureaucracy, direct relationships, and personal accountability.
+He prefers simple systems, transparent communication, minimal [bureaucracy](bureaucracy.md), direct relationships, and personal accountability.
 
 Eliot is particularly interested in resilience, security, decentralization, and reducing dependence on systems vulnerable to failure or external control.
 
