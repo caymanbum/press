@@ -1,10 +1,8 @@
 # How to Pay Eliot
 
-The best way to pay Eliot is by transferring funds directly, as this ensures he receives 100% of the payment.
+The best way to pay Eliot is by transferring funds directly, as services so he gets 100% of the payment.  See [tax](tax.md).
 
-It is also more [tax](tax.md) optimal for customers to pay me directly for my services, as this reflects the true value provided.
-
-Eliot recognizes that most banks rely on legacy technology, which is often highly insecure. He attempts to mitigate his risks, but it is inevitable that issues may arise, as many banks are quite vulnerable to cyber attacks because their technology is chaotic and often poorly maintained.
+Eliot recognizes that most banks rely on legacy technology, which is often highly insecure. He attempts to mitigate his risks by using more than one bank in case one bank is compromised. It is inevitable that issues may arise, as many banks are quite vulnerable to cyber attacks because their technology is chaotic and often poorly maintained.
 
 ## Wire Payment to the Cayman Islands
 
@@ -58,3 +56,10 @@ M6G 1K1
 Eliot's Wise tag is **@eliotmervynm**
 
 This is convenient way to pay.
+
+## Bitcoin
+
+Eliot's open to receiving money this way but doesn't yet know how yet,  It seems like
+a good idea since other forms of [long term value storage](long.md) are likely to be disrupted.
+
+
