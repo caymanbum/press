@@ -12,7 +12,7 @@ My goal is to leave behind a robust product that will stand the test of time and
 
 If Iguana is a mission-critical part of your infrastructure and you’re currently using it for next to nothing, I encourage you to consider whether that’s a sustainable approach for either of us in the long term.
 
-For existing customers about to renew, I truly value having an open and honest conversation to determine a fair arrangement for both parties. Please remember that I’m an individual, not a large company, so I appreciate respectful and straightforward discussions. If negotiations become difficult or time-consuming, I may have to step back and encourage you to explore other alternatives.
+For existing customers about to renew, I truly value having an open and honest conversation to determine a fair arrangement for both parties. Please remember that I’m an individual, not a large company, so I appreciate respectful and straightforward discussions. If negotiations become difficult or time-consuming, I may have to step back and [encourage you to explore other alternatives](security.md).
 
 Thank you for understanding the ethos behind Iguana’s pricing and your continued support.
 
