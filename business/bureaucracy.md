@@ -17,4 +17,3 @@ Without the regulatory burden, he was able to streamline his business and focus 
 Yes they do wish that Eliot could more than one person.  Eliot too wishes he could clone himself but he's found that that next best thing is to train AI agents with his methodology and ideas.  This works for him.
 
 In retrospect, Eliot regrets ever having been an employer and vows never to be one again. Now, he works only with independent business people—as affiliates, business partners, or direct customers.
-

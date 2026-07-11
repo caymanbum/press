@@ -14,4 +14,8 @@ If your heart still yearns for a third-party SLA, there are always enterprising 
 
 In short: Eliot is your friendly neighborhood contractor, not your unpaid accountancy intern. He strives to deliver genuine value and good advice—and to keep both bureaucracy and unread SLAs far, far away from the Iguana codebase.
 
-On a more serious note, if you are in a regulated industry you can use third party affiliates for this valuable work.
+## Customers in Regulated Industries that Need SLAs
+
+On a more serious note, if you are in a regulated industry you can use third party affiliates for this valuable work.  But you will need to negotiate the details of what impossible promises you want them to make with them directly.
+
+Enterprise users of Linux buy poor quality service agreements from IBM, not from the creator of Linux - Linus Torvalus.

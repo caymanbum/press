@@ -14,8 +14,6 @@ This arrangement keeps Eliot’s accounting overhead low, enabling him to focus 
 
 ## No Relevant Tax Registration Numbers
 
-Eliot neither possesses nor is required to possess a GST or VAT number for your jurisdiction.
-
 If your country has specific requirements or opinions about what taxes should be paid, that is a matter you should take up with your own government. Eliot, as an individual with limited bandwidth, prefers not to be involved in such matters. He needs to concentrate his energies on delivering exceptionally reliable and easy-to-use products that the global healthcare system depends on.
 
 ## All Payments Are for Eliot’s Time and Attention
