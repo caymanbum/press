@@ -1,38 +1,17 @@
 # Service Level Agreements
 
-I used to hire a veritable army of people that would negotiate custom contracts and Service level agreement with customers
+Once upon a time, Eliot marshaled teams of not so highly capable negotiators to hash out intricate, bespoke Service Level Agreements (SLAs) with customers—each contract more labyrinthine than the last. What did this accomplish? Well, mostly that support staff heroically *did not read* these contracts. Frankly, neither did the code in *Iguana*; it went about its business blissfully unaware, never once pausing to check, “Wait, am I contractually obligated to retry this connection one more time?”
 
-This was a complete waste of time.  Firstly no one in support delivering service would read those agreements - it wasn't like we could build a new organization everytime a new and unique service level agreement was signed.
+There was, in reality, just one team supporting Iguana 6: a workhorse of a product, renowned for reliability—at least until someone rolled out a “high availability” solutions so bespoke it qualified as performance art. Despite Eliot’s best efforts to banish such dubious customizations, the team occasionally snuck them in, armed with nothing but good intentions and alarming powers of persuasion (“Yes, this will definitely make your system *more* available!”).
 
-The reality then was we had one organization and as far as Support on  Iguana 6 was concerned there was really nothing to do
+Faced with a support ecosystem that thrived on chaos and contracts ignored by both humans and code, Eliot saw only one rational solution: eliminate the humans. After all, it was hard to tell if they were improving stability or just introducing creative new *types* of outages—and they made it virtually impossible for Eliot to figure out what customers were actually struggling with.
 
-The only way that product became unreliable was when people were stupid enough to accept the help of my professional services team a dreadful, so-called high availability solution that was a bunch of shaky Lua scripts that was held together
+Thus, in the present era, Eliot’s approach to SLAs is charmingly minimalist: Iguana 6 has thousands of deployments under its belt, millions of transactions every day, and zero lines of code for parsing legalese. If you’d like to use it, you simply [pay to use it](free.md). If it does not meet your incredibly specific and possibly unpronounceable needs, Eliot does not assume liability—nor will the software wake up in the middle of the night to check your compliance report.
 
-As much as I would try to persuade the team, not to actually use this, they kept on insisting that customers were asking for it and kept on implementing it
+Modern organizations love to demand things like SOC2 compliance. But let’s be honest: they’re already dependent on technologies like Linux that make even less pretense of reading your paperwork. (Try sending Linus Torvalds your SLA and see if he sends anything but an animated GIF in reply.)
 
-I think in reality it was the team that was putting the idea into the minds of customers and not saying no
+If your heart still yearns for a third-party SLA, there are always enterprising affiliates ready to sell you one—much as medieval alchemists sold immortality elixirs. In most cases, however, Eliot recommends investing in honest-to-goodness internal talent.
 
-So I have a very simple policy when it comes to Service level agreement now
+In short: Eliot is your friendly neighborhood contractor, not your unpaid accountancy intern. He strives to deliver genuine value and good advice—and to keep both bureaucracy and unread SLAs far, far away from the Iguana codebase.
 
-You can try out the product you know it’s reliable. You know that it’s been used in thousands of sites handling millions of transactions.
-
-There’s nothing like it on the market that matches the stability of Iguana 6
-
-If you want to use it, then you have to just pay.  I’m not going to be liable for massive amounts of damage if it doesn’t work for your purposes.
-
-If anything what I need is a more collaborative relationship with my customers
-
-Because iguana six is so stable nobody wants to go off of it. I actually need a more active engagement from my customer base.
-
-I don’t need customers that are gonna shout at me about their SLAs
-
-If you are a regulated organization and you have SLAs and you need SoC2 checklists then I think you’ve just gotta consider the fact that your organization probably uses other things like Linux.
-
-Linus Torvalus is to Linux What Eliot Muir is to Iguana 🦎.
-
-You can buy Service level agreements from third parties through my affiliate network.  But it’s probably frankly not that valuable. You’re honestly better off just to get a good  consultant and decent staff.
-
-Foreign concept for a lot of people I know .  I am chatting to various organizations that do SOC2 compliance.  You’re better off just thinking of me as a very talented contractor that works for you.
-
-I think I can generate ESG forms W-8BEN forms with a script. But if you expect me to act like a traditional Accounts Receivable apartment chasing up after your bureaucracy thing again and just won’t happen.
-
+On a more serious note, if you are in a regulated industry you can use third party affiliates for this valuable work.

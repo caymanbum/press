@@ -1,73 +1,76 @@
-# Eliot Muir — ESG Policy
+# Eliot Muir — Environment, Safety, and Governance (ESG) Policy
 
-This policy describes how I live, work, make decisions, and treat people, reflecting my real practices rather than a template designed for a large corporation.  This is for use by our affiliates who will fill out ESG questionaires on my behalf.
+Since Environment, Safety, and Governance (ESG) forms are non-standard at this stage, Eliot is unable to provide custom form filling for customers. Instead, he provides the following information.
 
-## Long interest in environmental issues
+This policy describes how Eliot lives, works, makes decisions, and treats people. It reflects his real practices, rather than being a template designed for a large corporation. It is for use by our affiliates who will fill out ESG questionnaires on Eliot’s behalf.
 
-I have an MSc in Environmental Science and I got first class honours for a economics thesis that showed unsurprisingly with a lot of mathematics
-that if you gave money and rights to people who like trees, you would get more trees.  
+## Longstanding Interest in Environmental Issues
 
-It reminded me of the Catholic Church in the middle ages giving their sermons in Latin to make them sounds more clever than they really were.
+Eliot holds an MSc in Environmental Science and received first-class honours for an economics thesis which, using rigorous mathematics, demonstrated that if you gave money and rights to people who liked trees, you would get more trees.
+
+This reminded Eliot of the Catholic Church in the Middle Ages, delivering sermons in Latin to sound more clever than they really were.
 
 ## Environmental
 
-I work primarily from my solar-powered home and am working toward complete independence from the electricity grid. I am also interested in collecting and using rainwater to reduce dependence on centralized water infrastructure.
+Eliot primarily works from his solar-powered home and is working toward complete independence from the electricity grid. He is also interested in collecting and using rainwater to reduce dependence on centralized water infrastructure.
 
-I recycle as much as reasonably possible and prefer practical sustainability: reducing consumption, reusing what already exists, and avoiding waste where possible.
+Eliot recycles as much as reasonably possible and prefers practical sustainability: reducing consumption, reusing what already exists, and avoiding waste wherever feasible.
 
-I replace older lighting with LEDs for improved energy efficiency, safety, and longevity. When renovating, I favor modular systems and commodity components that can be moved, reused, repurposed, sold, or recycled as needs change.
+He replaces older lighting with LEDs for improved energy efficiency, safety, and longevity. When renovating, he favors modular systems and commodity components that can be moved, reused, repurposed, sold, or recycled as needs change.
 
-My philosophy is simple:
+His philosophy is simple:
 
 **Do not permanently build what can be modular. Do not throw away what can be reused. Do not buy something specialized when a simple commodity product will do the job.**
 
-I am also interested in driving an electric car, with a preference for technology that is efficient and user-controlled.
+He is also interested in driving an electric car, with a preference for technology that is efficient and user-controlled. It feels a bit too risky for him to drive a Tesla, which might not be controlled by him but instead could be controlled by Tesla or by malicious attackers who might infiltrate their cloud infrastructure.
 
-For me, sustainability and resilience go hand-in-hand. Good technology should be efficient, safe, maintainable, economical, and remain under the owner's control.
+Eliot isn’t a huge fan of putting everything in the cloud. He designs his products so that his customers have the choice not to, if they prefer to keep their data safe from malicious actors.
+
+For Eliot, sustainability and resilience go hand in hand. Good technology should be efficient, safe, maintainable, economical, and remain under the owner’s control.
 
 ## Social
 
-As I have no employees, conventional topics such as workforce demographics and internal diversity programs do not apply.
+As Eliot has no employees, conventional topics such as workforce demographics and internal diversity programs do not apply.
 
-However, I care deeply about neurodiversity and supporting people whose minds work differently than the norm.
+Eliot cares deeply about neurodiversity and supporting people whose minds work differently than the norm.
 
-I personally exhibit a range of neurodiverse characteristics, which has given me an appreciation for diverse ways of thinking and problem-solving.
+He personally exhibits a range of neurodiverse characteristics, which have given him an appreciation for diverse ways of thinking and problem-solving. People can be judgmental about these traits, without recognizing that, without them, Eliot would not have come up with the technology the world has come to depend on.
 
-Unusual minds can solve unusual problems—and sometimes tackle challenges that conventional approaches cannot.
+Eliot has an unusual mind that can solve unusual problems—and almost always tackle challenges that conventional approaches cannot.
 
-My social policy:
+His social policy:
 
 **Treat people as individuals rather than categories.**
 
-I value independent thinking, direct communication, humor, intellectual freedom, and practical accommodation of genuine differences.
+He values independent thinking, direct communication, humor, intellectual freedom, and practical accommodation of genuine differences.
 
 ## Governance
 
-The business is operated solely by me, Eliot Muir, with the support of a network of affiliate partners for areas where I require additional expertise.
+The business is operated solely by Eliot Muir, with the support of a network of affiliate partners for areas where he requires additional expertise. However, it is difficult to match his core ideas and expertise—he is truly unique.
 
-Governance is therefore direct and personal. I make decisions, take responsibility for them, and accept the consequences.
+Governance is therefore direct and personal. He makes decisions, takes responsibility for them, and accepts the consequences.
 
-I prefer simple systems, transparent communication, minimal bureaucracy, direct relationships, and personal accountability.
+He prefers simple systems, transparent communication, minimal [bureaucracy](bureaucracy.md), direct relationships, and personal accountability.
 
-I am particularly interested in resilience, security, decentralization, and reducing dependence on systems vulnerable to failure or external control.
+Eliot is particularly interested in resilience, security, decentralization, and reducing dependence on systems vulnerable to failure or external control.
 
-My guiding principle:
+His guiding principle:
 
 **Important systems should be understandable, maintainable, secure, resilient, and under the control of those who depend on them.**
 
-This applies to my home, water, electricity, vehicles, software, and business.
+This applies to his home, water, electricity, vehicles, software, and business.
 
-I value making decisions based on evidence and critical thinking.
+He values making decisions based on evidence and critical thinking.
 
 ## Summary
 
-I am a sole proprietor running a small software business from a solar-powered home.
+Eliot is a sole proprietor, running a small software business from a solar-powered home.
 
-I recycle, use energy-efficient lighting, prefer modular and reusable technologies, aim to collect rainwater, and seek independence from the electricity grid. I favor sustainable technology, provided ownership includes meaningful control.
+He recycles, uses energy-efficient lighting, prefers modular and reusable technologies, aims to collect rainwater, and seeks independence from the electricity grid. He favors sustainable technology, provided ownership includes meaningful control.
 
-I care about neurodiverse and unconventional people, treating each individual based on their merits and needs.
+He cares about neurodiverse and unconventional people, treating each individual based on their merits and needs.
 
-I prefer resilience over dependency, simplicity over bureaucracy, personal accountability over committees, and practical action over box-ticking.
+He prefers resilience over dependency, simplicity over bureaucracy, personal accountability over committees, and practical action over box-ticking.
 
-That is my ESG policy.
+Hopefully, this is enough information to fill out your ESG forms.
 

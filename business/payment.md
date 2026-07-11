@@ -1,16 +1,65 @@
 # How to Pay Eliot
 
-The best way to pay me is by transferring funds directly, as this ensures I receive 100% of the payment.
+The best way to pay Eliot is by transferring funds directly, as services so he gets 100% of the payment.  See [tax](tax.md).
 
-I live in the Cayman Islands, which does not have a tax treaty with the United States. That means if you
-pay me for software royalties you have to deduct tax.  If you want to do that way it's fine but that cost
-will just be added to your bill so I still receive the same amount of money we agreed on.
- 
-As such, the most cost-effective method is to transfer money directly to my account at Butterfield Bank in the Cayman Islands. Alternatively, I also accept transfers via Wise—whichever works best for you.
+Eliot recognizes that most banks rely on legacy technology, which is often highly insecure. He attempts to mitigate his risks by using more than one bank in case one bank is compromised. It is inevitable that issues may arise, as many banks are quite vulnerable to cyber attacks because their technology is chaotic and often poorly maintained.
 
-In the future, I hope to accept Bitcoin, but I haven’t figured out how to do that yet.
+## Wire Payment to the Cayman Islands
 
-I understand that paying internationally isn’t always straightforward. If your organization has difficulty making a direct payment, you may wish to work with a third party who can process the payment on your behalf, even if this involves paying a small additional fee for the service.
+This is a good, direct way to pay Eliot and works well:
 
-Thank you for your understanding!
+```
+Correspondent Bank: BNY Mellon, New York
+SWIFT/BIC: IRVTUS3NXXX
+ABA/Routing Number: 021000018
+Beneficiary Bank: Butterfield Bank (Cayman) Limited
+Beneficiary Bank SWIFT/BIC: BNTBKYKYXXX
+Butterfield Account at Correspondent: 8033265086
+For final credit to:
+Account Holder: Eliot Mervyn Muir
+Account Number: 1364149140011
+Address: 12 Waterside Cres., Grand Harbour, George Town, Grand Cayman, KY-1011
+```
+
+## Wire Payment to Canada
+
+This method works for now, but always check this wire page before sending money. Banks are intrinsically insecure and could collapse at any moment due to a crisis of confidence. They operate on outdated legacy technology, which could lead to serious issues in the event of a major cyberattack. Should that happen, we may be forced to use Bitcoin and other e-currencies for value exchange, since it seems unlikely banks will reform their systems before such an event occurs.
+
+Unfortunate, but what can you do?
+
+```
+Beneficiary:  
+iNTERFACEWARE INC.  
+Country: CANADA - CA  
+Street: 3500-2 Bloor St E  
+City: Toronto  
+Province: ONTARIO  
+Zip Code: M4W 1A8   
+Payment Destination: TD Canada Trust (CAD/USD only)
+
+Bank: TD Bank  
+SWIFT/BIC: TDOMCATTTOR  
+Institution Number: 004  
+Transit: 01096  
+Account Number: 5202159  
+
+Branch Address:
+TD Canada Trust – Toronto Bathurst  
+574 BLOOR ST WEST  
+TORONTO  
+ON, CA  
+M6G 1K1  
+```
+
+## WISE Payments
+
+Eliot's Wise tag is **@eliotmervynm**
+
+This is convenient way to pay.
+
+## Bitcoin
+
+Eliot's open to receiving money this way but doesn't yet know how yet,  It seems like
+a good idea since other forms of [long term value storage](long.md) are likely to be disrupted.
+
 
