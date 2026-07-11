@@ -1,5 +1,7 @@
 # Work Order: Build the Press Markdown Website
 
+Customers if you are looking for all your operational stuff to [business](../business.md).
+
 ## Objective
 
 Set up a lightweight website that dynamically publishes the contents of this Git repository:
@@ -7,6 +9,11 @@ Set up a lightweight website that dynamically publishes the contents of this Git
 And do it with a few hours.
 
 ## Payment 
+
+I pay some money up from to up to 3 people and I will only pay the other half to the one that I use.
+
+You can all negotiate with me at 1 345 325 1240.
+
 
 
 
