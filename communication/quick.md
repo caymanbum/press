@@ -1,6 +1,6 @@
 # Work Order: Build the Press Markdown Website
 
-Customers if you are looking for all your operational stuff to [business](../business.md).
+Customers if you are looking for all your operational stuff to [business](business.md).
 
 ## Objective
 
@@ -10,12 +10,9 @@ And do it with a few hours.
 
 ## Payment 
 
-I pay some money up from to up to 3 people and I will only pay the other half to the one that I use.
+I pay some money up front to up to 3 people and I will only pay the other half to the one that I use.
 
-You can all negotiate with me at 1 345 325 1240.
-
-
-
+You can all negotiate with me at 1 345 325 1240 - Whatsapp/iMessage.
 
 ```text
 https://github.com/eliotmuirgrid/press
