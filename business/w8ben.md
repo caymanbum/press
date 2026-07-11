@@ -4,5 +4,5 @@ These are easy to provide.  I have prefilled out the form.  Just download it and
 
 [w8ben.pdf template](w8ben.pdf)
 
-All invoices will be issued for services maintaining the Iguana/Chameleon source and providing support for your critical infrastructure.  See [tax.md](tax.md).
+All invoices will be issued for services maintaining the Iguana/Chameleon source and providing support for your critical infrastructure.  This means there is zero withholding tax.  See [tax.md](tax.md).
 
