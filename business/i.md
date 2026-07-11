@@ -1,6 +1,6 @@
 # Reality Check for iNTERFACEWARE Customers
 
-Many iNTERFACEWARE customers—especially those in larger, more bureaucratic organizations—were often unaware of how the company actually operated. Contrary to appearances, the company’s success was not the result of a team effort, but rather the extraordinary work of a single gifted engineer, Eliot, who found himself surrounded by a staff that was, frankly, much less skilled.
+Many iNTERFACEWARE customers—especially those in larger, more bureaucratic organizations—were often unaware of how the company actually operated. Contrary to appearances, the company’s success was not the result of a team effort, but rather the extraordinary work of a single gifted engineer, Eliot, who found himself surrounded by a [staff](staff.md) that was, frankly, much less skilled.
 
 Over time, these less capable staff members grew in number and eventually overshadowed Eliot, making it increasingly difficult for customers to see where the true value of the company lay. Many became confused, believing they were benefiting from various [Service Level Agreements (SLAs)](sla.md) and [Statements of Work](statement.md), not realizing that much of the value came directly from Eliot’s expertise.
 
