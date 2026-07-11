@@ -1,6 +1,6 @@
 # Eliot is an Individual, Not an Accounting Department
 
-If you require a lot of custom paperwork to be filled out, Eliot will simply ask you to stop using his products. Instead, you might consider [using inferior products, but be aware that there will likely be long-term costs associated with this](security.md).
+If you require a lot of custom paperwork to be filled out, Eliot will simply ask you to stop using his products. Instead, you might consider [using inferior products, but be aware that there will likely be significant risks associated with this](security.md).
 
 Alternatively, you could hire an independent person to complete your forms, but in practice, this may prove difficult to arrange.
 
