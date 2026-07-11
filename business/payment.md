@@ -60,6 +60,6 @@ This is convenient way to pay.
 ## Bitcoin
 
 Eliot's open to receiving money this way but doesn't yet know how yet,  It seems like
-a good idea since other forms of [long term value storage](long.md) are likely to be disrupted.
+a good idea since other forms of [long term value storage](store.md) are likely to be disrupted.
 
 
