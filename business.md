@@ -20,16 +20,6 @@ They are, of course, available as clients to one of my future affiliates.
 
 The difficulty is finding a competent affiliate who would actually want them.
 
-## Cancelling HIMSS Membership
-
-That was a spectacular and complete waste of money: exhibiting at HIMSS to market a product that was boring, reliable, and so reasonably priced that there was no real budget left to bribe the corporate organizations that wanted to buy it.
-
-Going to HIMSS became a yearly chore — wandering around looking at meaningless messaging that all looked exactly the same as the bland, boring, professional messaging we had on our own booth.
-
-The problem is simple: no one wanders around a trade conference looking for critical infrastructure code.
-
-They just download the nearest free product they can find. Then, even if it turns out to be full of more security holes than Swiss cheese, they keep using it because their boss is too busy trying to sell the next client to stop and fix the infrastructure underneath the business.
-
 ## License Codes:  
 For access to your license codes, please [come here](license.md).  Now offering permanent codes to those customers who have Customer IDs.  Ask me for one if you haven't got one yet.  Be helpful if you provide proof of payment and your contract since I haven't (yet) had time to figure out what crazy mess my former team left for me there.
 
