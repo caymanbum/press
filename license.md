@@ -6,14 +6,8 @@
 
    If you need access to the installers go to [Downloads](products/downloads.md)
 
-3. **Then go to one of two license generation pages**
-4. 
-   [https://license.interfaceware.com/index_conservative.html](https://license.interfaceware.com/index_conservative.html)  (for middle management)
-   
-   [https://license.interfaceware.com/index_funny.html](https://license.interfaceware.com/index_funny.html)  (for developers who like fart jokes)
-
-
-
+3. **Go to here [https://license.interfaceware.com/](https://license.interfaceware.com/)  
+   From customer feedback I have found most customers prefered a humourous site rather than one that is highly pretentious like most enterprise software websites.
 
 - For **Chameleon**
      Install Iguana 6.1.5 or 6.2 for windows and use the same license key generator as for Iguana classic above.
