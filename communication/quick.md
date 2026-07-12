@@ -1,6 +1,6 @@
 # Work Order: Build the Press Markdown Website
 
-Customers if you are looking for all your operational stuff to [business](business.md).
+Customers if you are looking for all your operational stuff to [business](../business.md).
 
 ## Objective
 
