@@ -1,5 +1,16 @@
 # Resuming Normal Operations
 
+## License Codes:  
+For access to your license codes, please [come here](license.md).  Now offering permanent codes to those customers who have Customer IDs.  Ask me for one if you haven't got one yet.  Be helpful if you provide proof of payment and your contract since I haven't (yet) had time to figure out what crazy mess my former team left for me there.
+
+## Support:  
+
+If you require assistance, our support team is ready to help—simply email [support@interfaceware.com](mailto:support@interfaceware.com).  At the moment that is me - but if the volume get's too great I'll see if my brother Julian will help out and I have a couple of Caymanian friends who have nice communication styles who can probably help out too if needed. So far it's not been bad and I am grateful to actually talk to customers who use the product!  So refreshing.  That was really hard to get in the past with the title of CEO and Founder.
+
+By far the bulk of the current work flow is contract renewels and issueing license codes so I am focused on automating all that highly valuable activity. 
+
+## Thank your for your Loyalty
+
 Thanks, everyone — I’m very happy to see relations normalizing with my customer base.
 
 In particular, thank you to the solid heads at Swift Queue, Countess of Chester Hospital, Evergreen Hospital, LGI Healthcare, Tecsys, and MD Anderson, who are in the process of renewing their licensing with me under my new corporate structure.
@@ -19,15 +30,6 @@ These are the organizations with almost zero ability to implement anything. They
 They are, of course, available as clients to one of my future affiliates.
 
 The difficulty is finding a competent affiliate who would actually want them.
-
-## License Codes:  
-For access to your license codes, please [come here](license.md).  Now offering permanent codes to those customers who have Customer IDs.  Ask me for one if you haven't got one yet.  Be helpful if you provide proof of payment and your contract since I haven't (yet) had time to figure out what crazy mess my former team left for me there.
-
-## Support:  
-
-If you require assistance, our support team is ready to help—simply email [support@interfaceware.com](mailto:support@interfaceware.com).  At the moment that is me - but if the volume get's too great I'll see if my brother Julian will help out and I have a couple of Caymanian friends who have nice communication styles who can probably help out too if needed. So far it's not been bad and I am grateful to actually talk to customers who use the product!  So refreshing.  That was really hard to get in the past with the title of CEO and Founder.
-
-By far the bulk of the current work flow is contract renewels and issueing license codes so I am focused on automating all that highly valuable activity. 
 
 ## Plans for Iguana
 
