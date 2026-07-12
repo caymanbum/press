@@ -1,5 +1,8 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
    <title>Iguana &amp; Chameleon Licenses</title>
    <link rel="stylesheet" href="style.css">
 
@@ -7,38 +10,118 @@
    <script type="application/lua" src="license.lua"></script>
 </head>
 <body>
-   <div class="LICcontainer">
-      <p>
-          Currently to get Chameleon licenses you will need to install Iguana and
-	  input the license key for Iguana - it will then register Chameleon as well.
-      </p>
-      <p>
-          By default this form generates licenses for Iguana 6 (Classic).  Click the
-	  checkbox if you want an Iguana X license code.
-      </p>
-      <div class="LICtitle">Iguana &amp; Chameleon License Generation</div>
+   <header class="LICsiteHeader">
+      <a class="LIClogo" href="https://www.interfaceware.com/" aria-label="iNTERFACEWARE home">
+         <span class="LIClogoMark">iW</span>
+         <span>iNTERFACEWARE</span>
+      </a>
+      <nav class="LICnav" aria-label="Main navigation">
+         <a href="https://www.interfaceware.com/iguana">Iguana</a>
+         <a href="https://www.interfaceware.com/contact">Contact Us</a>
+      </nav>
+   </header>
 
-      <div class="LICfield">
-         <div class="LIClabel">Iguana ID</div>
-         <input id="iguana_id" type="text">
-      </div>
+   <main>
+      <section class="LIChero">
+         <div class="LICheroInner">
+            <div class="LICheroCopy">
+               <div class="LICeyebrow">License Portal</div>
+               <h1>Iguana &amp; Chameleon license generation</h1>
+               <p>
+                  Generate an Iguana 6 license by default, or tick Iguana X when you
+                  really do mean the new lizard.
+               </p>
+            </div>
+            <div class="LICheroBadge">
+               <strong>Critical infrastructure.</strong>
+               <span>Now with fewer committee meetings.</span>
+            </div>
+         </div>
+      </section>
 
-      <div class="LICfield">
-         <div class="LIClabel">Customer ID</div>
-         <input id="customer_id" type="text">
-      </div>
+      <section class="LICcontent">
+         <aside class="LICnotes" aria-label="License notes">
+            <h2>Before you begin</h2>
+            <p>
+               To get Chameleon licenses, install Iguana and enter the Iguana license
+               key. Iguana will register Chameleon as well.
+            </p>
+            <p>
+               This form generates Iguana 6 Classic licenses unless the Iguana X option
+               is selected.
+            </p>
+	    <p>
+                 If you have not got a customer ID yet please email
+		 <a class="LICdocLink" href="mailto:license@interfaceware.com">license@interfaceware.com</a> with
+		 documentation about your contract and last payment.
+	    </p>
+	    <p>
+	    Review <a class="LICdocLink" href="https://github.com/eliotmuirgrid/press/blob/master/license.md">this link which explains more about how the new licensing process will work</a> etc.
+	    </p>
+         </aside>
 
-      <div class="LICfield">
-         <div class="LIClabel">Number of Channels or Compoents</div>
-         <input id="channels" type="number">
-      </div>
-      <div class="LICfield">
-         <div class="LIClabel">Iguana X License? <input id="iguana_x" type="checkbox"></div>
-      </div>
+         <section class="LICcard" aria-labelledby="license-title">
+            <h2 id="license-title">Generate a license</h2>
+            <p class="LICcardIntro">Enter the customer details and we’ll do the boring bit.</p>
 
-      <div id="generate_button" class="LICbutton">
-         Generate License
+            <form class="LICform" onsubmit="return false;">
+               <div class="LICfield">
+                  <label class="LIClabel" for="iguana_id">Iguana ID</label>
+                  <input id="iguana_id" type="text" autocomplete="off" placeholder="Example: QFJZJ5YMX8STAG27">
+               </div>
+
+               <div class="LICfield">
+                  <label class="LIClabel" for="customer_id">Customer ID</label>
+                  <input id="customer_id" type="text" autocomplete="off" placeholder="Example: customer-name">
+               </div>
+
+               <div class="LICfield">
+                  <label class="LIClabel" for="channels">Number of Channels or Components</label>
+                  <input id="channels" type="number" min="1" step="1" placeholder="Example: 100">
+               </div>
+
+               <label class="LICcheck" for="iguana_x">
+                  <input id="iguana_x" type="checkbox">
+                  <span class="LICcheckBox" aria-hidden="true"></span>
+                  <span>
+                     <strong>Iguana X license</strong>
+                     <em>Leave this off for Iguana 6 Classic.</em>
+                  </span>
+               </label>
+
+               <button id="generate_button" class="LICbutton" type="button">
+                  Generate License
+               </button>
+            </form>
+         </section>
+      </section>
+   </main>
+
+   <footer class="LICfooter">
+      <div class="LICfooterInner">
+         <div>
+            <div class="LICfooterBrand">iNTERFACEWARE</div>
+            <p>The all-in-one integration platform behind Iguana.</p>
+         </div>
+         <div class="LICfooterLinks">
+            <div>
+               <h3>Product</h3>
+               <a href="https://www.interfaceware.com/iguana">Iguana Overview</a>
+               <a href="https://www.interfaceware.com/pricing">Pricing</a>
+               <a href="https://github.com/eliotmuirgrid/press/blob/master/products/downloads.md">Download</a>
+            </div>
+            <div>
+               <h3>Resources</h3>
+               <a href="https://help.interfaceware.com/">Help Center</a>
+            </div>
+            <div>
+               <h3>Support</h3>
+               <a href="mailto:support@interfaceware.com">support@interfaceware.com</a>
+               <a href="https://www.interfaceware.com/contact">Contact Eliot</a>
+            </div>
+         </div>
       </div>
-   </div>
+      <div class="LIClegal">© iNTERFACEWARE Inc. Licenses without the licensing theatre.</div>
+   </footer>
 </body>
 </html>
