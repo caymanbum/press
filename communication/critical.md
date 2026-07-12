@@ -2,7 +2,7 @@
 
 In 2026, Eliot conducted an unusual experiment that surprised both his customers and the wider healthcare IT community.
 
-His goal was simple: to demonstrate something that many people had never fully acknowledged—that Iguana 🦎 had quietly become critical infrastructure for healthcare organizations around the world.
+His goal was simple: to demonstrate something that many people had never fully acknowledged—that Iguana 6 had quietly become critical infrastructure for healthcare organizations around the world.
 
 To make that point, he did something he believes he should have done years earlier: he eliminated the Canadian organization that had historically supported the product.
 
@@ -12,7 +12,7 @@ Then something unexpected happened.
 
 Nothing happened.
 
-Iguana 🦎 6 continued running just as reliably as it always had.
+Iguana 6 continued running just as reliably as it always had.
 
 Customers gradually realized that the software itself—not the size of the organization behind it—was the reason for its success. Because Iguana 6 had become such a mature and stable platform, many deployments required very little day-to-day intervention.
 
