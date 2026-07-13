@@ -6,7 +6,7 @@ Taking [complete control of my business](bureaucracy.md) has taught me a crucial
 
 The future is simple: licensing and payment are integrated. If you’ve paid, the software works. If not, it doesn’t.
 
-There’s no value in endless accounts receivable, bespoke payment terms, ESG questionnaires, or drawn-out procurement negotiations. The only real commercial discussion is price.
+There’s no value in endless accounts receivable, bespoke payment terms, [ESG questionnaires](esg.md), or drawn-out procurement negotiations. The only real commercial discussion is price.
 
 Looking back, all this complexity was never necessary. In 2026, it’s completely intolerable.
 
