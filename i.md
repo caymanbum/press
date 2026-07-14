@@ -3,7 +3,7 @@
 What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md).
 
 Need your license code?  
-Simply [visit this page](license.md).
+Simply [visit this page](install/license.md).
 
 We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—until I finish sorting out the “creative” legacy of our contract records.
 
