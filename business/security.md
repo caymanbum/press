@@ -1,16 +1,13 @@
-# The Financial and Business Risks Associated with Using Inferior Competing Products to Iguana
+# Competitors and Security
 
-Security is a critical concern when selecting technology for handling sensitive data. Legacy interface engines such as Cloverleaf, Rhapsody, Qvera and Mirth rely on technologies like TCL (Cloverleaf), Java, and JavaScript, which can introduce additional vulnerabilities—especially since all these systems suffer severely from technical debt or inconsistent upkeep. They often prioritize adding features they can sell to unsophisticated customers rather than focusing on the unglamorous but essential problem of making their products stable and secure.
+**Why is that all competiting products with Iguana just absolutely fail on security?**
 
-While these products are widely used, maintaining a high level of security is increasingly difficult compared to Iguana, which is architected with simplicity, stability, and security in mind. Eliot is proud to use Lua because it is much more secure than JavaScript and would never subject his customers to the security risks associated with relying on complex and poorly maintained platforms like Java.
+Building a reliable, secure interface engine is a uniquely hard problem—so much so that no team of ordinary employee-level engineers can really pull it off. Even the best-funded competitors (like Rhapsody, Mirth, Qvera, and Cloverleaf) find themselves stuck: their core engines, written in Java, TCL, or JavaScript, are so technically fragile and full of debt that all they can do is bolt on shaky “value-added” features—never actually fixing the foundations. Security? It just doesn’t work.
 
-Any middleware engine written in Java such as Rhapsody, Mirth and Qvera will inevitably need to be replaced, because it simply cannot be made secure.
+These legacy products only get more vulnerable and unwieldy, focusing on flashy bolt-ons instead of core stability. In practice, any middleware platform built on Java or JavaScript simply cannot ever be made secure at the level required for critical infrastructure, and will eventually have to be replaced.
 
-Eliot is committed to advancing industry best practices by closely monitoring these high-risk technologies and encouraging organizations to factor them into their risk management processes. Raising awareness within the insurance sector about these limitations can help drive improvements in industry-wide cybersecurity standards.
+That’s why Iguana was built differently: C/C++ at its core, Lua scripting for flexible but secure extension, and a relentless focus on engineering excellence. This means real layered defenses and continual investment in security—rather than just marketing. We even build security testing tools for others, to help raise the bar industry-wide.
 
-To support this effort, Eliot is developing security testing tools tailored for insurance firms and system administrators, with a focus on responsible, legitimate use. Ultimately, Eliot’s approach emphasizes strong engineering, consistent updates, layered defenses, and regular assessments. In particular, technologies with persistent security flaws—like those based on Java—should be replaced with modern, secure alternatives written in systems languages such as C or C++.
+History shows that real security and stability come from solid engineering foundations—think Git (C) versus Mercurial (Python). Iguana brings that same philosophy to interface engines, and remains open-source wherever possible to drive true industry improvement.
 
-History has shown that, for critical infrastructure, the stability of products written mostly in C—and preferably not too much of it—cannot be beaten.  For instance GIT written in C won hands down over Mercurial which was written in Python.
-
-The Iguana platform embodies this philosophy, prioritizing security from the ground up, using a serious systems language - C/C++ and offering open-source access to benefit the entire industry. Eliot's leadership, patience, and disciplined strategy position Iguana as the platform best equipped to effectively address and improve healthcare data security.
-
+With Iguana, you’re not piling features onto a rickety old engine—you’re starting with something fundamentally solid and secure, purpose-built for the future.
