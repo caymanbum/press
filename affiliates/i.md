@@ -1,20 +1,20 @@
-# Affiliate Business Model for iNTERFACEWARE
+# A Philosophy of Business Automation 
 
-Our **Affiliate Business Model** is designed for organizations whose requirements go beyond acquiring a high-quality product at a fair price and engaging in straightforward interactions with Eliot as a sole proprieter. We recognize that some clients operate in highly regulated environments or have complex internal procurement protocols that demand a more comprehensive partnership.
+Running a larger organization taught me that much complexity is self-inflicted. Endless discussions about contracts, payments, and paperwork rarely add value—they just create bureaucracy.
 
-Within this framework, affiliates are empowered to deliver a higher degree of service and specialized support for clients needing attention beyond the scope of our standard offerings. Common scenarios include:
+Manual processes should have to justify why they aren’t automated. If they don’t require real human judgment, creativity, or expertise, they should be handled by software.
 
-- **Assistance with Complex Procurement Processes:** For organizations navigating detailed or intricate procurement requirements—such as extensive documentation, industry-specific compliance, or additional verification steps (e.g., [ESG paperwork](esg.md) or similar)—our affiliates have the expertise to guide you through these challenges efficiently and accurately.
+For a software company, the commercial model can be simple: customers pay, the software works; they don’t, it doesn’t. Automating licensing, billing, onboarding, and other routine tasks saves time, reduces errors, and minimizes costs.
 
-- **Comprehensive Consulting Services:** Affiliates offer customized consulting to address unique integration, implementation, or workflow needs, ensuring every organization's specific business challenges are met.  People need [code](code.md) written.
+This doesn’t mean removing people—it means letting people focus on what matters: solving technical problems, improving products, and building relationships. Administrative work and negotiation waste time and don’t improve the product.
 
-- **Tailored Service Level Agreements (SLAs):** For clients seeking elevated or more granular support, affiliates can design bespoke SLAs with detailed response times, escalation protocols, and performance guarantees for greater operational confidence.
+Every organization should ask: **Does this process make the product or service better?** If not, and if software can do it just as well, automate it.
 
-By leveraging our affiliate network, iNTERFACEWARE ensures that even the most demanding organizations can realize the full value of our solutions, backed by expert support at every step. This approach enables us to serve a broader spectrum of clients, no matter how complex their needs or expectations.
+Automation replaces negotiation and manual repetition with clarity and efficiency. This frees people to do what only people can: innovate, solve problems, and deliver great service.
 
----
+Software should handle the rules.  
+People should create value.
 
-**Please note:**  
-In the past, some clients grew accustomed to iNTERFACEWARE dedicating significant internal resources to accommodate the unique challenges of their operations—often extending beyond the scope of standard support. With our Affiliate Business Model, affiliates are independent businesses and will charge appropriate fees for additional services and the extra resources required to support your organization's specific choices and requirements.  See [pricing](pricing.md).
+This distinction can transform how a software business operates.
 
-[Paul Gannon](../paul.md) is one example of such an affiliate.
+It makes it run much better, more profitably and honestly ends up with a much better customer experience in the long run.
