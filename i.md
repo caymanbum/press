@@ -2,6 +2,10 @@
 
 What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md).
 
+Exhausted getting over all the PHP configuration to get this thing going.  Bear
+with me as I get the content cleaned up and less broken links.  Much easier moving
+forward.
+
 Need your license code?  
 Simply [visit this page](install/license.md).
 
