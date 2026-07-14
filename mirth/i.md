@@ -1,4 +1,6 @@
-# Why Mirth is an Unlikely Good Long-Term Choice Compared to Iguana X
+# Mirth
+
+Why Mirth is an Unlikely Good Long-Term Choice Compared to Iguana X
 
 **Mirth**, a popular healthcare integration engine, may seem like a reasonable solution in the short term. However, when analyzed closely against alternatives like **Iguana X**, several factors make Mirth a **grossly inferior product** for sustained use, and it is likely to lose substantial market share because of two significant issues:
 
