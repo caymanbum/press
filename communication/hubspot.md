@@ -1,6 +1,6 @@
 # Hubspot
 
-I'm genuinely excited that in a couple of days one of my [business affiliates will be handing me a new website](quick.md) that doesn't require a PhD in institutional corporate dysfunction just to figure out how to update a page.
+I'm genuinely excited that in a couple of days one of my [business affiliates will be handing me a new website](./quick.md) that doesn't require a PhD in institutional corporate dysfunction just to figure out how to update a page.
 
 I'm honestly amazed at how difficult HubSpot can be. It feels like a room full of monkeys got together and asked, "How can we make something incredibly simple as complicated as possible?" Then they invited everyone to a hackathon, and somehow this unmaintainable monster emerged.
 
