@@ -1,21 +1,32 @@
-# Documentation 
+# Documentation
 
-We've got access to the WordPress site, where we can find the documentation for Iguana 5 and 6 - check it out here: [https://help.interfaceware.com/](https://help.interfaceware.com/)
+We've got access to the WordPress site, where you can find the documentation for **Iguana 5** and **Iguana 6**:  
 
-Moving forward, our docs will be written in a system that's all about collaboration and openness. We're talking GIT. This means anyone can fork the documentation, contribute their ideas, and help shape the future of our documentation.
+[https://help.interfaceware.com/](https://help.interfaceware.com/)
 
-Most importantly it gives resilience.
+**Moving forward, our documentation will be managed using GIT**, a system designed for collaboration and openness. This means anyone can fork the documentation, add their ideas, and help shape the future of our docs.  
 
-We are trying to figure out access to the Iguana X documentation which is in confluence.
+Most importantly, GIT improves the resilience of our documentation. It means it cannot be lost.
 
-https://interfaceware.com/documentation
+---
 
-With Iguana X the resources are more scattered:
+## Iguana X Documentation
 
-https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192
+We’re still working on gaining access to the **Iguana X documentation**, which currently lives in multiple locations:
 
-We are having trouble figuring out how to make this confluence site available:
+- **General Documentation Portal:**  
+  [https://interfaceware.com/documentation](https://interfaceware.com/documentation)
+- **Confluence Iguana X Knowledge Base (public overview):**  
+  [https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192](https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192)
+- **Specific Iguana X Confluence page (restricted):**  
+  [https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX)
 
-[https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX) 
+Currently, we're having trouble figuring out how to make the Confluence content (especially the [CSHC IguanaX space](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX)) more widely accessible, or how to migrate it.
 
-I would like to find and a couple of people to try and convert these legacy sites to use the new markedown documentation format we are using in this website.
+---
+
+## Next Steps & Call for Help
+
+We need a couple of people to help **convert these legacy documentation sites** (from WordPress and Confluence) to the new [Markdown documentation format](https://www.markdownguide.org/getting-started/) that we are using for this website.
+
+If you have access to these resources or are interested in helping with the conversion process, **please reach out!**  This would be **PAID** work.  Iguana wouldn't be a bad tool to do such a conversion.
