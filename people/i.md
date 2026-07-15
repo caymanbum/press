@@ -1,4 +1,6 @@
-# People - Trust is the New Gold When Technical Progress Goes at Light Speed
+# People 
+
+**Trust is the New Gold When Technical Progress Goes at Light Speed**
 
 I hope to speak soon with Todd Densley, the Cloverleaf VP, about a shift that isn’t immediately obvious: as technology evolves at an unprecedented pace, every groundbreaking idea is quickly overshadowed by the next. In this chaotic landscape, only two things truly matter:
 
