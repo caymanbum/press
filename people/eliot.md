@@ -1,4 +1,4 @@
-# Qualifications
+# Eliot Muir
 
 Eliot stands out among company founders for his unwavering passion for tackling deeply technical and complex engineering challenges throughout his entire career. While many founders transition away from hands-on problem-solving as their companies grow, Eliot’s unique drive and fascination with low-level, difficult engineering problems have remained steadfast. This consistent focus not only differentiates him from his peers but also ensures ongoing innovation and technical excellence within the organizations he leads.
 
