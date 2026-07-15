@@ -20,7 +20,7 @@ The possibilities are exciting.
 
 One goal is to make it significantly more difficult for attackers to tamper with the configuration of an interface engine.
 
-Another is to package an application such as Iguana \ud83e\udd8e into a single deployable bundle whose executable code, configuration, and supporting resources can all be verified for integrity before execution. Rather than scattering files across a filesystem where they can be modified independently, the entire application becomes a coherent, inspectable package.
+Another is to package an application such as Iguana into a single deployable bundle whose executable code, configuration, and supporting resources can all be verified for integrity before execution. Rather than scattering files across a filesystem where they can be modified independently, the entire application becomes a coherent, inspectable package.
 
 This is conceptually similar to how application bundles work on macOS, but built entirely on an open standard that anyone can implement and extend.
 
