@@ -1,12 +1,20 @@
 # Welcome to the New iNTERFACEWARE Website
 
-What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md).
+## First steps for the next release of Iguana
 
-Sorry, I think I managed to nuke the old documentation. No worries. Now that I have this ultra-simple website foundation, it's super fast to write documentation—just let me know what you need.
+This may surprise you: a fresh implementation of the [zip format](aazip.md).
 
-I have always loved writing documentation, and this platform is just an utter pleasure to work with—so fast and efficient.
+This will be amazing, as it will form the basis for queuing, credential management, installation, and making Iguana less prone to being hacked.
 
-It's actually quite important to let some things go. When we approach things from a fresh perspective, we can often just do things so much better.
+## New website
+
+What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md)!
+
+Sorry—I think I managed to nuke the old documentation. No worries. Now that I have this ultra-simple website foundation, it's super fast to write documentation—just let me know what you need.
+
+I have always loved writing documentation, and this platform is an utter pleasure to work with—so fast and efficient.
+
+It's actually quite important to let some things go. When we approach things from a fresh perspective, we can often do things so much better.
 
 Need your license code?  
 Simply [visit the license code page](license.md).
