@@ -1,4 +1,4 @@
-# A Philosophy of Business Automation 
+# Keep it Simple Stupid 
 
 Running a larger organization taught me that much complexity is self-inflicted. Endless discussions about contracts, payments, and paperwork rarely add value—they just create bureaucracy.
 
