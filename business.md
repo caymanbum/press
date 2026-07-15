@@ -9,7 +9,7 @@ We’re busy behind the scenes, working to ensure that when billing makes its gr
 - We’ve rolled out a shiny, significant new release of Iguana Classic  
 - And the piece de resistance—billing will be *fully automated.* (No more smoke signals, cryptic carrier pigeons, or spreadsheets held together by hope and duct tape!)
 
-In other words, until we’ve transformed from billing mayhem to billing zen, kick back and enjoy this guilt-free break. Maybe even brush up on classic Iguana trivia—just in case that knowledge becomes billable in the future. \ud83d\ude09
+In other words, until we’ve transformed from billing mayhem to billing zen, kick back and enjoy this guilt-free break. Maybe even brush up on classic Iguana trivia—just in case that knowledge becomes billable in the future. 
 
 **When billing returns, simplicity is the new norm.**
 
