@@ -1,7 +1,3 @@
-# The First Target
-
-Redoing the deployment system for Iguana 6.  This will be cool.  Let's see what we can do with the [zip format for security](../documentation/classic/install/zip.md)
-
 # Hubspot
 
 I'm genuinely excited that in a couple of days one of my [business affiliates will be handing me a new website](./quick.md) that doesn't require a PhD in institutional corporate dysfunction just to figure out how to update a page.
