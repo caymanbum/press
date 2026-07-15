@@ -1,14 +1,20 @@
 # Billing is Paused
 
-Now, before you start planning a wild shopping spree with all the money you’re *not* paying for Iguana, let’s pump the brakes for just a second. Yes, billing is paused—but this isn’t a permanent state of blissful freeness. Think of it less like “winning the lottery” and more like hitting the snooze button on a Monday morning: the bill will eventually come due.
+Before you start planning a wild shopping spree with all the money you’re *not* paying for Iguana, let’s tap the brakes for a second. Yes, billing is paused right now—but this isn’t a permanent pass to software paradise. Think of it less as “winning the lottery” and more as hitting the snooze button on a Monday: delightful while it lasts, but the alarm will ring eventually.
 
-So why the temporary hiatus, you ask? Well, we’re working hard to make sure that when billing returns, it does so with fewer headaches and a lot more grace than before. Gone will be the days of chasing invoices, mysterious charges, or that sinking feeling of billing deja vu—the same mess we've all endured in the past. Our promise to you: we’re leaving that particular flavor of chaos in the dust.
+**Why the temporary break, you ask?**  
+We’re busy behind the scenes, working to ensure that when billing makes its grand return, it does so with less drama and much more grace than ever before. Gone will be the days of chasing invoices, decoding mysterious charges, or experiencing that all-too-familiar deja vu of billing confusion. Our promise: we’re leaving that particular brand of chaos behind.
 
-Billing will only resume when two wonderful things have happened:  
-- We’ve dropped a shiny, significant new release of Iguana Classic
-- And—the real piece de resistance—billing is handled by a *completely automated* process (no more smoke signals, coded carrier pigeons, or spreadsheets held together by sheer will)
+**Billing will only resume when two delightful changes have occurred:**  
+- We’ve rolled out a shiny, significant new release of Iguana Classic  
+- And the piece de resistance—billing will be *fully automated.* (No more smoke signals, cryptic carrier pigeons, or spreadsheets held together by hope and duct tape!)
 
-In other words, until we’ve tidied up our act and replaced billing hell with billing heaven, feel free to enjoy this temporary break—and maybe use it to brush up on classic Iguana trivia, just in case that becomes billable in the future.
+In other words, until we’ve transformed from billing mayhem to billing zen, kick back and enjoy this guilt-free break. Maybe even brush up on classic Iguana trivia—just in case that knowledge becomes billable in the future. \ud83d\ude09
 
-When billing does return, it will be very simple.
+**When billing returns, simplicity is the new norm.**
 
+To use Iguana, you’ll need to pay—and if you stop paying, the product will stop working. Just like any other enterprise software you use in the cloud. Sure, Iguana is engineered so beautifully you *could* run it on your own server, but let’s not confuse “engineered elegance” with “open season for piracy.” We want to be paid, just like every other vendor out there.
+
+# No customization of terms
+
+Everyone gets the same product and the clearly with a organization size of one that makes the service level the same. The only negotiation is how much will you pay.  That is it.
