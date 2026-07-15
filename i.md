@@ -6,6 +6,9 @@ Sorry I think I managed to nuke the old documentation. No
 worries. Now I have this ultra simple website foundation
 it's super fast to write documentation.  Just let me know.
 
+I have always loved writing documentation and this platform
+is just an utter pleasure to work with.  So fast and efficient.
+
 It's actually quite important to let some things go.  When
 we approach things from a fresh perspective one can often
 just so things so much better.
