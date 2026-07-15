@@ -19,4 +19,3 @@ Phone: +1 647 376 3179
 
 LinkedIn: [https://www.linkedin.com/in/paultgannon/](https://www.linkedin.com/in/paultgannon/)
 
-Where is the [future of integration headed](future.md)?
