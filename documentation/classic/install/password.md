@@ -1,22 +1,19 @@
-# The default password for the Iguana server when installed is password
+# Default password for Iguana
 
-Some foolish development manager managed to obscure this fact
-which is really stupid.  This is why I do not employ employees anymore.
+**The default password for the Iguana server upon installation is "password."**
 
-admin
-password
+Some misguided development manager decided to obscure this fact, which is quite foolish. This is one reason I no longer employ other people.
 
-Hiding the fact that the default is password makes life harder for
-legitimate users.  But hackers would not be detered by this information.
+**Default credentials:**  
+Username: admin  
+Password: password
 
-This is one of many critical security fixes which need to be made to Iguana 6.
+Hiding the fact that the default password is "password" makes things more difficult for legitimate users, but it does not deter hackers.
 
-The password of the admin user should be be set up during the install process.
+This is just one of many critical security issues that need to be addressed in Iguana 6.
 
-The admin user ID should also not be defaulted to admin but that might be harder for to fix that quickly.
+The password for the admin user should be set during the installation process, rather than using a default value.
 
-I need redo the install technology Iguana 6 which shouldn't be too bad since we'll use new code for it.
+Ideally, the admin user ID should also not default to "admin," although that might be more difficult to change quickly.
 
-I need to get a fresh implementation of the zip format.  It would nice to have Iguana operate as single binary which is signed and cannot be tampered with.  This is quite possible to do - I got close to doing something like this with Iguana X.  I need to get some business affiliates to write me a really good implementation of the ZIP file standard.  By really good I don't mean complete.  I mean with simple code that uses just the parts of the standard which I need.
-
-Security is really important.  ZIP files can contain meta data and so it should be
+---

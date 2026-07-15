@@ -1,4 +1,13 @@
-# Raising the Security Standard for Healthcare Integration
+# Reimplementing the ZIP format
+
+This is going to be the first step forward for Iguana 6.
+
+I have thought long and hard about it and Iguana X is just too chaotic and too inconsistent
+and most importantly doesn't have a big enough installed base to make it worth while moving
+forward.  Instead I am taking every of my design ideas from Iguana X, improving on it and
+applying those ideas to Iguana 6 or Iguana Classic as I call it now.
+
+## Zip Format
 
 Sometimes the most successful standards don't come from inventing something entirely new. They come from recognizing that an existing technology has become the *de facto* standard and then carefully defining a clean, well-designed subset of it.
 
@@ -33,4 +42,13 @@ This work will be implemented as an independent technology that wraps around exi
 Perhaps the broader industry won't notice. That's always a possibility.
 
 But if someone working at another integration vendor or healthcare software company finds these ideas interesting, I would encourage them to take a look. Security is not a competitive advantage when attackers are targeting all of us. If we can build a better foundation together, the entire healthcare ecosystem benefits.
+
+## Four big problems that can be solved
+
+- A new superior installation format - Iguana Classic can be like Iguana X - a single binary
+- Tighter control of the configuration files
+- A better format for logging
+- A place to store password authentication information
+
+Creativity is so non linear.  These thoughts all came to me at different times.  I hate it when people talk about roadmaps.  That isn't how creativity works.  That how you get a shit product.  Just telling you the truth.
 
