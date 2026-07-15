@@ -2,21 +2,16 @@
 
 What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md).
 
-Sorry I think I managed to nuke the old documentation. No
-worries. Now I have this ultra simple website foundation
-it's super fast to write documentation.  Just let me know.
+Sorry, I think I managed to nuke the old documentation. No worries. Now that I have this ultra-simple website foundation, it's super fast to write documentation—just let me know what you need.
 
-I have always loved writing documentation and this platform
-is just an utter pleasure to work with.  So fast and efficient.
+I have always loved writing documentation, and this platform is just an utter pleasure to work with—so fast and efficient.
 
-It's actually quite important to let some things go.  When
-we approach things from a fresh perspective one can often
-just so things so much better.
+It's actually quite important to let some things go. When we approach things from a fresh perspective, we can often just do things so much better.
 
 Need your license code?  
 Simply [visit the license code page](license.md).
 
-We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—until I finish sorting out the “creative” legacy of our contract records.
+We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—at least until I finish sorting out the “creative” legacy of our contract records.
 
 ---
 
@@ -45,4 +40,3 @@ Using GitHub makes critical downloads secure and accessible:
 This is exactly how important legacy software should be preserved: decentralized, transparent, and resilient.
 
 ---
-
