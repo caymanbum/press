@@ -8,6 +8,14 @@ Most importantly it gives resilience.
 
 We are trying to figure out access to the Iguana X documentation which is in confluence.
 
-But wait, there's more! Our Confluence site is also home to an incredible wealth of knowledge - take a look at [https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX) to see what's possible.
+https://interfaceware.com/documentation
+
+With Iguana X the resources are more scattered:
+
+https://interfaceware.atlassian.net/wiki/spaces/IXB/overview?homepageId=2450522192
+
+We are having trouble figuring out how to make this confluence site available:
+
+[https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX](https://interfaceware.atlassian.net/wiki/spaces/CSHC/pages/2894954498/IguanaX) 
 
 I would like to find and a couple of people to try and convert these legacy sites to use the new markedown documentation format we are using in this website.
