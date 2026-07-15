@@ -1,29 +1,29 @@
 # Jeff Lewis
 
-Jeff Lewis is one of our most trusted affiliates, thanks to his deep-rooted history and outstanding track record with Iguana and our broader community.
+I’ve known Jeff Lewis for years, and when it comes to iNTERFACEWARE and Iguana, he’s one of the people I trust the most. This isn’t just business; Jeff is a longtime friend and a true partner in our mission.
 
-Jeff is a [gold level affiliate](../gold.md) in that he actually direct personal to Eliot which Eliot will confirm
-since he's documented here.
+Here’s why I value Jeff so highly:
 
-**1. Strong Personal Connections:**  
-Jeff has a strong personal relationship with Eliot Muir, the founder of iNTERFACEWARE. This connection gives him unique insight into our company values and strategic direction.
+**1. Deep Personal Connection**  
+Jeff and I go way back. We’ve kept in touch through the years, and I can personally vouch for his integrity and understanding of what we stand for at iNTERFACEWARE. He “gets” me and what I believe in a way few others do.
 
-**2. Decades of Experience:**  
-Jeff has worked with Iguana for over 20 years, particularly within the US healthcare integration space. His long-term engagement reflects both his commitment to the platform and his deep expertise.
+**2. Unparalleled Experience**  
+Jeff’s been hands-on with Iguana for over 20 years, especially within the US healthcare sector. That kind of long-term commitment speaks for itself—there aren’t many people who know our technology or our space as well as he does.
 
-**3. Industry & Product Knowledge:**  
-He began his journey at TeleTracking and later contributed directly to iNTERFACEWARE itself as a trainer. This gives him a rare, hands-on perspective—he understands the product inside-out and knows exactly how to help customers succeed.
+**3. Hands-On Product Expertise**  
+He started at TeleTracking, then contributed as an Iguana trainer at iNTERFACEWARE itself. That inside-out knowledge means Jeff genuinely knows how to help customers succeed at a very practical level.
 
-**4. Multi-platform Expertise:**  
-Jeff also has experience with Mirth, one of our key competitors. This positions him perfectly to help customers who are looking to migrate away from Mirth—particularly those concerned about the security and reliability issues often associated with that platform.
+**4. Knows the Alternatives**  
+Jeff is thoroughly familiar with Mirth, one of our main competitors. So, if you’re considering a migration or just want to understand your options, Jeff can talk you through the pros and cons—because he’s lived them.
 
-**5. Proven Track Record:**  
-Over the years, Jeff’s solution-focused approach, professionalism, and reliability have made him a trusted advisor to many organizations.
+**5. Trusted for a Reason**  
+What stands out about Jeff—both to me and to the customers who’ve worked with him—is his solution-oriented attitude and professionalism. He follows through every time, and people rely on him.
 
 ---
 
-**In Summary:**  
-With his unmatched experience, close ties to our team, and ability to support migrations from other platforms, Jeff Lewis is an ideal affiliate to represent iNTERFACEWARE and Iguana to both new and existing customers.
+**Bottom Line:**  
+When I recommend Jeff Lewis, I do it without hesitation. His experience, his understanding of our values, and his genuine approach make him a tremendous resource for anyone looking to get more out of Iguana and iNTERFACEWARE.
 
-https://www.linkedin.com/in/jeffrey-lewis-318a542/
+[Connect with Jeff on LinkedIn](https://www.linkedin.com/in/jeffrey-lewis-318a542/)
 
+---
