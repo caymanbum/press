@@ -17,4 +17,4 @@ To use Iguana, you’ll need to pay—and if you stop paying, the product will s
 
 # No customization of terms
 
-Everyone gets the same product and the clearly with a organization size of one that makes the service level the same. The only negotiation is how much will you pay.  That is it.
+Everyone gets the same product and the clearly with a organization size of one that makes the service level the same. The only negotiation is how much will you pay.  That is it. Iguana will always be a beautifully rock solid stable product.  It doesn't need a [service level agreement](affiliates/business/sla) to run more smoothly.
