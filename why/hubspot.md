@@ -2,7 +2,7 @@
 
 I was so grateful when [Ed Worthington's team](quick.md) implemented my current website for me. It used content I had already been working on in this [press repository](https://github.com/eliotmuirgrid/press), which is currently the "source code" for this website.
 
-This website will also serve as the foundation for my documentation, so I encourage my customers to fork it from time to time. It's all part of how responsibly well-run companies should operate: it's all about distribution and resilience.
+This website will also serve as the foundation for my documentation, so I encourage my customers to fork it from time to time. It's all part of how responsibly well-run companies should operate: it's about distribution and resilience.
 
 This website doesn't require a PhD in institutional corporate dysfunction just to figure out how to update a page.
 
@@ -16,11 +16,17 @@ Moving forward, I try to make my systems open for inspection by others and avail
 
 I am making sure you have options to quickly re-establish your own infrastructure, just as I needed to.
 
+## Collaboration
+
+Let's say I get to a point where I need someone to edit the site. The beauty is that I can have them fork the repository behind it. They edit it independently, and then I can make sure they've only corrected grammar and haven’t gone and changed my meaning. This is so much better than what used to happen—I would write great documentation that had humor and personality, and my employees would go and turn it into bland, boring corporate nonsense.
+
+Never again!
+
 ## It Wasn't Just Hubspot
 
 In earlier times, we had simple technology behind the website. Hubspot was an abomination introduced by an employee, and had I known how awful it was, I would have fought more vigorously to say NO—you need to nurture your ability to think and do things from first principles.
 
-My Canadian company had at least five content management systems: various versions of WordPress, legacy code for Chameleon (which was built by employees as a degraded version of KISSBOOK, a tool I wrote), and we used Confluence from Atlassian, which became more and more awful over time.
+My Canadian company had at least five content management systems: various versions of WordPress, legacy code for Chameleon (which was built by an employee as a degraded version of KISSBOOK, a tool I wrote), and we used Confluence from Atlassian, which became more and more awful over time.
 
 I don't apologize for pulling the plug on it all. I am really fast at writing documentation—as long as I am not crippled by poor tools, and this new system is fantastic.
 
@@ -36,4 +42,3 @@ I managed to improve some of the messaging here and there, but for the life of m
 
 At that point, it was honestly easier to replace the entire website, point the domain at the new one, and leave all of that complexity behind. Sometimes the fastest way to fix technical debt is not to fight it—it's to walk away and build something simpler.
 
----
