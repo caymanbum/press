@@ -6,7 +6,7 @@
 
    If you need access to the installers go to [Downloads](products/downloads.md)
 
-3. **Go to here [https://license.interfaceware.com/](https://license.interfaceware.com/)  
+3. **Go to here [https://license.interfaceware.com/](https://license.interfaceware.com/)**  
    From customer feedback I have found most customers prefered a humourous site rather than one that is highly pretentious like most enterprise software websites.
 
 - For **Chameleon**
