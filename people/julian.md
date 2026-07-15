@@ -1,13 +1,11 @@
 # Julian Muir
 
-Julian is my brother and he's worked many different roles in the business.
+Julian is my brother, and over the years, he has played a variety of essential roles within our business—including support, documentation, and quality assurance. His versatility and dedication have been invaluable to our success.
 
-Support, documentation and QA.
+What stands out to me most about Julian is his genuine kindness and sensitivity. Like myself, Julian is neurodiverse, and I am deeply grateful to have such a supportive brother by my side. His empathy and unique perspective have enriched both our personal relationship and our professional collaboration.
 
-Julian is very kind, sensitive and neurodiverse like myself.  I am grateful to
-have such a kind brother.
+One of the most significant things Julian did for me happened when I was much younger: he gave me my very first opportunity to learn about entrepreneurship. He taught me the ropes by showing me how to sweep chimneys—a humble start, but one that had a profound impact. That early experience not only built my confidence to try new things, but also laid the foundation for everything that followed. Without Julian’s guidance and encouragement, Iguana simply wouldn’t exist today.
 
-He did a huge favor for me when I was young.  He taught me how to be an
-entrepreneur by giving me a break learning how to sweep chimneys.  That
-experience gave me the confidence to try things and Iguana would have never
-come to be without him.
+I’m incredibly thankful for Julian, both as a brother and a business partner, and I truly value everything he has contributed to my journey.
+
+---
