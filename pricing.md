@@ -1,4 +1,4 @@
-# Iguana Pricing Philosophy
+# Pricing Philosophy
 
 Pricing an interface engine like Iguana is a unique challenge. Rather than trying to assign a value based on specific features, which everyone generally needs, the real value of Iguana depends largely on your specific context and use case.
 
