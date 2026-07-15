@@ -1,4 +1,4 @@
-# Iguana - Critical Infrastructure for Global Healthcare
+# Critical Infrastructure for Healthcare
 
 In 2026, Eliot conducted an unusual experiment that surprised both his customers and the wider healthcare IT community.
 
