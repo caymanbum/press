@@ -14,7 +14,7 @@ we approach things from a fresh perspective one can often
 just so things so much better.
 
 Need your license code?  
-Simply [visit this page](install/license.md).
+Simply [visit the license code page](license.md).
 
 We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—until I finish sorting out the “creative” legacy of our contract records.
 
