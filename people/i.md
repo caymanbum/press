@@ -9,7 +9,7 @@ I hope to speak soon with Todd Densley, the Cloverleaf VP, about a shift that is
 
 Technology migration doesn't happen quickly.  And frankly we are all in the same boat.  Not only do we have to make money to pay the bills - we all the face the same threats.
 
-At the end of the day my humanity matters to me more than money. Otherwise there is no way I would have destroyed by company.  I may end up more influential as a result because in this model I help companies which would have been my competitors to use technology like [packaging legacy applications to harden them](../aazip/package.md).
+At the end of the day my humanity matters to me more than money. Otherwise there is no way I would have destroyed by company.  I may end up more influential as a result because in this model I help companies which would have been my competitors to use technology like [packaging legacy applications to harden them](../aazip/i.md).
 
 Trust has become more valuable than ever—yet it can’t be built overnight. Ironically, technology now advances so rapidly that trust often lags behind. Building real, meaningful relationships takes time, and, amidst this rush, those connections are more essential than ever.
 
