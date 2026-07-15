@@ -1,4 +1,4 @@
-# Patrick Connerly
+# Patrick Connolly 
 
 Patrick is a man of action. He excels in situations where civil order and critical infrastructure have broken down, and decisions need to be made quickly to restore stability and establish new systems.
 
