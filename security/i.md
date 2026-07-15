@@ -4,7 +4,7 @@ We now live in a world where attackers have exponentially more resources and cap
 
 For example, vendors like Teletracking, who have extensive 'legacy' on-premise solutions for hospitals, become suddenly much more valuable. Their software, once seen as outdated, gains new appeal because these systems can be isolated from network threats, making them inherently more secure and resilient.
 
-This is where the new packaging technology I am developing for [Iguana 6](aazip/package.md) comes in. This technology will allow companies with legacy products to “harden” their deployments. The packaging provides two key benefits:
+This is where the new packaging technology I am developing with my affiliate partners [Iguana 6](../aazip/package.md) comes in. This technology will allow companies with legacy products to “harden” their deployments. The packaging provides two key benefits:
 1. **Enhanced Security:** By encapsulating the software, we can lock down resources and significantly reduce the attack surface, making on-premise deployments much more secure than standard cloud-based offerings.
 2. **Intellectual Property Protection:** The packaging also allows vendors to control access and ensure their customers are paying legitimately for the software, protecting their revenue streams.
 
