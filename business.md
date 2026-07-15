@@ -13,7 +13,7 @@ In other words, until we’ve transformed from billing mayhem to billing zen, ki
 
 **When billing returns, simplicity is the new norm.**
 
-To use Iguana, you’ll need to pay—and if you stop paying, the product will stop working. Just like any other enterprise software you use in the cloud. Sure, Iguana is engineered so beautifully you *could* run it on your own server, but let’s not confuse “engineered elegance” with “open season for piracy.” We want to be paid, just like every other vendor out there.
+To use Iguana, you’ll need to pay—and if you stop paying, the product will stop working. Just like any other enterprise software you use in the cloud. Sure, Iguana is engineered so beautifully you *can* run it on your own server, but let’s not confuse “engineered elegance” with “open season for piracy.” We want to be paid, just like every other vendor out there.
 
 # No customization of terms
 
