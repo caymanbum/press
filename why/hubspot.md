@@ -1,6 +1,6 @@
 # May Hubspot Rest in Peace
 
-I was so grateful when [Ed Worthington's team](./quick.md) implemented my current website for me. It used content I had already been working on in this [press repository](https://github.com/eliotmuirgrid/press), which is currently the "source code" for this website.
+I was so grateful when [Ed Worthington's team](quick.md) implemented my current website for me. It used content I had already been working on in this [press repository](https://github.com/eliotmuirgrid/press), which is currently the "source code" for this website.
 
 This website will also serve as the foundation for my documentation, so I encourage my customers to fork it from time to time. It's all part of how responsibly well-run companies should operate: it's all about distribution and resilience.
 
