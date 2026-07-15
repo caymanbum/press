@@ -4,22 +4,21 @@
 
 This may surprise you: a fresh implementation of the [zip format](aazip.md).
 
-This will be amazing, as it will form the basis for queuing, credential management, installation, and making Iguana less prone to being hacked.
+This will be amazing, as it will form the basis for queuing, credential management, installation, and making Iguana less prone to being hacked
 
 ## New website
 
 What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md)!
 
-Sorry—I think I managed to nuke the old documentation. No worries. Now that I have this ultra-simple website foundation, it's super fast to write documentation—just let me know what you need.
-
-I have always loved writing documentation, and this platform is an utter pleasure to work with—so fast and efficient.
-
-It's actually quite important to let some things go. When we approach things from a fresh perspective, we can often do things so much better.
-
 Need your license code?  
 Simply [visit the license code page](license.md).
 
 We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—at least until I finish sorting out the “creative” legacy of our contract records.
+
+## Product Documentation
+
+That can all be found in [Documentation](documentation.md),  I would love to pay someone to write scripts to convert all our legacy documentation into mark down.  If we could get the information in this
+format moving forward it be a lot more secure - all important information that needs to be kept should be in GIT.
 
 ---
 
