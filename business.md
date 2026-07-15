@@ -15,6 +15,11 @@ In other words, until we’ve transformed from billing mayhem to billing zen, ki
 
 To use Iguana, you’ll need to pay—and if you stop paying, the product will stop working. Just like any other enterprise software you use in the cloud. Sure, Iguana is engineered so beautifully you *can* run it on your own server, but let’s not confuse “engineered elegance” with “open season for piracy.” We want to be paid, just like every other vendor out there.
 
-# No customization of terms
+## No customization of terms
 
 Everyone gets the same product and the clearly with a organization size of one that makes the service level the same. The only negotiation is how much will you pay.  That is it. Iguana will always be a beautifully rock solid stable product.  It doesn't need a [service level agreement](affiliates/business/sla) to run more smoothly.
+
+However if you are a more regulated business and you need more formal support
+arrangements I am slowly putting a network together. The problem is the demand
+is low but Iguana is so darned reliable.  It runs like a tank which makes it
+hard to justify elaborate support organizations for it.
