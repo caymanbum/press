@@ -12,7 +12,7 @@
 - For **Chameleon**
      Install Iguana 6.1.5 or 6.2 for windows and use the same license key generator as for Iguana classic above.
      Iguana came with Chameleon embedded in it.  It's unlikely we will optimize this anymore than this.  [Chameleon
-     is long overdue for retirement](chameleon.md).  But I am open to discussing this.
+     is long overdue for retirement](../chameleon/license.md).  But I am open to discussing this.
 
 ---
 
