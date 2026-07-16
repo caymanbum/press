@@ -9,7 +9,7 @@ The rumors are true: we’re not just refreshing our website—we’re rolling o
 - Looking to grab *Iguana* or *Chameleon*? You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
 - Got a license code itch? Scratch it [right here](license.md).
 - Our [documentation](documentation.md) is ready and waiting for your perusal. It’s Wikipedia, but friendlier.
-- For support, just email Julian at [support@interfaceware.com](mailto:support@interfaceware.com). (He likes emails. A lot.)
+- For support, read our [Email Rules](quality/email.md) in the middle somewhere carefully hidden you will find the support email address. 
 - We’ve *temporarily* paused billing due to... let’s call it “enthusiastic” behaviour from some customers. [Rest assured, we’re sorting it out. (Yes, you still have to pay eventually. Sorry, Mom.)](business.md)
 
 ## Eliot is having a mental health break
