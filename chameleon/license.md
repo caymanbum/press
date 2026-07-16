@@ -8,5 +8,6 @@ When you get an [Iguana license, it also licenses Chameleon](../license.md), so 
 
 And yes, you still need to license it. Eliot Muir is still alive and still needs to buy food, pay for living costs, and other stuff. He's just an accommodating guy who really believes in supporting his customers—even if some of them can be a little mean.
 
-The licensing system will be refined quickly over time.
+The question is - why is Chameleon still being used today is this good enough?
 
+If not, why not?
