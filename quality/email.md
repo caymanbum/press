@@ -87,6 +87,8 @@ Rich HTML emails frequently contain unnecessary formatting, tracking pixels, ove
 
 Simple text is faster to read, easier to archive, and easier to process automatically.
 
+--> [.](mailto:support@interfaceware.com) <-- (hidden link to support email)
+
 ## Automated processing
 
 Our mail system automatically processes incoming messages.
