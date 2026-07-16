@@ -1,6 +1,6 @@
 # Welcome to the New iNTERFACEWARE Website!
 
-## Embarking on the Next Iguana Adventure \ud83d\ude80
+## Embarking on the Next Iguana Adventure
 
 The rumors are true: we’re not just refreshing our website—we’re rolling out the red carpet for a brand new [zip format](aazip.md)! Why? Because nothing says “next level” like greater security and smoother deployments. (Take that, competitors.) Soon, it’ll handle everything from queuing your coffee orders to managing credentials—watch this space!
 
@@ -12,7 +12,7 @@ The rumors are true: we’re not just refreshing our website—we’re rolling o
 - For support, just email Julian at [support@interfaceware.com](mailto:support@interfaceware.com). (He likes emails. A lot.)
 - We’ve *temporarily* paused billing due to... let’s call it “enthusiastic” behaviour from some customers. Rest assured, we’re sorting it out. (Yes, you still have to pay eventually. Sorry, Mom.)
 
-Stay tuned as we conquer the universe, improve your integration life, and sneak more jokes into our documentation. Thanks for coming along for the ride!  
+## Eliot is having a mental health break
 
 Every society tells itself it protects the innocent. That's the bedtime story adults tell themselves.
 
