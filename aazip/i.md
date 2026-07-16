@@ -1,4 +1,4 @@
-# Protect Our Legacy
+# ZIP - Protect Our Legacy
 
 Iguana 6 is a valuable legacy digital asset that deserves protection. Safeguarding our legacy systems ensures we continue to benefit from their reliability while modernizing their capabilities.
 

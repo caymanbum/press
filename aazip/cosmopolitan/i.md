@@ -1,4 +1,6 @@
-# Cosmopolitan allows binaries to be made which will work on Mac, Linux and Windows
+# Cosmopolitan - Universal Binaries 
+
+It sounds impossible and yet this tool makes binaries which will work on Mac, Linux and Windows
 
 The **Cosmopolitan project**, also referred to as **Cosmopolitan Libc** or **Cosmo**, is an ambitious open source initiative that enables developers to build single binary executables that run natively on a broad spectrum of operating systems, notably including Windows, Linux, and macOS. The primary goal of Cosmopolitan is to provide a unified development environment where a single build process can target multiple major platforms without requiring per-platform porting, emulation, or platform-dependent compilation.
 
