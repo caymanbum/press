@@ -8,6 +8,12 @@ When you get an [Iguana license, it also licenses Chameleon](../license.md), so 
 
 And yes, you still need to license it. Eliot Muir is still alive and still needs to buy food, pay for living costs, and other stuff. He's just an accommodating guy who really believes in supporting his customers—even if some of them can be a little mean.
 
-The question is - why is Chameleon still being used today is this good enough?
+The question is - why is Chameleon still being used today? And why isn't this good enough?
+
+It feels like there are better places to put effort after trying for years to persuade
+customers to stop using Chameleon?
+
+Isn't effort spent on [regression testing](system/regression.md) a more obvious place to focus
+on?
 
 If not, why not?
