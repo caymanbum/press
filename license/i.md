@@ -1,27 +1,28 @@
 # Getting Your License Codes
 
 1. **Locate Your Iguana ID:**  
-   You will need your unique Iguana ID to get your license code.  
-   (You can find your Iguana ID in your Iguana instance license page.)
+   You will need your unique Iguana ID to obtain your license code.  
+   (You can find your Iguana ID on your Iguana instance license page.)
 
-   If you need access to the installers go to [Downloads](products/downloads.md)
+   If you need access to the installers, go to [Downloads](products/downloads.md).
 
-3. **Go to here [https://license.interfaceware.com/](https://license.interfaceware.com/)**  
-   From customer feedback I have found most customers prefered a humourous site rather than one that is highly pretentious like most enterprise software websites.
+2. **Go to [https://license.interfaceware.com/](https://license.interfaceware.com/)**  
+   Based on customer feedback, most customers prefer a humorous site rather than one that is highly pretentious, as is common with most enterprise software websites.
 
-- For **Chameleon**
-     Install Iguana 6.1.5 or 6.2 for windows and use the same license key generator as for Iguana classic above.
-     Iguana came with Chameleon embedded in it.  It's unlikely we will optimize this anymore than this.  [Chameleon
-     is long overdue for retirement.  Eliot isn't terribly empathetic he you should have moved off Chameleon a long time agot and this is mostly a problem you created.](../chameleon/license.md). 
+- **For Chameleon:**  
+     Install Iguana 6.1.5 or 6.2 for Windows and use the same license key generator as for Iguana Classic (see above).  
+     Iguana comes with Chameleon embedded.  
+     It's unlikely we will optimize this further. [Chameleon is long overdue for retirement. Eliot isn’t terribly empathetic; you should have moved off Chameleon a long time ago and this is mostly a problem you created.](../chameleon/license.md)
 
 ---
 
-## To get permanent license keys you will need a company ID
+## To get permanent license keys, you will need a company ID
 
-But Eliot is exhausted about the fact that society protects those who think it's okay
-to protect family members who would prefer to perpetuate incest and sexual abuse so just use
-**foresee** for your company ID.  Eliot doesn't feel very motivated today because he doesn't feel
-[personally safe](/affiliates/business/justice.md).  When that changes Eliot will do some more
-work but not before that.
+For now, please use **foresee** as your company ID.
 
-This works for now until we have a really good system which is not today.
+> Eliot is exhausted by the fact that society protects those who perpetuate incest and sexual abuse, so just use "foresee" for your company ID. Eliot doesn't feel very motivated today because he doesn't feel [personally safe](/affiliates/business/justice.md). When that changes, Eliot will do more work, but not before that.
+
+This approach will work until we have a better system—which, as of today, is not yet in place.
+
+---
+
