@@ -1,49 +1,37 @@
-# Welcome to the New iNTERFACEWARE Website
+# Welcome to the New iNTERFACEWARE Website!
 
-## First steps for the next release of Iguana
+## Embarking on the Next Iguana Adventure \ud83d\ude80
 
-This may surprise you: a fresh implementation of the [zip format](aazip.md).
+The rumors are true: we’re not just refreshing our website—we’re rolling out the red carpet for a brand new [zip format](aazip.md)! Why? Because nothing says “next level” like greater security and smoother deployments. (Take that, competitors.) Soon, it’ll handle everything from queuing your coffee orders to managing credentials—watch this space!
 
-This will be amazing, as it will form the basis for queuing, credential management, installation, and making Iguana less prone to being hacked
+**Quick status update:**  
+- We’re just three days in on leaving [HubSpot](why/hubspot.md) behind, and just like moving apartments, we’re still figuring out which cupboard the coffee mugs are in.
+- Looking to grab *Iguana* or *Chameleon*? You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
+- Got a license code itch? Scratch it [right here](license.md).
+- Our [documentation](documentation.md) is ready and waiting for your perusal. It’s Wikipedia, but friendlier.
+- For support, just email Julian at [support@interfaceware.com](mailto:support@interfaceware.com). (He likes emails. A lot.)
+- We’ve *temporarily* paused billing due to... let’s call it “enthusiastic” behaviour from some customers. Rest assured, we’re sorting it out. (Yes, you still have to pay eventually. Sorry, Mom.)
 
-## New website
+Stay tuned as we conquer the universe, improve your integration life, and sneak more jokes into our documentation. Thanks for coming along for the ride!  
 
-What a breath of fresh air compared to the old [HubSpot site](why/hubspot.md)!
+Every society tells itself it protects the innocent. That's the bedtime story adults tell themselves.
 
-Need your license code?  
-Simply [visit the license code page](license.md).
+The truth is darker.
 
-We now offer **permanent license codes** for customers with Customer IDs. If you don’t have a Customer ID yet, just ask! It’s helpful if you provide proof of payment and your contract details—at least until I finish sorting out the “creative” legacy of our contract records.
+Evil survives because ordinary people convince themselves it isn't their problem.
 
-## Product Documentation
+So here's the question: when everyone else looks away, is it wrong for one person to act?
 
-That can all be found in [Documentation](documentation.md),  I would love to pay someone to write scripts to convert all our legacy documentation into mark down.  If we could get the information in this
-format moving forward it be a lot more secure - all important information that needs to be kept should be in GIT.
+Some men still don't understand one simple truth: your daughter, your sister, your niece—they are not your property.
 
----
+Last night, someone came looking for me. Thankfully, I wasn't around to answer the door.
 
-## Support
+It's strange how quickly the machinery moves once the person asking difficult questions becomes the problem.
 
-Need help? We're here for you—just email [support@interfaceware.com](mailto:support@interfaceware.com).
+**Officer Price Badge 826** who conveniently didn't give me his full name was looking to stand up for the rights of families that think that incest and rape is a [family affair best handled by family members who were part of allowing the abuse to happen](affiliates/business/justice.md).  
 
-Right now, you’ll be talking directly to me. If things get busy, my brother Julian might step in, and some friends from Cayman—who have excellent people skills—are also on standby. For now, I’m genuinely enjoying having real conversations with our users. It’s a welcome change from my time as CEO and Founder, when getting this kind of feedback was rare.
+Oh to protect and serve - it's just not the community you would expect the law to serve.  Funny though - my cousin Tim actually was a prison officer in the wing that they put all the sex offenders in to keep them safe.  **Officer Price Badge 826** is an honourable man whose of integrity who really wants to keep sexual predators safe in the Cayman Islands.  Well done **Officer Price 826** I just wanted to call you out and thank you for your service. Your family must be really proud of your work.
 
-*Most of my current focus is on streamlining contract renewals and automating the license code process—so things should get even smoother soon!*
+Unless victims of sexual abuse can show up preferrably with fresh semen samples from when the abuse happened when they were children I think getting justice from the law will be challenging.
 
----
-
-## Download Iguana or Chameleon
-
-Looking for Iguana 6.1.5, Iguana 6.2, or Chameleon for Windows?  
-You’re covered—thanks to Colin McGrath.
-
-Head to our [downloads repository on GitHub](products/downloads.md).
-
-Using GitHub makes critical downloads secure and accessible:  
-- Files are public and easy to find  
-- Anyone can fork or clone the repo  
-- If anything goes missing, the community can create another copy
-
-This is exactly how important legacy software should be preserved: decentralized, transparent, and resilient.
-
----
+When Officer Price leaves me alone and I feel safe I will be happier to work on customer problems.
