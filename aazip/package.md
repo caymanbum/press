@@ -1,10 +1,11 @@
-# A Unified Archive Architecture for Enterprise Software
+# Package  
 
 Enterprise software has accumulated unnecessary complexity, with each application reinventing its own installer, configuration format, logging system, credential store, backup mechanism, and deployment process. We believe there is a simpler approach.
 
 ## Introduction to the Unified Archive Architecture
 
-Instead of treating an archive as something that is unpacked during installation, we propose that the archive itself becomes the application. This approach eliminates the need for separate installations, configurations, and backups.
+Instead of treating an archive as something that is unpacked during installation it would be like Iguana X did - just one file
+that is not unpacked.  It just loads the dependencies from with the file itself.
 
 ### The Unified Archive Model
 

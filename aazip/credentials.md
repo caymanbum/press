@@ -1,4 +1,4 @@
-# Zero-Trust Credential Vault: A Secure Archive Solution
+# Credential Vault
 
 This document outlines a potential solution for storing critical passwords and credentials in a secure, portable archive using the ZIP format combined with public-key encryption.
 
