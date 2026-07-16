@@ -1,11 +1,10 @@
 # Email Rules
 
-**Many customers don't like to read and just want to email - the email address
-is hidden low down in the document - read carefully to find it.**
+**Many customers prefer to email rather than read, but our support email address is intentionally placed low in this document. Please read carefully to find it.**
 
-Our support process is designed to maximize the value of everyone's time. Every minute we spend reading unnecessary material is a minute we are not solving technical problems.
+Our support process is designed to maximize the value of everyone’s time. Every minute we spend reading unnecessary material is a minute we are not solving technical problems.
 
-For that reason, we enforce strict email hygiene using automation. Messages that do not comply with these guidelines may never be seen by a human.
+To ensure this, we enforce strict email hygiene using automation. Messages that do not comply with these guidelines may never be seen by a human.
 
 Our goal is simple: encourage thoughtful, concise communication so that we can spend our time helping customers solve real problems.
 
@@ -21,13 +20,13 @@ We would much rather spend our time solving new problems than repeating informat
 
 ## Ask AI First
 
-Use one of the large numbers of AI models to educate yourself before bothering a human being.  Also AI will help many of you to write more clearly to describe your problem well so that once again human time can be conserved for more meaningfil problems.
+Use any of the many AI models available to educate yourself before involving a human. AI can often help you write more clearly and describe your problem effectively. This helps conserve human time for more meaningful problems.
 
 ## Keep it short
 
 Describe your problem in plain language.
 
-Before pressing Send, ask yourself:
+Before pressing **Send**, ask yourself:
 
 * What is the problem?
 * What are you trying to achieve?
@@ -42,18 +41,17 @@ We automatically reject any email whose plain-text content exceeds **10,000 char
 
 If you cannot explain your problem within that limit, you probably need to spend more time understanding the problem yourself before asking us to spend time understanding it.
 
-Writing clearly is part of solving technical problems. Distilling a complex issue into a concise description often reveals the solution, or at least makes it much easier for us to help.
+Writing clearly is part of solving technical problems. Distilling a complex issue into a concise description often reveals the solution—or at least makes it much easier for us to help.
 
 ## No attachments
 
 We do not accept email attachments.
 
-Attachments usually slow communication rather than improve it. They often contain large amounts of information that are unnecessary for understanding the underlying problem.
+Attachments usually slow communication rather than improve it. They often contain large amounts of irrelevant information.
 
-If you need to share source code, configuration, or VMD files, please use Git or another version control system. It is a much more effective way to collaborate than emailing files back and forth.
+If you need to share source code, configuration files, or VMD files, please use Git or another version control system. This is a much more effective way to collaborate than emailing files back and forth.
 
-Attachments are brutal find latter - that a lot of burden to put on an organization
-which is trying to be efficient.
+Attachments are difficult to find later—placing that burden on an organization striving to be efficient is not acceptable.
 
 We generally do not review:
 
@@ -62,12 +60,12 @@ We generally do not review:
 * Word documents
 * PowerPoint presentations
 * Marketing material
-* Screenshots unless specifically requested
+* Screenshots (unless specifically requested)
 * Other miscellaneous attachments
 
 If something is important, summarize it in the body of your email.
 
-## Respect everyone's time
+## Respect everyone’s time
 
 Please avoid sending unnecessary content such as:
 
@@ -80,13 +78,13 @@ Please avoid sending unnecessary content such as:
 
 We are interested in understanding your problem—not reading pages of corporate boilerplate.
 
-Confidentiality notices at the bottom of emails are generally ignored. Modern communication tools such as iMessage and WhatsApp do not require pages of legal text every time someone sends a message, and email is no different.
+Confidentiality notices at the bottom of emails are generally ignored. Modern communication tools such as iMessage and WhatsApp do not require pages of legal text each time someone sends a message, and email is no different.
 
 ## Plain text only
 
 Plain text is preferred.
 
-Rich HTML emails frequently contain unnecessary formatting, tracking pixels, oversized signatures, embedded images, and other distractions that add no value to technical communication.
+Rich HTML emails often contain unnecessary formatting, tracking pixels, oversized signatures, embedded images, and other distractions that add no value to technical communication.
 
 Simple text is faster to read, easier to archive, and easier to process automatically.
 
@@ -98,10 +96,10 @@ Our mail system automatically processes incoming messages.
 
 Depending on the content, an email may be:
 
-* Accepted for review.
-* Rejected immediately.
-* Deleted without being read.
-* Archived for possible review at a much later date.
+* Accepted for review
+* Rejected immediately
+* Deleted without being read
+* Archived for possible review at a much later date
 
 These decisions are made automatically before anyone on our team sees the message.
 
@@ -111,12 +109,13 @@ Our support process rewards customers who think carefully about their problem be
 
 A well-written email demonstrates that you have:
 
-* Read the available documentation.
-* Attempted to solve the problem yourself.
-* Clearly identified the issue.
-* Explained it concisely.
+* Read the available documentation
+* Attempted to solve the problem yourself
+* Clearly identified the issue
+* Explained it concisely
 
-The easier you make it for us to understand your problem, the more likely it is that we'll be able to help quickly.
+The easier you make it for us to understand your problem, the more likely it is that we'll be able to help you quickly.
 
 Good technical communication is one of the most valuable engineering skills. It benefits both you and us.
 
+---
