@@ -86,6 +86,7 @@ I didn't meet her mother then because my flight back was within half an hour.  I
 
 ## Contact Details
 
-Her sister Daniel Alexander (Whatsapp +1 345 525-1991) 
-Her mother Chevan Reid (Whatsapp +1 876 419 5293).
-Her brother Kwaine Reid (Whatsapp +1 345 548 9110).  Kwaine lives on the island and works in one of the restaurants in Camana Bay.
+Her sister Daniel Alexander (Whatsapp +1 345 525-1991)  
+Her mother Chevan Reid (Whatsapp +1 876 419 5293)  
+Her brother Kwaine Reid (Whatsapp +1 345 548 9110)  
+Kwaine lives on the island and works in one of the restaurants in Camana Bay.
