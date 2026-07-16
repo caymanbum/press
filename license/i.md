@@ -16,7 +16,13 @@
 
 ---
 
-## To get permanent license keys you will need a company ID.
+## To get permanent license keys you will need a company ID
+
+But Eliot is exhausted about the fact that society protects those who think it's okay
+to protect family members who would prefer to perpetuate incest and sexual abuse so just use
+foresee for your company ID.  Eliot doesn't feel very motivated today because he doesn't feel
+[personally safe](/affiliates/business/justice.md).  When that changes Eliot will do some more
+work but not before that.
 
 If you need a company ID please contact me at [license@interfaceware.com](mailto:license@interfaceware.com) this
 has not been automated yet.  But I only have to create a directory on the licensing server so it's not a bottleneck yet.
