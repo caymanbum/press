@@ -22,24 +22,3 @@ Pushing to extremes always changes the landscape. It brings dramatic progress, b
 
 ---
 
-# Extremes Change the Rules
-
-When you go to extremes the rules change. That's why I often do extreme things.
-
-Because it does change the rules.
-
-Extreme speed and mass --> Relativity
-
-Extremely small --> Quantum Mechanics.
-
-When technologies get extremely good, it changes the rules.  We're not in kansas anymore Dorothy.
-
-A packaging tool that you just point at an application and it gobbles it all up and put's into a virtual world?  Well that's looking like something out the movie Tron isn't it?
-
-It changes everything when something that previously very hard becomes very easy.
-
-That's good
-
-and 
-
-That's bad.
