@@ -10,7 +10,7 @@ The rumors are true: we’re not just refreshing our website—we’re rolling o
 - Got a license code itch? Scratch it [right here](license.md).
 - Our [documentation](documentation.md) is ready and waiting for your perusal. It’s Wikipedia, but friendlier.
 - For support, just email Julian at [support@interfaceware.com](mailto:support@interfaceware.com). (He likes emails. A lot.)
-- We’ve *temporarily* paused billing due to... let’s call it “enthusiastic” behaviour from some customers. Rest assured, we’re sorting it out. (Yes, you still have to pay eventually. Sorry, Mom.)
+- We’ve *temporarily* paused billing due to... let’s call it “enthusiastic” behaviour from some customers. [Rest assured, we’re sorting it out. (Yes, you still have to pay eventually. Sorry, Mom.)](business.md)
 
 ## Eliot is having a mental health break
 
