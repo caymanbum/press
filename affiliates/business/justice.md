@@ -17,9 +17,11 @@ I hope she gets the help she needs!
 Which, translated from polite society-speak, actually means:
 
 ```
-Wow, can’t someone just sedate this disaster and lock her up
-already? Maybe pump her so full of meds she’ll be too drooly
-to make us uncomfortable at brunch?
+Wow, can’t someone just sedate this
+disaster and lock her up already? 
+Maybe pump her so full of meds she’ll
+be too drooly to make us uncomfortable
+at brunch?
 ```
 
 Because, really, nothing says “I care” quite like hoping someone’s mental health problems can be solved by disappearing them out of sight.
