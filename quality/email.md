@@ -1,5 +1,8 @@
 # Email Rules
 
+**Many customers don't like to read and just want to email - the email address
+is hidden low down in the document - read carefully to find it.**
+
 Our support process is designed to maximize the value of everyone's time. Every minute we spend reading unnecessary material is a minute we are not solving technical problems.
 
 For that reason, we enforce strict email hygiene using automation. Messages that do not comply with these guidelines may never be seen by a human.
