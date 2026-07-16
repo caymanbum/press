@@ -2,7 +2,7 @@
 
 **Trust is the New Gold When Technical Progress Goes at Light Speed**
 
-I hope to speak soon with Todd Densley, the Cloverleaf VP, about a shift that isn’t immediately obvious: as technology evolves at an unprecedented pace, every groundbreaking idea is quickly overshadowed by the next. In this chaotic landscape, only two things truly matter:
+I hope to speak soon with the VP of interface engine that uses Tickle, about a shift that isn’t immediately obvious: as technology evolves at an unprecedented pace, every groundbreaking idea is quickly overshadowed by the next. In this chaotic landscape, only two things truly matter:
 
 - **Who has the best information?**  
 - **Who has the trusted relationships to explain it to those who matter?**
