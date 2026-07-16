@@ -13,7 +13,7 @@ The question is - why is Chameleon still being used today? And why isn't this go
 It feels like there are better places to put effort after trying for years to persuade
 customers to stop using Chameleon?
 
-Isn't effort spent on [regression testing](system/regression.md) a more obvious place to focus
+Isn't effort spent on [regression testing](/system/regression.md) a more obvious place to focus
 on?
 
 If not, why not?
