@@ -35,5 +35,5 @@ Last night, someone came looking for me. Thankfully, I wasn't around to answer t
 
 It's strange how quickly the machinery moves once the person asking difficult questions becomes the problem.
 
-Meet [Officer Price Badge 826](../incest/price.md).
+Meet [Officer Price Badge 826](incest/price.md).
 
