@@ -22,4 +22,4 @@ In reality there is little point in dragging offenders through the justice syste
 
 All that said, I look forward to feeling safe and at ease again—then I’ll be more than ready to help with customer problems, rather than police problems!
 
-
+Officer Price would like to have a conversation - I do too!  But I am just a little particular about the [boundaries of that conversation](/incest/police/serious).

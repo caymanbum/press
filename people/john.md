@@ -4,7 +4,7 @@ Hi John,
 
 I wanted to update you on my progress—I’m a long way along with implementing exactly what I said I would do. I have established a new, loosely affiliated group of professionals who are working together to deliver exceptional service to our customers.
 
-One important aspect of this new approach is flexibility. You don’t have to work exclusively for me; it’s perfectly fine if you work on competing products or businesses. The main requirement is simply that everyone respects my copyright and intellectual property. Realistically, the landscape is shifting so rapidly that the long-term value of an interface engine will likely approach zero anyway.
+One important aspect of this new approach is flexibility. You don’t have to work exclusively for me; it’s perfectly fine if you work on competing products or businesses. The main requirement is simply that everyone respects my copyright and intellectual property. Realistically, the landscape is shifting so rapidly that the long-term [value of an interface engine will likely approach zero anyway](/system/regression).
 
 We both know that the methods that worked in the past won’t work in the future. However, our customers still rely on production systems that sometimes have bugs, and it’s essential that we continue supporting them.
 
