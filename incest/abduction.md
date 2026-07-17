@@ -30,10 +30,6 @@ I was overwhelmed.  At the time I didn't have a facility to generate
 license codes for my customers nor a [clear way to communicate to my
 customers](/why/hubspot.md). 
 
-
-
-
-
 # I Asked Her Family to Help Keep Her Safe
 
 One of the hardest things for me to accept is that I asked Subrina's own family for help.

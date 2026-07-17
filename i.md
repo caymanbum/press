@@ -35,10 +35,5 @@ Last night, someone came looking for me. Thankfully, I wasn't around to answer t
 
 It's strange how quickly the machinery moves once the person asking difficult questions becomes the problem.
 
-**Officer Price Badge 826** who conveniently didn't give me his full name was looking to stand up for the rights of families that think that incest and rape is a [family affair best handled by family members who were part of allowing the abuse to happen](affiliates/business/justice.md).  
+Meet [Officer Price Badge 826](../incest/price.md).
 
-Oh to protect and serve - it's just not the community you would expect the law to serve.  Funny though - my cousin Tim actually was a prison officer in the wing that they put all the sex offenders in to keep them safe.  **Officer Price Badge 826** is an honourable man whose of integrity who really wants to keep sexual predators safe in the Cayman Islands.  Well done **Officer Price 826** I just wanted to call you out and thank you for your service. Your family must be really proud of your work.
-
-Unless victims of sexual abuse can show up preferrably with fresh semen samples from when the abuse happened when they were children I think getting justice from the law will be challenging.
-
-When Officer Price leaves me alone and I feel safe I will be happier to work on customer problems.
