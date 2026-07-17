@@ -5,8 +5,15 @@
 The rumors are true: we’re not just refreshing our website—we’re rolling out the red carpet for a brand new [zip format](aazip.md)! Why? Because nothing says “next level” like greater security and smoother deployments. (Take that, competitors.) Soon, it’ll handle everything from queuing your coffee orders to managing credentials—watch this space!
 
 **Quick status update:**  
+- Are you whinging about the fact I didn't stress myself to get the Chameleon
+  license code generator going?  Well get the f*ck over it.  It's about time
+  that customers recognized that it was high time they recognized I am the grown
+  up in our relationship and Daddy knows better.  All of your whiny babies complaining
+  about wanting Chameleon license codes only are failing to acknowledge that 100%
+  of you retards are running with plain text TCP/IP sockets which is a HIPAA
+  violation.
 - We’re just three days in on leaving [HubSpot](why/hubspot.md) behind, and just like moving apartments, we’re still figuring out which cupboard the coffee mugs are in.
-- Looking to grab *Iguana* or *Chameleon*? You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
+- Looking to grab Iguana *and* Chameleon - no more just Chameleon. You’ll find them in our [downloads repo](products/downloads.md)—no hiking boots required.
 - Got a license code itch? Scratch it [right here](license.md).
 - Our [documentation](documentation.md) is ready and waiting for your perusal. It’s Wikipedia, but friendlier.
 - For support, read our [Email Rules](quality/email.md) in the middle somewhere carefully hidden you will find the support email address. 
