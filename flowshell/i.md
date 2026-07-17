@@ -1,29 +1,23 @@
-# Why I'm Building Flow Shell
+# FlowShell
 
-The command line has a terrible reputation, but I don't think that's because the command line itself is inherently bad.
-
-The real problem is history.
-
-Most command-line environments have evolved over decades. Thousands of independent tools were created by different people, each with their own conventions, assumptions, and naming schemes. The result is a system that's incredibly powerful, but often difficult to learn—and even harder to remember.
-
-Engineers are forced to memorize countless commands, flags, and obscure syntax instead of thinking about the problem they're actually trying to solve.
-
-When I started rebuilding my business, I didn't have much choice. I went from an organization supported by 27 people to one that's now largely run by a single person. That forces a very different style of engineering. Every repetitive task becomes an opportunity for automation, and every confusing command turns into technical debt.
-
-I began with zsh simply because it was a good foundation. Then, whenever I found myself forgetting a command or repeatedly looking something up, I added a small abstraction. Over time, those small improvements accumulated into what I now call **Flow Shell**.
-
-Flow Shell isn't about replacing Unix—it's about making Unix easier to use.
-
-Instead of expecting people to memorize decades of historical conventions, the shell should guide them toward accomplishing what they actually want to do. A command line should communicate clearly, not require archaeology.
-
-Like any long-lived project, Flow Shell has accumulated a few shortcuts and personal utilities that probably shouldn't be part of a public release. Before sharing it widely, I'll need to refactor those pieces into a cleaner architecture. That's a healthy process—it separates the reusable ideas from the personal workflow that produced them.
-
-My first goal is simply to make installation effortless. Once someone is using the same environment, we can have a much more productive conversation about improving their workflow, automating repetitive tasks, and making their systems more secure.
-
-An easy-to-use command line has a compounding effect. It makes automation simpler, documentation shorter, and training easier. It allows people to accomplish sophisticated tasks without first becoming experts in decades of command-line history.
-
-Ultimately, that's what Flow Shell is about: reducing cognitive load so people can spend their time solving real problems instead of remembering obscure commands.
+To install it go here for the instructions:
 
 [Explore Flow Shell on GitHub](https://github.com/eliotmuirgrid/flowshell/tree/master)
 
+Only supported on Linux and Mac currently.
 
+The command line isn’t bad—it’s just historically cluttered, with countless tools and inconsistent conventions that make it hard to learn and remember.
+
+I started working on **FlowShell** even before I did my radical business restructuring.  
+
+Automation is essential. I started with zsh and gradually built small abstractions whenever I forgot commands or had to repeat tasks. These improvements grew into **Flow Shell**—a tool designed to make Unix easier, not replace it.
+
+Flow Shell guides users toward their goals without requiring them to memorize arcane command syntax. Before releasing widely, I'll clean up personal shortcuts to ensure a streamlined, reusable tool.  I haven't done that yet.  It's messy!
+
+My aim is simple installation and easier workflows, so anyone can automate tasks and boost productivity without decades of command-line experience. Flow Shell reduces cognitive load, letting users focus on real problems—not obscure syntax.
+
+My first audience is my affiliate partners to make them agile and able to be as efficient as I am.  Basically I am building out a network of mini organizations that will be like a group of hungry paranas - hungry, deadly and able to eat our competition who are still operating using broken models.
+
+It's evolution at it's finest and this will go viral.  But like all good technologies it starts with a good idea and then we find the friction points and we grow it from there.
+
+FlowShell is all about customization. Eventually I think we'll port all this to Lua because the syntax is so much clearer but I had to bootstrap this thing.  A little bit like I needed to bootstrap my own consciousness.
