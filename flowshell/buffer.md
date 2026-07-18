@@ -14,5 +14,5 @@ It’s not unlike how mRNA vaccine technology delivers major benefits by enablin
 
 Technology itself is never inherently good or evil. It’s up to reputable individuals and organizations to stay proactive and ahead of these issues—and my distributed organization intends to be a thought leader in this area.
 
-Above all, we will always optimize for security first. Unfortunately, current AI technologies seldom seem to grasp this priority—often muddled by an overwhelming volume of advice from bored programmers at large companies, who frequently prioritize efficiency and flashy frameworks over security and simplicity.
+Above all, we will always optimize for security first. Unfortunately, current AI technologies seldom seem to grasp this priority—often muddled by an overwhelming volume of advice from bored programmers at large companies, who frequently prioritize premature optimization and flashy frameworks over security and simplicity.
 
