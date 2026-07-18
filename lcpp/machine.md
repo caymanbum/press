@@ -3,7 +3,7 @@
 Here's a recipe for disruption.  Remember when we make something [extremely easy](/system/extreme) in this case to write high performance, simple code in Lua and C/C++ then we will completely change the rules of the programming universe.
 
 Take my ideas for [FlowShell](/flowshell) and then redo the implementation
-with Lua by making [FlowLua](/xpeople/work/private) the new foundation for
+with Lua by making [FlowLua](/people/work/private) the new foundation for
 FlowShell so that FlowShell becames frictionless to install on even an awful
 operating system like Windows.
 
