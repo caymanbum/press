@@ -10,7 +10,7 @@ We both know that the methods that worked in the past won’t work in the future
 
 I apologize for all the emotional ups and downs along this journey. I’m human (at least, kind of). I’ve dealt with a lot of trauma, and it was disappointing that no one seemed willing to listen to my vision at first. But I hope my ideas are becoming clearer now.
 
-Right now, a top priority is modernizing the build system for Iguana 6 and integrating the crash reporting system I designed for Iguana X. This would mark a significant step forward, and I’d like to know if you’re interested in being part of this effort.
+Right now, a top priority is modernizing the [build system for Iguana 6](work/build.md) and integrating the [crash reporting system](work/crash.md) we used in Iguana X. This would mark a significant step forward, and I’d like to know if you’re interested in being part of this effort.
 
 On a personal note, I want you to know that I’m in a much better place now, and I feel safe—which, for me, is very important.
 
