@@ -1,6 +1,6 @@
-# Manulife can burn
+# Manulife - Funding Child Abuse
 
-So my eldest son, Liam, decided he too was a woman. It seemed insanity was contagious.
+So my eldest son, [Liam](liam.md), decided he too was a woman. It seemed insanity was contagious.
 
 I remember one conversation in particular—entirely over text—where he tried to convince me that gender-affirming care had a 99% success rate, while comparing it to hip replacements, which we've been doing for decades, and claiming they only had a 40% success rate.
 
