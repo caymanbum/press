@@ -1,12 +1,13 @@
-# Even AI Has Difficulty Writing Good C++
+# Why is C++ Complicated
 
-One reason for this is that, over the years, too many programmers were employed by large companies who didn’t always have enough meaningful or critical work to do. Without urgent production systems to maintain, many developers ended up inventing elaborate solutions to problems that didn't really exist. This often led to unnecessary complexity all across the codebase.
+One reason why even AI has difficulty writing truly good C++ code is rooted in its history: **the people who contributed the most to C++ were, overwhelmingly, from large companies**. Over the years, armies of programmers at big corporations often found themselves without enough urgent, meaningful production work. To keep busy (and perhaps justify headcount), many developers at these organizations invented elaborate solutions to problems that didn’t truly exist. With no pressing system constraints, they essentially had free rein to experiment, leading to layer upon layer of complexity in both language and library design.
 
-On top of that, there has been what we can call **Idea Pollution**—the proliferation of bad, overcomplicated, or misguided ideas. Because so many questionable patterns and "clever" tricks have been shared and copied over the years, it’s often hard to separate good techniques from ones that cause more confusion and bugs. With so much noise, developers (and even AI) can have difficulty recognizing which practices actually lead to clean, maintainable code.
+This is a general problem with all standards organizations.  That is why FHIR has become such an abomination.
 
-That’s why there’s a running joke about Bjarne Stroustrup, the creator of C++, being responsible for famously convoluted language design.
+The result has been a kind of **Idea Pollution**—the proliferation of awkward patterns, esoteric features, and needlessly “clever” solutions. Since these ideas were often released and disseminated by authoritative voices from industry giants (sometimes through standardization committees), they became gospel in the C++ world. Over time, so many questionable conventions and techniques have accumulated that it’s genuinely difficult—even for AI—to distinguish patterns that promote clear, maintainable code from those that are a liability in real-world systems.
 
-Despite all this, C++ does offer some genuinely powerful features. There are capabilities for safer, more robust code that simply aren’t as accessible in plain C.  Really basic shit like the fact that C++ makes it possible to have a string object which is given in almost every other modern language.
+This environment of complexity is the butt of a long-running joke at the expense of Bjarne Stroustrup, the creator of C++, as the architect of “the most elaborately convoluted language design” ever inflicted on programmers.
 
-That single feature alone makes it worth using C++ even if one did not use another feature.
+**Yet, for all its excesses, C++ does provide genuinely useful features that C sorely lacks.** For example, something as elementary as a robust string object—an ordinary facility in almost every other modern language—was missing from C, but made (finally) accessible in C++. The ability to simply work with text *safely and conveniently* is a game-changer for many programmers, even if they never use a single other new feature.
 
+**That one enhancement alone makes C++ worth considering—even if you ignore everything else added to the language.**
