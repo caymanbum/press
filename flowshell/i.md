@@ -23,7 +23,7 @@ The command line isn’t bad—it’s just historically cluttered, with countles
 
 I started working on **FlowShell** even before I did my radical business restructuring.  
 
-Automation is essential. I started with zsh and gradually built small abstractions whenever I forgot commands or had to repeat tasks. These improvements grew into **Flow Shell**—a tool designed to make Unix easier, not replace it.
+Automation is essential. I started with zsh and gradually built small abstractions whenever I forgot commands or had to repeat tasks. These improvements grew into **FlowShell**—a tool designed to make Unix easier, not replace it, except it eventually will be something different from Unix.
 
 FlowShell guides users toward their goals without requiring them to memorize arcane command syntax. Before releasing widely, I'll clean up personal shortcuts to ensure a streamlined, reusable tool.  I haven't done that yet.  It's messy!
 
