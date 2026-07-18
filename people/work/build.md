@@ -1,8 +1,9 @@
 # Build System for Iguana 6
 
-Let's party like it's 2026. I need the build system upgraded to match what I built for Iguana X—perhaps without all the support for shitty 'features' that should never have been allowed into the product, like support for HTTP/2 (the spyware edition of HTTP).
+As we look ahead to 2026, I’d like to request that the build system for Iguana 6 be updated to match the one I developed for Iguana X. However, it might be best to exclude support for certain features—such as HTTP/2—which were problematic or unnecessary for our use case.
 
-But basically, it’s super important that Iguana 6 is easy to build.
+Most importantly, it’s essential that Iguana 6 remains straightforward and easy to build.
 
-Duh!
+Thank you for your attention to this!
+
 
