@@ -1,4 +1,7 @@
-# Why is C++ the most practical and performant language in 2026?
+# Why C++ 
+
+It's the best option for a practical and performant language in 2026.  This
+will not change. And this is a good thing.
 
 - **C is okay, but lacks key features**  
   (Like safe string and vector classes to stop you from screwing your users over).
