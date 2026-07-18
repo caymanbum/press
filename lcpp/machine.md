@@ -2,7 +2,7 @@
 
 ## Step 1: Make Programming Ridiculously Easy
 
-The recipe for true disruption always starts by making something **extremely easy**—in this case, writing high-performance, simple code in Lua and C/C++. When you lower the barrier like this, you completely change the rules of the programming universe.
+The recipe for true disruption always starts by making something **[extremely easy](/system/extreme)**—in this case, writing high-performance, simple code in Lua and C/C++. When you lower the barrier like this, you completely change the rules of the programming universe.
 
 ## Step 2: Reinvent the Foundation
 
