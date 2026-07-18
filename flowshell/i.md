@@ -4,7 +4,8 @@ To install it go here for the instructions:
 
 [Explore Flow Shell on GitHub](https://github.com/eliotmuirgrid/flowshell/tree/master)
 
-Only supported on Linux and Mac currently.
+Compilation is only supported on Linux and Mac currently but the cool thing is the same
+binary works on all operating systems because it uses cosmopolitan.
 
 The command line isn’t bad—it’s just historically cluttered, with countless tools and inconsistent conventions that make it hard to learn and remember.
 
