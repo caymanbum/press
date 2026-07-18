@@ -1,121 +1,60 @@
-# Email Rules
+# Email is NO LONGER Supported
 
-**Many customers prefer to email rather than read, but our support email address is intentionally placed low in this document. Please read carefully to find it.**
+**We no longer accept support requests via email.**
 
-Our support process is designed to maximize the value of everyone’s time. Every minute we spend reading unnecessary material is a minute we are not solving technical problems.
+Many customers have historically preferred to email anonymous addresses rather than have clear, human communication. This is no longer accepted.
 
-To ensure this, we enforce strict email hygiene using automation. Messages that do not comply with these guidelines may never be seen by a human.
+**Please carefully review the information provided on our website, and then use WhatsApp or iMessage to contact us.** Communicate kindly and respectfully—respect gets respect, and you will be helped.
 
-Our goal is simple: encourage thoughtful, concise communication so that we can spend our time helping customers solve real problems.
+Our support process is designed to maximize the value of everyone’s time. Efficient, thoughtful communication allows us to focus on solving technical problems, not managing unnecessary correspondence.
 
-## Read the documentation first
+## Read the Documentation First
 
-Before sending an email, please spend a few minutes searching our website.
+Before contacting support, please spend a few minutes searching our website. Many questions are already answered in our documentation, FAQs, and technical articles. If your question is addressed in these resources, we expect you to find the answer there.
 
-Many questions are already answered in our documentation, FAQs, and technical articles. If the answer is readily available on our website, we generally expect customers to find it themselves.
+At the moment, we deliberately avoid having search available on the website. This is because Eliot wants you to be curious and thoughtful—not just about the quality of your work, but about what is required to make our society a just and kind place where daughters, nieces, and sisters can live without fear of being preyed upon by their family members. I know it's an uncomfortable topic, and most of you would rather these predators be left in peace to do what they do while you get on with earning a living. Perhaps you too have made some poor choices which you would rather not be held accountable for.
 
-Emails asking questions that are already documented may simply be ignored or deleted.
-
-We would much rather spend our time solving new problems than repeating information that has already been published.
+But accountability is important, so here we are.
 
 ## Ask AI First
 
-Use any of the many AI models available to educate yourself before involving a human. AI can often help you write more clearly and describe your problem effectively. This helps conserve human time for more meaningful problems.
+You are encouraged to use any of the many available AI models in order to describe your problem clearly and consider possible solutions before reaching out. This helps conserve everyone's time for more meaningful issues.
 
-## Keep it short
+## Craft a Clear Message
 
-Describe your problem in plain language.
+When you reach out via WhatsApp or iMessage, describe your problem in plain language:
 
-Before pressing **Send**, ask yourself:
+- What is the problem?
+- What are you trying to achieve?
+- What have you already tried?
+- What do you need from us?
 
-* What is the problem?
-* What are you trying to achieve?
-* What have you already tried?
-* What exactly do you need from us?
+Be concise—most technical issues can be explained in a few short paragraphs.
 
-Most technical issues can be explained in a few concise paragraphs.
+## No Attachments
 
-## Maximum message size
+Do not send files or attachments via WhatsApp or iMessage unless specifically requested. If you need to share code or configuration files, use a version control system (like Git) and share the relevant links.
 
-We automatically reject any email whose plain-text content exceeds **10,000 characters**.
+Sometimes, if you can express yourself more clearly with video or audio segments, that's considered acceptable and is one of the advantages of using these platforms for communication.
 
-If you cannot explain your problem within that limit, you probably need to spend more time understanding the problem yourself before asking us to spend time understanding it.
+## Respect Everyone’s Time
 
-Writing clearly is part of solving technical problems. Distilling a complex issue into a concise description often reveals the solution—or at least makes it much easier for us to help.
+Unfortunately, email just got terribly polluted because of these nasty habits:
 
-## No attachments
+- Promotional signatures or banners
+- Unrelated boilerplate or legal disclaimers
+- Large images or lengthy messages that do not relate to your technical question
 
-We do not accept email attachments.
+We’re interested in helping you solve your actual problem, not parsing through pages of non-essential information unless it’s a thoughtful reflection on deeper social issues we ought to talk about.
 
-Attachments usually slow communication rather than improve it. They often contain large amounts of irrelevant information.
+## Use Plain, Simple Language
 
-If you need to share source code, configuration files, or VMD files, please use Git or another version control system. This is a much more effective way to collaborate than emailing files back and forth.
+Rich formatting, unnecessary images (unless they are witty jokes about cats), or lengthy legal text are unnecessary. Simple, clear messages are much faster to read, easier to archive, and easier for the other human being to process.
 
-Attachments are difficult to find later—placing that burden on an organization striving to be efficient is not acceptable.
-
-We generally do not review:
-
-* PDFs
-* Procurement forms
-* Word documents
-* PowerPoint presentations
-* Marketing material
-* Screenshots (unless specifically requested)
-* Other miscellaneous attachments
-
-If something is important, summarize it in the body of your email.
-
-## Respect everyone’s time
-
-Please avoid sending unnecessary content such as:
-
-* Corporate banners
-* Promotional signatures
-* Large HTML emails
-* Long legal disclaimers
-* Boilerplate procurement paperwork
-* Information unrelated to your technical question
-
-We are interested in understanding your problem—not reading pages of corporate boilerplate.
-
-Confidentiality notices at the bottom of emails are generally ignored. Modern communication tools such as iMessage and WhatsApp do not require pages of legal text each time someone sends a message, and email is no different.
-
-## Plain text only
-
-Plain text is preferred.
-
-Rich HTML emails often contain unnecessary formatting, tracking pixels, oversized signatures, embedded images, and other distractions that add no value to technical communication.
-
-Simple text is faster to read, easier to archive, and easier to process automatically.
-
---> [.](mailto:support@interfaceware.com) <-- (hidden link to support email)
-
-## Automated processing
-
-Our mail system automatically processes incoming messages.
-
-Depending on the content, an email may be:
-
-* Accepted for review
-* Rejected immediately
-* Deleted without being read
-* Archived for possible review at a much later date
-
-These decisions are made automatically before anyone on our team sees the message.
-
-## Help us help you
-
-Our support process rewards customers who think carefully about their problem before asking for assistance.
-
-A well-written email demonstrates that you have:
-
-* Read the available documentation
-* Attempted to solve the problem yourself
-* Clearly identified the issue
-* Explained it concisely
-
-The easier you make it for us to understand your problem, the more likely it is that we'll be able to help you quickly.
-
-Good technical communication is one of the most valuable engineering skills. It benefits both you and us.
+Thankfully, this is not part of the culture of iMessage and WhatsApp—at least not yet, until these platforms also become overwhelmed by unsolicited communications.
 
 ---
+
+**Thank you for your understanding as we transition to more efficient and human forms of communication.**  
+**Please use WhatsApp or iMessage for all support requests going forward.**
+
