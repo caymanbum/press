@@ -1,16 +1,12 @@
-# Attack Area
+# Attack Area (Attack Surface)
 
-The easiest analogy of this is to imagine a house with two doors versus one with a 1000.  The more doors exist for your house the harder it is to keep it secure, whether it be from children or family members having mental health issues getting out or malicious actors getting in.
+Think of your software like a house: the more doors it has, the harder it is to secure. In software, every endpoint, interface, or dependency is an entry point for attackers—the **attack area**. More code and more third-party libraries mean more vulnerabilities.
 
-This is the easiest way for a non technical person to understand the same concept in software.  My house in Cayman feels unsafe sometimes because there are too many doors and the locks suck in terms of only locking on the inside.
+**Java** and **JavaScript** often lead to large attack areas because they rely on extensive frameworks and many dependencies (via Maven or npm), making them harder to secure.
 
-**The attack area** (or "attack surface") of software is the sum of all points—interfaces, endpoints, or dependencies—where an external user could potentially interact with or compromise a system's code. Every line of code increases this surface, meaning that larger, more complex codebases (often common in languages like Java and JavaScript) inherently offer more opportunities for attackers to find and exploit vulnerabilities.
+**Minimalist languages like [Lua](../lua/)** are better for security because they keep codebases small, with fewer dependencies—offering fewer points for attackers to exploit and making code easier to audit and maintain.
 
-**Minimizing code and dependencies is key to reducing the attack area.** Fewer lines make code easier to audit, maintain, and secure, while excessive use of third-party frameworks or libraries multiplies possible vulnerabilities. For example, a simple Java microservice often requires hundreds of lines of code, considerable configuration (XML, servlets, etc.), and pulls in large frameworks like Spring—each a potential target. Similarly, JavaScript projects (especially those using Node.js) frequently install hundreds or even thousands of packages via npm, significantly broadening the attack area.
+**Bottom line:**  
+Less code and fewer dependencies mean a smaller, safer attack area.
 
-**In contrast, minimalist languages like Lua excel at security through simplicity.** Lua’s small standard library, minimal external dependencies, and easy auditability enable developers to build secure applications with only essential code and very little overhead. Unlike JavaScript, which typically relies on many npm modules, or Java, with numerous Maven dependencies, a default Lua script usually just requires the Lua runtime. This dramatic reduction in code and complexity translates to a much smaller attack area—fewer entry points for attackers.
-
-**In summary:**  
-Reducing the attack area is fundamental to good security. Java and JavaScript, popular as they are, can result in expansive attack surfaces due to their reliance on large runtimes and numerous dependencies. Languages like Lua, with their focus on minimalism and auditability, allow for smaller and safer attack areas—making it easier to prevent, detect, and address vulnerabilities. The fundamental principle holds: *less code and fewer dependencies means fewer places for attackers to strike.*
-
-Guess what - [Mirth Connect](attack/mirth/javascript.md) - the most popular open source HL7 engine is written in Java and uses Javascript. It's a dream for ransomware attackers come true.
+By the way: [Mirth Connect](attack/mirth/javascript.md)—a popular open-source HL7 engine—uses both Java and JavaScript, making it very difficult to secure,
