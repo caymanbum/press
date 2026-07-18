@@ -12,7 +12,7 @@ Reversing them? Of course not. That isn't how the business works.
 
 I was delighted to cancel my Manulife policy.
 
-And Monique—I haven't forgotten how uncomfortable you made that conversation. Nobody wanted to honestly hear how angry I was that they'd take my money and then help fund treatments I believed could permanently harm my family.
+And Monique—I haven't forgotten how uncomfortable you made that conversation. Nobody wanted to honestly hear how angry I was that they'd take my money and then help fund treatments I know would permanently harm my family.
 
 I didn't forget.
 
@@ -30,3 +30,4 @@ By the time I'm finished, Manulife won't be burning.
 
 Its reputation will.
 
+Shalina Shariffe and Yoschika Ramnallie I have to remember to revisit this conversation.
