@@ -1,23 +1,25 @@
-# 'Professional Developers' are Awful
+# Why I Only Work with Affiliates (and Not 'Professional Developers')
 
-I've reached the point where I honestly don't want to employ someone whose career goal is to become a *"professional developer."*
+Over time, I've realized I don't want to *employ* "professional developers"—at least, not as they're usually defined by our industry.
 
-I've learned that this often translates to someone who's permanently chasing the latest Microsoft framework, the newest AWS service with an unpronounceable acronym, or whatever JavaScript framework became obsolete sometime between breakfast and lunch.
+What I’ve seen is this: for a lot of devs, being a "pro" is all about chasing the next framework, the newest cloud acronym, or whatever flavor-of-the-week tech has just dropped on Hacker News. They’re always at conferences, not because they want to understand a client’s business or solve deep, real problems—but because every talk promises to make last week's knowledge obsolete. Shiny new tools always seem more glamorous than working code that helps a real user do a real job.
 
-They're always excited about conferences, too. Not because they're desperate to understand the customer's business or solve a genuinely difficult problem, but because there's another keynote explaining why everything they learned last year is now hopelessly outdated and needs to be replaced with this year's shiny new pile of technology.
+There's an obsession with collecting tools, certifications, and experiences—almost as if résumé padding and buzzwords are more important than *impact.*  
+*“Kubernetes! Terraform! Serverless! AI agents! Quantum blockchain microservices!”*  
+It’s like Pokémon—but with less practical use.
 
-Some developers seem to collect tools the way birdwatchers collect sightings. "Look! Kubernetes! Terraform! Serverless! AI agents! Quantum blockchain microservices!" It's like Pokémon, except instead of catching them all, they're adding them all to a résumé.
+Meanwhile, actual customers usually have simple, non-glamorous problems like:
+**“Can you make the app stop crashing so people can do their jobs?”**
 
-Meanwhile, the customer has a surprisingly modest request:
-*"Could you make the software stop crashing and let the nurses do their jobs?"*
+But fixing that isn’t talked about on podcasts or at vendor booths.
 
-That part is apparently less glamorous.
+I want something different:  
+- People who are obsessed with understanding a customer’s workflow, their frustrations, and the nitty-gritty details that make *their* world work better.
+- Partners who care more about solving a business problem than adding another logo to their LinkedIn.
+- Affiliates—peers, not employees—who see technology as a means to an end, not the be-all and end-all.
 
-I'd much rather work with someone who's fascinated by the business problem than someone who's fascinated by the tool they're hoping will solve it. The tools change every few years. Understanding a customer's workflow, their frustrations, and what actually creates value—that knowledge compounds.
+**So here’s my filter:**  
+- If you’re mainly in it to chase the latest certification, fill your résumé with buzzwords, or out-tech the next dev shop, we won’t be a match.
+- If you’re curious, business-savvy, and want to deliver real value for real people—let’s talk.
 
-Technology should be in service of the problem. Too often, modern software development seems to exist primarily to generate more software development.
-
-If your greatest ambition is to spend your career learning whatever Microsoft, AWS, or the latest venture-capital-funded startup wants to sell you this quarter, then we're probably not a great fit.
-
-I'd rather hire someone who's curious about solving real problems than someone who's collecting vendor certifications like they're achievement badges in a video game.
-
+Big companies love professional developers. I want to work with affiliates: curious generalists, business-focused troubleshooters, and people who care about solving actual problems. If that’s you, you’ll fit right in.
