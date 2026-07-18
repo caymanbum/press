@@ -11,4 +11,5 @@ It will also be the tool for my affiliates to collaborate with me and have
 access to all the tools that I have.
 
 Later it will become a broader tool for society in general to take control
-of their data.
+of their lives by giving them the tools to control their needs in the digital
+space.
