@@ -1,4 +1,4 @@
-# Ecosystems in software
+# Avoid Software Ecosystems 
 
 Things like tightly integrated toolchains, proprietary platforms, or highly interconnected libraries—are often marketed as convenient, powerful, and efficient. They promise you speed and synergy, just as casual unprotected sex might promise immediate pleasure with minimal barriers.
 
@@ -17,9 +17,5 @@ Therefore, casually hooking up with multiple software ecosystems, pulling in lot
 **In short:**  
 Just as you probably wouldn’t want to risk your health and future by recklessly having unprotected sex with many partners, you shouldn’t risk your software project’s health and future by recklessly entangling it with lots of different software ecosystems—unless you’re fully aware and prepared to deal with the consequences.
 
----
-
-Let me know if you want this made even punchier or structured differently!
-# Not interested in 'Ecosystems'
 
 
