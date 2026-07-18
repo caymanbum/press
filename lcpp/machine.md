@@ -17,4 +17,4 @@ If we use [Regression Testing](/system/regression) to do it we could make a much
 
 Imagine if an ordinary person could run one of those publishing system in a binary and it **just worked**.  That gives the foundation for a viral technology that could sweep the world and become a new, uncontrollable foundation for private computing which would meet all the important needs that ordinary citizens have.
 
-That is disruption.  That is the GOAL for the [theory of constraints](/system/theory).
+That is disruption.  That is the GOAL for the [theory of constraints](/system/toc).
