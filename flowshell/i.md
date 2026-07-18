@@ -5,6 +5,7 @@ Flow will be the resulting product when I merge FlowShell and FlowLua together.
 To install it go here for the instructions:
 
 [Explore FlowShell on GitHub](https://github.com/eliotmuirgrid/flowshell)
+
 [Explore FlowLua on GitHub](https://github.com/eliotmuirgrid/flowlua)
 
 Compilation is only supported on Linux and Mac currently but the cool thing is the same
