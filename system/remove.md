@@ -1,6 +1,7 @@
-# Removing Things from Systems is Often the Best Improvement
+# System - Reduce Entropy 
 
-It’s remarkable how universally true this is.
+It’s remarkable how universally true that the easiest way to reduce entropy in a system
+is to remove unnecessary elements.
 
 This is a fundamental concept I return to constantly. I’m currently staying somewhere safe, not because my own home is unsafe in any conventional sense — in fact, it feels remarkably secure — but because, ironically, it doesn’t feel safe at all right now.
 
