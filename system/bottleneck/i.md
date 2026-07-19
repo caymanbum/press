@@ -1,6 +1,6 @@
 # Only Solve the Largest Bottleneck
 
-This is a major idea from the Theory of Constraints. It’s profound, and it really helps you think more clearly about business, software, and indeed any system, even your home.
+This is a major idea from the [Theory of Constraints](/system/toc). It’s profound, and it really helps you think more clearly about business, software, and indeed any system, even your home.
 
 If you are fuzzy in your thinking, you can waste a lot of time not optimizing the main bottleneck.
 
