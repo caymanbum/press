@@ -1,11 +1,12 @@
 # Born in Paradise - Living in Hell
 
-This is beginning of something big in Cayman.
+This is the beginning of something big in Cayman.
 
-It's time Cayman had it's me too moment.
+It's time Cayman had its own Me Too moment.
 
 What Eliot describes is not an isolated problem.
 
-Incest is a huge problem on the island and it's time we a safe place we can tell our stories.
+Incest is a huge problem on the island, and it's time we had a safe place to tell our stories.
 
-It's long over due that this conversation was had.
+It’s long overdue that this conversation is being had.
+
